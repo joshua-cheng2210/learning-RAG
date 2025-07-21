@@ -53,13 +53,13 @@ project video reference: [RAG+Langchain Python Project: Easy AI/Chat For Your Do
 - word embeddings models dont have preset vectors for each of the words, they generate them in real time through the trained neural network
 
 
-future works to check out
+# future works to check out
 - how does vector db work? and what other uses for it?
 - other RAG approaches
 - other langchain tools
 - more types of vector db searches
     - semantic_results = db.similarity_search(query_text, k=3)
-    keyword_results = db.max_marginal_relevance_search(query_text, k=2)
+    - keyword_results = db.max_marginal_relevance_search(query_text, k=2)
 
 # how does notebook LLM gets more accurate results?
 ## Is Google Notebook LLM using RAG? How does it get accurate results?
