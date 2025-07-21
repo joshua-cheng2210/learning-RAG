@@ -147,7 +147,7 @@ def main():
         # Create HuggingFace pipeline for text generation
         hf_pipeline = pipeline(
             "text2text-generation",
-            model="google/flan-t5-base",
+            model="google/flan-t5-large",
             max_length=512,
         )
         
