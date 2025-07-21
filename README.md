@@ -46,7 +46,7 @@ python query_data.py "How does Alice meet the Mad Hatter?"
 
 project video reference: [RAG+Langchain Python Project: Easy AI/Chat For Your Docs](https://www.youtube.com/watch?v=tcqEUSNCn8I&ab_channel=pixegami).
 
-things learnt
+# things learnt
 - comparing gemini and openAI token prices for each model
 - what is chroma --> a vector database specifically designed for storing and querying embeddings
 - you need to break up all your text data into chunks and then use a word to vector embedding model to convert the text into vectors, and save those vectors in the vector db
