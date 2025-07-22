@@ -1,6 +1,7 @@
 import argparse
 # from dataclasses import dataclass
-from langchain_community.vectorstores import Chroma
+# from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 # from langchain_openai import OpenAIEmbeddings
 # from langchain_openai import ChatOpenAI
 from langchain_huggingface import HuggingFacePipeline
@@ -134,7 +135,20 @@ def main():
     embedding_function = HuggingFaceWords2Vector
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
 
-    for questions in quiz_data:
+    # Create HuggingFace pipeline for text generation
+    print("Creating HuggingFace pipeline...")
+    hf_pipeline = pipeline(
+        "text2text-generation",
+        model="google/flan-t5-base",
+        max_length=512,
+    )
+    
+    # Wrap the pipeline in LangChain
+    model = HuggingFacePipeline(pipeline=hf_pipeline)
+    print("HuggingFace pipeline created.")
+
+    for x, questions in enumerate(quiz_data, 1):
+        print(f"Question {x} of {len(quiz_data)}")
         question = questions["question"]
         options = questions["options"]
         answer = questions["answer"]
@@ -142,17 +156,8 @@ def main():
         # Search the DB.
         results = db.similarity_search_with_relevance_scores(question, k=5)
         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
-        print(f"Context: {context_text}")
+        # print(f"Context: {context_text}")
         
-        # Create HuggingFace pipeline for text generation
-        hf_pipeline = pipeline(
-            "text2text-generation",
-            model="google/flan-t5-large",
-            max_length=512,
-        )
-        
-        # Wrap the pipeline in LangChain
-        model = HuggingFacePipeline(pipeline=hf_pipeline)
 
         prompt = PROMPT_TEMPLATE.format(context=context_text, question=question, options=options)
 
@@ -160,7 +165,7 @@ def main():
         response_text = model.predict(prompt)
 
         # print(f"prompt: {prompt}\n")
-        sources = [doc.metadata.get("source", None) for doc, _score in results]
+        # sources = [doc.metadata.get("source", None) for doc, _score in results]
         # formatted_response = f"Response: {response_text}\nSources: {sources}"
         # print(formatted_response)
         print("=================================\n")
