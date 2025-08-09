@@ -41,7 +41,7 @@
     },
     {
         "question": "Who continually shouts 'Off with their heads!'?",
-        "response": "D ---",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -341,7 +341,7 @@
     },
     {
         "question": "How tall is Alice after drinking from the bottle?",
-        "response": "A ---",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -357,7 +357,7 @@
             "D - One foot"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does Alice forget when she tries to go through the little door?",
@@ -377,7 +377,7 @@
             "D - Her handkerchief"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What words are written on the cake?",
@@ -437,7 +437,7 @@
             "D - A lake"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What is the White Rabbit carrying when Alice sees him the second time?",
@@ -557,7 +557,7 @@
             "D - A swimming pool"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What kind of race do the animals run to get dry?",
@@ -637,7 +637,7 @@
             "D - Ribbons"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What story does the Mouse tell?",
@@ -801,7 +801,7 @@
     },
     {
         "question": "What color is the Caterpillar?",
-        "response": "A ---",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -817,7 +817,7 @@
             "D - Yellow"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What is the Caterpillar smoking?",
@@ -841,7 +841,7 @@
     },
     {
         "question": "What does the Caterpillar ask Alice?",
-        "response": "C ---",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -997,7 +997,7 @@
             "D - Cough"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does the Duchess's baby turn into?",
@@ -1057,11 +1057,11 @@
             "D - Change colors"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "According to the Cheshire Cat, who is mad?",
-        "response": "C ---",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1141,7 +1141,7 @@
     },
     {
         "question": "What riddle does the Mad Hatter ask Alice?",
-        "response": "A ---",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1157,7 +1157,7 @@
             "D - What gets wet while drying?"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What do they do to the Dormouse at the tea party?",
@@ -1377,7 +1377,7 @@
             "D - They are ignored"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What serves as the balls in the Queen's croquet game?",
@@ -1497,7 +1497,7 @@
             "D - The gardeners"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "Who does Alice meet while the Queen is away?",
@@ -1597,7 +1597,7 @@
             "D - Jabberwocky"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What interrupts Alice's time with the Mock Turtle and Gryphon?",

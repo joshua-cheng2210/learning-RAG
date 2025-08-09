@@ -377,7 +377,7 @@
             "D - Her handkerchief"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What words are written on the cake?",
@@ -437,7 +437,7 @@
             "D - A lake"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What is the White Rabbit carrying when Alice sees him the second time?",
@@ -637,7 +637,7 @@
             "D - Ribbons"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What story does the Mouse tell?",
@@ -1057,7 +1057,7 @@
             "D - Change colors"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "According to the Cheshire Cat, who is mad?",
@@ -1377,7 +1377,7 @@
             "D - They are ignored"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What serves as the balls in the Queen's croquet game?",

@@ -321,7 +321,7 @@
     },
     {
         "question": "What flavors does the 'DRINK ME' bottle taste like?",
-        "response": "Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -337,7 +337,7 @@
             "D - Lemon and honey"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "How tall is Alice after drinking from the bottle?",
@@ -437,7 +437,7 @@
             "D - A lake"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What is the White Rabbit carrying when Alice sees him the second time?",
@@ -557,7 +557,7 @@
             "D - A swimming pool"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What kind of race do the animals run to get dry?",
@@ -621,7 +621,7 @@
     },
     {
         "question": "What does Alice give out as prizes?",
-        "response": "Comfits (sweets) ---",
+        "response": "Comfits (sweets)",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -637,7 +637,7 @@
             "D - Ribbons"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What story does the Mouse tell?",
@@ -757,7 +757,7 @@
             "D - Mud"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "Who goes down the chimney to get Alice out?",
@@ -801,7 +801,7 @@
     },
     {
         "question": "What color is the Caterpillar?",
-        "response": "A ---",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -817,7 +817,7 @@
             "D - Yellow"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What is the Caterpillar smoking?",
@@ -861,7 +861,7 @@
     },
     {
         "question": "What height does the Caterpillar think is good?",
-        "response": "A ---",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -877,7 +877,7 @@
             "D - Two feet"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does Alice recite for the Caterpillar?",
@@ -917,7 +917,7 @@
             "D - It's magical"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What happens when Alice eats from the wrong side of the mushroom first?",
@@ -981,7 +981,7 @@
     },
     {
         "question": "What does everyone except the cook and Cheshire Cat do because of the pepper?",
-        "response": "Sneeze B ---",
+        "response": "Sneeze B",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1057,7 +1057,7 @@
             "D - Change colors"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "According to the Cheshire Cat, who is mad?",
@@ -1121,7 +1121,7 @@
     },
     {
         "question": "What does Alice say she has had to drink at the tea table?",
-        "response": "C ---",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1141,7 +1141,7 @@
     },
     {
         "question": "What riddle does the Mad Hatter ask Alice?",
-        "response": "A ---",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1157,7 +1157,7 @@
             "D - What gets wet while drying?"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What do they do to the Dormouse at the tea party?",
@@ -1377,7 +1377,7 @@
             "D - They are ignored"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What serves as the balls in the Queen's croquet game?",
@@ -1501,7 +1501,7 @@
     },
     {
         "question": "Who does Alice meet while the Queen is away?",
-        "response": "D ---",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",

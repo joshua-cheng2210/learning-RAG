@@ -337,7 +337,7 @@
             "D - Lemon and honey"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "How tall is Alice after drinking from the bottle?",
@@ -377,7 +377,7 @@
             "D - Her handkerchief"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What words are written on the cake?",
@@ -437,7 +437,7 @@
             "D - A lake"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What is the White Rabbit carrying when Alice sees him the second time?",
@@ -457,7 +457,7 @@
             "D - A book and a pen"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "Who is the White Rabbit worried about keeping waiting?",
@@ -557,7 +557,7 @@
             "D - A swimming pool"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What kind of race do the animals run to get dry?",
@@ -637,7 +637,7 @@
             "D - Ribbons"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What story does the Mouse tell?",
@@ -1057,7 +1057,7 @@
             "D - Change colors"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "According to the Cheshire Cat, who is mad?",
@@ -1077,7 +1077,7 @@
             "D - Only Alice"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does the Cheshire Cat say about being mad?",
@@ -1417,7 +1417,7 @@
             "D - Flowers"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "Why is the croquet game so difficult?",
@@ -1497,7 +1497,7 @@
             "D - The gardeners"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "Who does Alice meet while the Queen is away?",
