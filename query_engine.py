@@ -104,6 +104,10 @@ class QueryEngine:
             print(f"Error searching database: {e}")
             return []
     
+    def filter_response(self, response):
+        edit_response = response.replace('-', '').strip()
+        return edit_response
+
     def generate_response(self, question, options, context_text):
         """Generate a response using the LLM."""
         if not self.initialize_llm():
@@ -120,6 +124,7 @@ class QueryEngine:
         try:
             # Use the HuggingFace model to generate response
             response_text = self.model.invoke(prompt)
+            response_text = self.filter_response(response_text)
             return response_text
         except Exception as e:
             print(f"Error generating response: {e}")

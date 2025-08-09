@@ -7,7 +7,8 @@
             "B - A bottle labeled 'DRINK ME'",
             "C - A mushroom",
             "D - A fan"
-        ]
+        ],
+        "correct_answer": "B"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -17,7 +18,8 @@
             "B - To eat more cake",
             "C - To drink from the bottle",
             "D - To fan herself rapidly"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -27,7 +29,8 @@
             "B - They enjoy tea more than any other meal",
             "C - It's a riddle they are trying to solve",
             "D - They are waiting for someone to join them"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -37,7 +40,8 @@
             "B - Making a daisy chain",
             "C - Playing in the garden",
             "D - Having tea"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -47,7 +51,8 @@
             "B - Strawberry and cream",
             "C - Chocolate and vanilla",
             "D - Lemon and honey"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -57,7 +62,8 @@
             "B - Her shoes",
             "C - Her book",
             "D - Her handkerchief"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -67,7 +73,8 @@
             "B - A small puddle",
             "C - A river",
             "D - A lake"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -77,7 +84,8 @@
             "B - A trumpet and a scroll",
             "C - A bag and an umbrella",
             "D - A book and a pen"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -87,7 +95,8 @@
             "B - The sea",
             "C - A pond",
             "D - A swimming pool"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -97,7 +106,8 @@
             "B - Coins",
             "C - Flowers",
             "D - Ribbons"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -107,7 +117,8 @@
             "B - A fairy tale",
             "C - An adventure story",
             "D - A ghost story"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -117,7 +128,8 @@
             "B - Talks to him",
             "C - Hides from him",
             "D - Helps him down"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -127,7 +139,8 @@
             "B - It's poisonous",
             "C - It tastes good",
             "D - It's magical"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -137,7 +150,8 @@
             "B - Talk",
             "C - Fly",
             "D - Change colors"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -147,7 +161,8 @@
             "B - Only the Mad Hatter",
             "C - Only the March Hare",
             "D - Only Alice"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -157,7 +172,8 @@
             "B - They want to surprise the Queen",
             "C - The roses are dying",
             "D - It's their job"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -167,7 +183,8 @@
             "B - They are promoted",
             "C - They are thanked",
             "D - They are ignored"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -177,7 +194,8 @@
             "B - Trees",
             "C - Regular hoops",
             "D - Flowers"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -187,7 +205,8 @@
             "B - The ground is uneven",
             "C - There are too many players",
             "D - The rules keep changing"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -197,7 +216,8 @@
             "B - Alice",
             "C - The King",
             "D - The gardeners"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -207,7 +227,8 @@
             "B - The Waltz",
             "C - The Tango",
             "D - The Ballet"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -217,7 +238,8 @@
             "B - Alice",
             "C - The Mad Hatter",
             "D - The White Rabbit"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -227,7 +249,261 @@
             "B - The evidence",
             "C - The verdict",
             "D - A poem"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A small cake with 'EAT ME' written on it",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "The golden key",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "White kid gloves and a large fan",
+        "options": [
+            "A - White kid gloves and a large fan",
+            "B - A trumpet and a scroll",
+            "C - A bag and an umbrella",
+            "D - A book and a pen"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Kicks him up the chimney",
+            "B - Talks to him",
+            "C - Hides from him",
+            "D - Helps him down"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "Everyone in Wonderland",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - They planted white roses by mistake and the Queen wants red",
+            "B - They want to surprise the Queen",
+            "C - The roses are dying",
+            "D - It's their job"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "They are ignored Respond only the Letter of the correct choices like A, B, C and D",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "The executioner argues it's impossible to cut off a head without a body",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Lobster Quadrille",
+            "B - The Waltz",
+            "C - The Tango",
+            "D - The Ballet"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_MiniLM_L6_v2",
+        "response": "B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -237,7 +513,8 @@
             "B - To eat more cake",
             "C - To drink from the bottle",
             "D - To fan herself rapidly"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -247,7 +524,8 @@
             "B - They enjoy tea more than any other meal",
             "C - It's a riddle they are trying to solve",
             "D - They are waiting for someone to join them"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -257,17 +535,19 @@
             "B - Making a daisy chain",
             "C - Playing in the garden",
             "D - Having tea"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
-        "response": "Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
         "options": [
             "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
             "B - Strawberry and cream",
             "C - Chocolate and vanilla",
             "D - Lemon and honey"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -277,7 +557,8 @@
             "B - A small puddle",
             "C - A river",
             "D - A lake"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -287,17 +568,19 @@
             "B - The sea",
             "C - A pond",
             "D - A swimming pool"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
-        "response": "Comfits (sweets) ---",
+        "response": "Comfits (sweets)",
         "options": [
             "A - Comfits (sweets)",
             "B - Coins",
             "C - Flowers",
             "D - Ribbons"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -307,7 +590,8 @@
             "B - She's too tall",
             "C - She's too small",
             "D - She's crying too much"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -317,27 +601,8 @@
             "B - Stones",
             "C - Flowers",
             "D - Mud"
-        ]
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "response": "A ---",
-        "options": [
-            "A - Blue",
-            "B - Green",
-            "C - Red",
-            "D - Yellow"
-        ]
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "response": "A ---",
-        "options": [
-            "A - Three inches",
-            "B - Six inches",
-            "C - One foot",
-            "D - Two feet"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -347,7 +612,8 @@
             "B - Twinkle, twinkle little star",
             "C - How doth the little crocodile",
             "D - Mary had a little lamb"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -357,17 +623,19 @@
             "B - It's poisonous",
             "C - It tastes good",
             "D - It's magical"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
-        "response": "Sneeze B ---",
+        "response": "Sneeze B",
         "options": [
             "A - Sneeze",
             "B - Cry",
             "C - Laugh",
             "D - Cough"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -377,7 +645,8 @@
             "B - Talk",
             "C - Fly",
             "D - Change colors"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -387,27 +656,8 @@
             "B - Only the Mad Hatter",
             "C - Only the March Hare",
             "D - Only Alice"
-        ]
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "response": "C ---",
-        "options": [
-            "A - Nothing",
-            "B - Milk",
-            "C - Tea",
-            "D - Water"
-        ]
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "response": "A ---",
-        "options": [
-            "A - Why is a raven like a writing desk?",
-            "B - What is black and white and read all over?",
-            "C - What has four legs but can't walk?",
-            "D - What gets wet while drying?"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -417,7 +667,8 @@
             "B - He was always late",
             "C - He broke his watch",
             "D - He forgot an appointment"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -427,7 +678,8 @@
             "B - They are promoted",
             "C - They are thanked",
             "D - They are ignored"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -437,17 +689,8 @@
             "B - Trees",
             "C - Regular hoops",
             "D - Flowers"
-        ]
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "response": "D ---",
-        "options": [
-            "A - The Gryphon",
-            "B - The Mad Hatter",
-            "C - The Caterpillar",
-            "D - The Duchess"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -457,7 +700,8 @@
             "B - The Gryphon",
             "C - The Duchess",
             "D - The Queen"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -467,7 +711,8 @@
             "B - The Queen calling",
             "C - Dinner time",
             "D - A thunderstorm"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -477,17 +722,19 @@
             "B - Alice",
             "C - The Mad Hatter",
             "D - The White Rabbit"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
-        "response": "A ---",
+        "response": "A small cake with 'EAT ME' written on it",
         "options": [
-            "A - The Cheshire Cat",
-            "B - The March Hare",
-            "C - The Dormouse",
-            "D - The Caterpillar"
-        ]
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -497,7 +744,8 @@
             "B - To eat more cake",
             "C - To drink from the bottle",
             "D - To fan herself rapidly"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -507,7 +755,8 @@
             "B - They enjoy tea more than any other meal",
             "C - It's a riddle they are trying to solve",
             "D - They are waiting for someone to join them"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -517,17 +766,30 @@
             "B - Making a daisy chain",
             "C - Playing in the garden",
             "D - Having tea"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
-        "response": "Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
         "options": [
             "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
             "B - Strawberry and cream",
             "C - Chocolate and vanilla",
             "D - Lemon and honey"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "The golden key",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -537,7 +799,19 @@
             "B - A small puddle",
             "C - A river",
             "D - A lake"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "White kid gloves and a large fan",
+        "options": [
+            "A - White kid gloves and a large fan",
+            "B - A trumpet and a scroll",
+            "C - A bag and an umbrella",
+            "D - A book and a pen"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -547,7 +821,8 @@
             "B - The sea",
             "C - A pond",
             "D - A swimming pool"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -557,67 +832,41 @@
             "B - Coins",
             "C - Flowers",
             "D - Ribbons"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
-        "response": "A ---",
+        "response": "A, B, C and D",
         "options": [
-            "A - Blue",
-            "B - Green",
-            "C - Red",
-            "D - Yellow"
-        ]
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
-        "response": "A ---",
+        "response": "A, B, C and D",
         "options": [
-            "A - Three inches",
-            "B - Six inches",
-            "C - One foot",
-            "D - Two feet"
-        ]
+            "A - Kicks him up the chimney",
+            "B - Talks to him",
+            "C - Hides from him",
+            "D - Helps him down"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
-        "response": "You are old, Father William",
-        "options": [
-            "A - You are old, Father William",
-            "B - Twinkle, twinkle little star",
-            "C - How doth the little crocodile",
-            "D - Mary had a little lamb"
-        ]
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "response": "One side makes you grow taller, the other shorter",
+        "response": "A, B, C and D",
         "options": [
             "A - One side makes you grow taller, the other shorter",
             "B - It's poisonous",
             "C - It tastes good",
             "D - It's magical"
-        ]
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "response": "Sneeze",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ]
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "response": "B ---",
-        "options": [
-            "A - In a tree",
-            "B - On the ground",
-            "C - In the house",
-            "D - In the garden"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -627,7 +876,8 @@
             "B - Talk",
             "C - Fly",
             "D - Change colors"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -637,27 +887,30 @@
             "B - Only the Mad Hatter",
             "C - Only the March Hare",
             "D - Only Alice"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
         "response": "A, B, C and D",
         "options": [
-            "A - He murdered the time while singing",
-            "B - He was always late",
-            "C - He broke his watch",
-            "D - He forgot an appointment"
-        ]
+            "A - They planted white roses by mistake and the Queen wants red",
+            "B - They want to surprise the Queen",
+            "C - The roses are dying",
+            "D - It's their job"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
-        "response": "The Queen orders their heads to be cut off",
+        "response": "They are ignored Respond only the Letter of the correct choices like A, B, C and D",
         "options": [
             "A - The Queen orders their heads to be cut off",
             "B - They are promoted",
             "C - They are thanked",
             "D - They are ignored"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -667,37 +920,52 @@
             "B - Trees",
             "C - Regular hoops",
             "D - Flowers"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
         "response": "A, B, C and D",
         "options": [
-            "A - The appearance of the Cheshire Cat's head",
-            "B - Alice cheating",
-            "C - The Queen's anger",
-            "D - A thunderstorm"
-        ]
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
-        "response": "B --- \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup! --- \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014 --- \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014 --- \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014 --- \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
+        "response": "The executioner argues it's impossible to cut off a head without a body",
         "options": [
-            "A - 'Tis the Voice of the Lobster",
-            "B - Beautiful Soup",
-            "C - The Walrus and the Carpenter",
-            "D - Jabberwocky"
-        ]
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
         "response": "A, B, C and D",
         "options": [
-            "A - News of a trial beginning",
-            "B - The Queen calling",
-            "C - Dinner time",
-            "D - A thunderstorm"
-        ]
+            "A - The Lobster Quadrille",
+            "B - The Waltz",
+            "C - The Tango",
+            "D - The Ballet"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -707,7 +975,437 @@
             "B - The evidence",
             "C - The verdict",
             "D - A poem"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Respond only the Letter of the correct choices like A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - She mentions her cat Dinah",
+            "B - She's too tall",
+            "C - She's too small",
+            "D - She's crying too much"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Pebbles that turn into cakes",
+        "options": [
+            "A - Pebbles that turn into cakes",
+            "B - Stones",
+            "C - Flowers",
+            "D - Mud"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Sneeze B",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mock Turtle",
+            "B - The Gryphon",
+            "C - The Duchess",
+            "D - The Queen"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "You are old, Father William",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Everyone in Wonderland",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The appearance of the Cheshire Cat's head",
+            "B - Alice cheating",
+            "C - The Queen's anger",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "all_mpnet_base_v2",
+        "response": "B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -717,17 +1415,701 @@
             "B - The Queen, King, and Knave",
             "C - The Cheshire Cat, Mock Turtle, and Gryphon",
             "D - The gardeners"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
-        "response": "D ---",
+        "response": "A small cake with 'EAT ME' written on it",
         "options": [
-            "A - The Queen of Hearts",
-            "B - The King of Hearts",
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "The golden key",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "White kid gloves and a large fan",
+        "options": [
+            "A - White kid gloves and a large fan",
+            "B - A trumpet and a scroll",
+            "C - A bag and an umbrella",
+            "D - A book and a pen"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Kicks him up the chimney",
+            "B - Talks to him",
+            "C - Hides from him",
+            "D - Helps him down"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Everyone in Wonderland",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - They planted white roses by mistake and the Queen wants red",
+            "B - They want to surprise the Queen",
+            "C - The roses are dying",
+            "D - It's their job"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "They are ignored Respond only the Letter of the correct choices like A, B, C and D",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "The executioner argues it's impossible to cut off a head without a body",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Lobster Quadrille",
+            "B - The Waltz",
+            "C - The Tango",
+            "D - The Ballet"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Respond only the Letter of the correct choices like A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - She mentions her cat Dinah",
+            "B - She's too tall",
+            "C - She's too small",
+            "D - She's crying too much"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Pebbles that turn into cakes",
+        "options": [
+            "A - Pebbles that turn into cakes",
+            "B - Stones",
+            "C - Flowers",
+            "D - Mud"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Sneeze B",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mock Turtle",
+            "B - The Gryphon",
             "C - The Duchess",
-            "D - The Gryphon"
-        ]
+            "D - The Queen"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "You are old, Father William",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Everyone in Wonderland",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The appearance of the Cheshire Cat's head",
+            "B - Alice cheating",
+            "C - The Queen's anger",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "bge_large_en",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -737,7 +2119,8 @@
             "B - To eat more cake",
             "C - To drink from the bottle",
             "D - To fan herself rapidly"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -747,7 +2130,8 @@
             "B - They enjoy tea more than any other meal",
             "C - It's a riddle they are trying to solve",
             "D - They are waiting for someone to join them"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -757,7 +2141,8 @@
             "B - Making a daisy chain",
             "C - Playing in the garden",
             "D - Having tea"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -767,17 +2152,8 @@
             "B - A handkerchief",
             "C - A key",
             "D - A letter"
-        ]
-    },
-    {
-        "model": "bge_large_en",
-        "response": "A ---",
-        "options": [
-            "A - Ten inches",
-            "B - Five inches",
-            "C - Two feet",
-            "D - One foot"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -787,7 +2163,8 @@
             "B - Her shoes",
             "C - Her book",
             "D - Her handkerchief"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -797,7 +2174,8 @@
             "B - TAKE ME",
             "C - TRY ME",
             "D - BITE ME"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -807,7 +2185,8 @@
             "B - A small puddle",
             "C - A river",
             "D - A lake"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -817,7 +2196,8 @@
             "B - The gloves",
             "C - Another bottle",
             "D - A magic word"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -827,7 +2207,8 @@
             "B - The sea",
             "C - A pond",
             "D - A swimming pool"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -837,7 +2218,8 @@
             "B - Coins",
             "C - Flowers",
             "D - Ribbons"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -847,7 +2229,8 @@
             "B - A fairy tale",
             "C - An adventure story",
             "D - A ghost story"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -857,27 +2240,8 @@
             "B - Stones",
             "C - Flowers",
             "D - Mud"
-        ]
-    },
-    {
-        "model": "bge_large_en",
-        "response": "A ---",
-        "options": [
-            "A - Blue",
-            "B - Green",
-            "C - Red",
-            "D - Yellow"
-        ]
-    },
-    {
-        "model": "bge_large_en",
-        "response": "C ---",
-        "options": [
-            "A - Who are you?",
-            "B - Where are you going?",
-            "C - What do you want?",
-            "D - How old are you?"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -887,7 +2251,8 @@
             "B - It's poisonous",
             "C - It tastes good",
             "D - It's magical"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -897,7 +2262,8 @@
             "B - Cry",
             "C - Laugh",
             "D - Cough"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -907,27 +2273,8 @@
             "B - Talk",
             "C - Fly",
             "D - Change colors"
-        ]
-    },
-    {
-        "model": "bge_large_en",
-        "response": "C ---",
-        "options": [
-            "A - Everyone in Wonderland",
-            "B - Only the Mad Hatter",
-            "C - Only the March Hare",
-            "D - Only Alice"
-        ]
-    },
-    {
-        "model": "bge_large_en",
-        "response": "A ---",
-        "options": [
-            "A - Why is a raven like a writing desk?",
-            "B - What is black and white and read all over?",
-            "C - What has four legs but can't walk?",
-            "D - What gets wet while drying?"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -937,7 +2284,8 @@
             "B - He was always late",
             "C - He broke his watch",
             "D - He forgot an appointment"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -947,7 +2295,8 @@
             "B - They are promoted",
             "C - They are thanked",
             "D - They are ignored"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -957,7 +2306,8 @@
             "B - Trees",
             "C - Regular hoops",
             "D - Flowers"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -967,7 +2317,8 @@
             "B - Alice",
             "C - The King",
             "D - The gardeners"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -977,7 +2328,8 @@
             "B - Beautiful Soup",
             "C - The Walrus and the Carpenter",
             "D - Jabberwocky"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -987,7 +2339,8 @@
             "B - The Queen calling",
             "C - Dinner time",
             "D - A thunderstorm"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -997,7 +2350,8 @@
             "B - The evidence",
             "C - The verdict",
             "D - A poem"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "bge_large_en",
@@ -1007,7 +2361,8 @@
             "B - The Queen, King, and Knave",
             "C - The Cheshire Cat, Mock Turtle, and Gryphon",
             "D - The gardeners"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1017,17 +2372,8 @@
             "B - A bottle labeled 'DRINK ME'",
             "C - A mushroom",
             "D - A fan"
-        ]
-    },
-    {
-        "model": "e5_base_v2",
-        "response": "A, B, C and D",
-        "options": [
-            "A - The Cheshire Cat",
-            "B - The March Hare",
-            "C - The Dormouse",
-            "D - The Caterpillar"
-        ]
+        ],
+        "correct_answer": "B"
     },
     {
         "model": "e5_base_v2",
@@ -1037,7 +2383,8 @@
             "B - To eat more cake",
             "C - To drink from the bottle",
             "D - To fan herself rapidly"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1047,7 +2394,8 @@
             "B - They enjoy tea more than any other meal",
             "C - It's a riddle they are trying to solve",
             "D - They are waiting for someone to join them"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1057,7 +2405,19 @@
             "B - Making a daisy chain",
             "C - Playing in the garden",
             "D - Having tea"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1067,7 +2427,8 @@
             "B - Her shoes",
             "C - Her book",
             "D - Her handkerchief"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1077,17 +2438,19 @@
             "B - A small puddle",
             "C - A river",
             "D - A lake"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
-        "response": "A, B, C and D",
+        "response": "White kid gloves and a large fan",
         "options": [
-            "A - The White Rabbit's fan",
-            "B - The gloves",
-            "C - Another bottle",
-            "D - A magic word"
-        ]
+            "A - White kid gloves and a large fan",
+            "B - A trumpet and a scroll",
+            "C - A bag and an umbrella",
+            "D - A book and a pen"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1097,7 +2460,8 @@
             "B - The sea",
             "C - A pond",
             "D - A swimming pool"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1107,7 +2471,8 @@
             "B - Coins",
             "C - Flowers",
             "D - Ribbons"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1117,47 +2482,30 @@
             "B - A fairy tale",
             "C - An adventure story",
             "D - A ghost story"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
         "response": "A, B, C and D",
         "options": [
-            "A - She mentions her cat Dinah",
-            "B - She's too tall",
-            "C - She's too small",
-            "D - She's crying too much"
-        ]
+            "A - Kicks him up the chimney",
+            "B - Talks to him",
+            "C - Hides from him",
+            "D - Helps him down"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
-        "response": "You are old, Father William",
-        "options": [
-            "A - You are old, Father William",
-            "B - Twinkle, twinkle little star",
-            "C - How doth the little crocodile",
-            "D - Mary had a little lamb"
-        ]
-    },
-    {
-        "model": "e5_base_v2",
-        "response": "One side makes you grow taller, the other shorter",
+        "response": "A, B, C and D",
         "options": [
             "A - One side makes you grow taller, the other shorter",
             "B - It's poisonous",
             "C - It tastes good",
             "D - It's magical"
-        ]
-    },
-    {
-        "model": "e5_base_v2",
-        "response": "Sneeze",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1167,37 +2515,41 @@
             "B - Talk",
             "C - Fly",
             "D - Change colors"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
-        "response": "A, B, C and D",
+        "response": "Everyone in Wonderland",
         "options": [
             "A - Everyone in Wonderland",
             "B - Only the Mad Hatter",
             "C - Only the March Hare",
             "D - Only Alice"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
         "response": "A, B, C and D",
         "options": [
-            "A - He murdered the time while singing",
-            "B - He was always late",
-            "C - He broke his watch",
-            "D - He forgot an appointment"
-        ]
+            "A - They planted white roses by mistake and the Queen wants red",
+            "B - They want to surprise the Queen",
+            "C - The roses are dying",
+            "D - It's their job"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
-        "response": "The Queen orders their heads to be cut off",
+        "response": "They are ignored Respond only the Letter of the correct choices like A, B, C and D",
         "options": [
             "A - The Queen orders their heads to be cut off",
             "B - They are promoted",
             "C - They are thanked",
             "D - They are ignored"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1207,7 +2559,19 @@
             "B - Trees",
             "C - Regular hoops",
             "D - Flowers"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1217,7 +2581,239 @@
             "B - Alice",
             "C - The King",
             "D - The gardeners"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Lobster Quadrille",
+            "B - The Waltz",
+            "C - The Tango",
+            "D - The Ballet"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Respond only the Letter of the correct choices like A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - She mentions her cat Dinah",
+            "B - She's too tall",
+            "C - She's too small",
+            "D - She's crying too much"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Pebbles that turn into cakes",
+        "options": [
+            "A - Pebbles that turn into cakes",
+            "B - Stones",
+            "C - Flowers",
+            "D - Mud"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Sneeze B",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mock Turtle",
+            "B - The Gryphon",
+            "C - The Duchess",
+            "D - The Queen"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1227,17 +2823,228 @@
             "B - The Queen calling",
             "C - Dinner time",
             "D - A thunderstorm"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
         "response": "A, B, C and D",
         "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "You are old, Father William",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Everyone in Wonderland",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The appearance of the Cheshire Cat's head",
+            "B - Alice cheating",
+            "C - The Queen's anger",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "B, C and D",
+        "options": [
             "A - The charges against the Knave",
             "B - The evidence",
             "C - The verdict",
             "D - A poem"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1247,7 +3054,525 @@
             "B - The Queen, King, and Knave",
             "C - The Cheshire Cat, Mock Turtle, and Gryphon",
             "D - The gardeners"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Respond only the Letter of the correct options like A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A letter",
+        "options": [
+            "A - A watch",
+            "B - A handkerchief",
+            "C - A key",
+            "D - A letter"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "The golden key",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - EAT ME",
+            "B - TAKE ME",
+            "C - TRY ME",
+            "D - BITE ME"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The White Rabbit's fan",
+            "B - The gloves",
+            "C - Another bottle",
+            "D - A magic word"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Pebbles that turn into cakes",
+            "B - Stones",
+            "C - Flowers",
+            "D - Mud"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "The executioner argues it's impossible to cut off a head without a body",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "'Tis the Voice of the Lobster",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A small cake with 'EAT ME' written on it",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Cheshire Cat",
+            "B - The March Hare",
+            "C - The Dormouse",
+            "D - The Caterpillar"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "The golden key",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The White Rabbit's fan",
+            "B - The gloves",
+            "C - Another bottle",
+            "D - A magic word"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - She mentions her cat Dinah",
+            "B - She's too tall",
+            "C - She's too small",
+            "D - She's crying too much"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "You are old, Father William",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "The executioner argues it's impossible to cut off a head without a body",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "e5_base_v2",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "e5_base_v2",
@@ -1257,7 +3582,19 @@
             "B - It's very convincing",
             "C - It's confusing",
             "D - It's false"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A small cake with 'EAT ME' written on it",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1267,7 +3604,8 @@
             "B - To eat more cake",
             "C - To drink from the bottle",
             "D - To fan herself rapidly"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1277,7 +3615,8 @@
             "B - They enjoy tea more than any other meal",
             "C - It's a riddle they are trying to solve",
             "D - They are waiting for someone to join them"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1287,17 +3626,19 @@
             "B - Making a daisy chain",
             "C - Playing in the garden",
             "D - Having tea"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
-        "response": "Orange marmalade",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
         "options": [
-            "A - Nothing, it was empty",
-            "B - Orange marmalade",
-            "C - A key",
-            "D - A note"
-        ]
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1307,7 +3648,8 @@
             "B - Her shoes",
             "C - Her book",
             "D - Her handkerchief"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1317,17 +3659,30 @@
             "B - A small puddle",
             "C - A river",
             "D - A lake"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
-        "response": "A, B, C and D",
+        "response": "White kid gloves and a large fan",
         "options": [
-            "A - The White Rabbit's fan",
-            "B - The gloves",
-            "C - Another bottle",
-            "D - A magic word"
-        ]
+            "A - White kid gloves and a large fan",
+            "B - A trumpet and a scroll",
+            "C - A bag and an umbrella",
+            "D - A book and a pen"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1337,27 +3692,30 @@
             "B - Coins",
             "C - Flowers",
             "D - Ribbons"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
         "response": "A, B, C and D",
         "options": [
-            "A - His gloves and fan",
-            "B - His watch",
-            "C - His hat",
-            "D - His coat"
-        ]
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
         "response": "A, B, C and D",
         "options": [
-            "A - You are old, Father William",
-            "B - Twinkle, twinkle little star",
-            "C - How doth the little crocodile",
-            "D - Mary had a little lamb"
-        ]
+            "A - Kicks him up the chimney",
+            "B - Talks to him",
+            "C - Hides from him",
+            "D - Helps him down"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1367,17 +3725,8 @@
             "B - It's poisonous",
             "C - It tastes good",
             "D - It's magical"
-        ]
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "response": "Cough",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1387,7 +3736,250 @@
             "B - Talk",
             "C - Fly",
             "D - Change colors"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Everyone in Wonderland",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - They planted white roses by mistake and the Queen wants red",
+            "B - They want to surprise the Queen",
+            "C - The roses are dying",
+            "D - It's their job"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "They are ignored Respond only the Letter of the correct choices like A, B, C and D",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The executioner argues it's impossible to cut off a head without a body",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Lobster Quadrille",
+            "B - The Waltz",
+            "C - The Tango",
+            "D - The Ballet"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Respond only the Letter of the correct choices like A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - She mentions her cat Dinah",
+            "B - She's too tall",
+            "C - She's too small",
+            "D - She's crying too much"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Pebbles that turn into cakes",
+        "options": [
+            "A - Pebbles that turn into cakes",
+            "B - Stones",
+            "C - Flowers",
+            "D - Mud"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Sneeze B",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1397,27 +3989,8 @@
             "B - Only the Mad Hatter",
             "C - Only the March Hare",
             "D - Only Alice"
-        ]
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "response": "A, B, C and D",
-        "options": [
-            "A - A tea party",
-            "B - A birthday party",
-            "C - A wedding",
-            "D - A funeral"
-        ]
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "response": "A, B, C and D",
-        "options": [
-            "A - Put him in the teapot and use him as a cushion",
-            "B - Wake him up",
-            "C - Feed him",
-            "D - Ignore him"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1427,17 +4000,8 @@
             "B - He was always late",
             "C - He broke his watch",
             "D - He forgot an appointment"
-        ]
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "response": "A, B, C and D",
-        "options": [
-            "A - The long hall with the glass table",
-            "B - Another tea party",
-            "C - The Queen's garden",
-            "D - Her sister"
-        ]
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1447,7 +4011,30 @@
             "B - They are promoted",
             "C - They are thanked",
             "D - They are ignored"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mock Turtle",
+            "B - The Gryphon",
+            "C - The Duchess",
+            "D - The Queen"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1457,7 +4044,470 @@
             "B - The Queen calling",
             "C - Dinner time",
             "D - A thunderstorm"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "You are old, Father William",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Everyone in Wonderland",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The appearance of the Cheshire Cat's head",
+            "B - Alice cheating",
+            "C - The Queen's anger",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Respond only the Letter of the correct options like A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A letter",
+        "options": [
+            "A - A watch",
+            "B - A handkerchief",
+            "C - A key",
+            "D - A letter"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The golden key",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - EAT ME",
+            "B - TAKE ME",
+            "C - TRY ME",
+            "D - BITE ME"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The White Rabbit's fan",
+            "B - The gloves",
+            "C - Another bottle",
+            "D - A magic word"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Pebbles that turn into cakes",
+            "B - Stones",
+            "C - Flowers",
+            "D - Mud"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The executioner argues it's impossible to cut off a head without a body",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "'Tis the Voice of the Lobster",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1467,6 +4517,524 @@
             "B - The evidence",
             "C - The verdict",
             "D - A poem"
-        ]
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A small cake with 'EAT ME' written on it",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Cheshire Cat",
+            "B - The March Hare",
+            "C - The Dormouse",
+            "D - The Caterpillar"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The golden key",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The White Rabbit's fan",
+            "B - The gloves",
+            "C - Another bottle",
+            "D - A magic word"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Salt water from her own tears",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - She mentions her cat Dinah",
+            "B - She's too tall",
+            "C - She's too small",
+            "D - She's crying too much"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "You are old, Father William",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Soldiers bent over",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The executioner argues it's impossible to cut off a head without a body",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - It proves nothing",
+            "B - It's very convincing",
+            "C - It's confusing",
+            "D - It's false"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Orange marmalade",
+        "options": [
+            "A - Nothing, it was empty",
+            "B - Orange marmalade",
+            "C - A key",
+            "D - A note"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The golden key",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A large pool of tears",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The White Rabbit's fan",
+            "B - The gloves",
+            "C - Another bottle",
+            "D - A magic word"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - His gloves and fan",
+            "B - His watch",
+            "C - His hat",
+            "D - His coat"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Cough",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "Disappear and leave only its grin",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - A tea party",
+            "B - A birthday party",
+            "C - A wedding",
+            "D - A funeral"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - Put him in the teapot and use him as a cushion",
+            "B - Wake him up",
+            "C - Feed him",
+            "D - Ignore him"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The long hall with the glass table",
+            "B - Another tea party",
+            "C - The Queen's garden",
+            "D - Her sister"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "The Queen orders their heads to be cut off",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1",
+        "response": "A, B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A"
     }
 ]
