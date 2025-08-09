@@ -53,84 +53,6 @@
     },
     {
         "model": "all_MiniLM_L12_v2",
-        "original_response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-        "edit_response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-        "options": [
-            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-            "B - Strawberry and cream",
-            "C - Chocolate and vanilla",
-            "D - Lemon and honey"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "The golden key",
-        "edit_response": "The golden key",
-        "options": [
-            "A - The golden key",
-            "B - Her shoes",
-            "C - Her book",
-            "D - Her handkerchief"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The golden key"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A large pool of tears",
-        "edit_response": "A large pool of tears",
-        "options": [
-            "A - A large pool of tears",
-            "B - A small puddle",
-            "C - A river",
-            "D - A lake"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A large pool of tears"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "White kid gloves and a large fan",
-        "edit_response": "White kid gloves and a large fan",
-        "options": [
-            "A - White kid gloves and a large fan",
-            "B - A trumpet and a scroll",
-            "C - A bag and an umbrella",
-            "D - A book and a pen"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "White kid gloves and a large fan"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "Salt water from her own tears",
-        "edit_response": "Salt water from her own tears",
-        "options": [
-            "A - Salt water from her own tears",
-            "B - The sea",
-            "C - A pond",
-            "D - A swimming pool"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Salt water from her own tears"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "Comfits (sweets)",
-        "edit_response": "Comfits (sweets)",
-        "options": [
-            "A - Comfits (sweets)",
-            "B - Coins",
-            "C - Flowers",
-            "D - Ribbons"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Comfits (sweets)"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -170,32 +92,6 @@
     },
     {
         "model": "all_MiniLM_L12_v2",
-        "original_response": "Disappear and leave only its grin",
-        "edit_response": "Disappear and leave only its grin",
-        "options": [
-            "A - Disappear and leave only its grin",
-            "B - Talk",
-            "C - Fly",
-            "D - Change colors"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Disappear and leave only its grin"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "Everyone in Wonderland",
-        "edit_response": "Everyone in Wonderland",
-        "options": [
-            "A - Everyone in Wonderland",
-            "B - Only the Mad Hatter",
-            "C - Only the March Hare",
-            "D - Only Alice"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Everyone in Wonderland"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -222,19 +118,6 @@
     },
     {
         "model": "all_MiniLM_L12_v2",
-        "original_response": "Soldiers bent over",
-        "edit_response": "Soldiers bent over",
-        "options": [
-            "A - Soldiers bent over",
-            "B - Trees",
-            "C - Regular hoops",
-            "D - Flowers"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Soldiers bent over"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -245,19 +128,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "Everything is alive and moves around"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "The executioner argues it's impossible to cut off a head without a body",
-        "edit_response": "The executioner argues it's impossible to cut off a head without a body",
-        "options": [
-            "A - The executioner argues it's impossible to cut off a head without a body",
-            "B - Alice",
-            "C - The King",
-            "D - The gardeners"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The executioner argues it's impossible to cut off a head without a body"
     },
     {
         "model": "all_MiniLM_L12_v2",
@@ -339,58 +209,6 @@
     },
     {
         "model": "all_MiniLM_L6_v2",
-        "original_response": "Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-        "edit_response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-        "options": [
-            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-            "B - Strawberry and cream",
-            "C - Chocolate and vanilla",
-            "D - Lemon and honey"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A large pool of tears",
-        "edit_response": "A large pool of tears",
-        "options": [
-            "A - A large pool of tears",
-            "B - A small puddle",
-            "C - A river",
-            "D - A lake"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A large pool of tears"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "Salt water from her own tears",
-        "edit_response": "Salt water from her own tears",
-        "options": [
-            "A - Salt water from her own tears",
-            "B - The sea",
-            "C - A pond",
-            "D - A swimming pool"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Salt water from her own tears"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "Comfits (sweets) ---",
-        "edit_response": "Comfits (sweets)",
-        "options": [
-            "A - Comfits (sweets)",
-            "B - Coins",
-            "C - Flowers",
-            "D - Ribbons"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Comfits (sweets)"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -401,45 +219,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "She mentions her cat Dinah"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "Pebbles that turn into cakes",
-        "edit_response": "Pebbles that turn into cakes",
-        "options": [
-            "A - Pebbles that turn into cakes",
-            "B - Stones",
-            "C - Flowers",
-            "D - Mud"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Pebbles that turn into cakes"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - Blue",
-            "B - Green",
-            "C - Red",
-            "D - Yellow"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - Three inches",
-            "B - Six inches",
-            "C - One foot",
-            "D - Two feet"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -456,20 +235,7 @@
     },
     {
         "model": "all_MiniLM_L6_v2",
-        "original_response": "One side makes you grow taller, the other shorter",
-        "edit_response": "One side makes you grow taller, the other shorter",
-        "options": [
-            "A - One side makes you grow taller, the other shorter",
-            "B - It's poisonous",
-            "C - It tastes good",
-            "D - It's magical"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "Sneeze B ---",
+        "original_response": "Sneeze B",
         "edit_response": "Sneeze B",
         "options": [
             "A - Sneeze",
@@ -479,19 +245,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "Sneeze"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "Disappear and leave only its grin",
-        "edit_response": "Disappear and leave only its grin",
-        "options": [
-            "A - Disappear and leave only its grin",
-            "B - Talk",
-            "C - Fly",
-            "D - Change colors"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Disappear and leave only its grin"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -508,32 +261,6 @@
     },
     {
         "model": "all_MiniLM_L6_v2",
-        "original_response": "C ---",
-        "edit_response": "C",
-        "options": [
-            "A - Nothing",
-            "B - Milk",
-            "C - Tea",
-            "D - Water"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Nothing"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - Why is a raven like a writing desk?",
-            "B - What is black and white and read all over?",
-            "C - What has four legs but can't walk?",
-            "D - What gets wet while drying?"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -547,19 +274,6 @@
     },
     {
         "model": "all_MiniLM_L6_v2",
-        "original_response": "The Queen orders their heads to be cut off",
-        "edit_response": "The Queen orders their heads to be cut off",
-        "options": [
-            "A - The Queen orders their heads to be cut off",
-            "B - They are promoted",
-            "C - They are thanked",
-            "D - They are ignored"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Queen orders their heads to be cut off"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -570,19 +284,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "Soldiers bent over"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "D ---",
-        "edit_response": "D",
-        "options": [
-            "A - The Gryphon",
-            "B - The Mad Hatter",
-            "C - The Caterpillar",
-            "D - The Duchess"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Gryphon"
     },
     {
         "model": "all_MiniLM_L6_v2",
@@ -625,19 +326,6 @@
     },
     {
         "model": "all_mpnet_base_v2",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - The Cheshire Cat",
-            "B - The March Hare",
-            "C - The Dormouse",
-            "D - The Caterpillar"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
-    },
-    {
-        "model": "all_mpnet_base_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -677,162 +365,6 @@
     },
     {
         "model": "all_mpnet_base_v2",
-        "original_response": "Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-        "edit_response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-        "options": [
-            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
-            "B - Strawberry and cream",
-            "C - Chocolate and vanilla",
-            "D - Lemon and honey"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "A large pool of tears",
-        "edit_response": "A large pool of tears",
-        "options": [
-            "A - A large pool of tears",
-            "B - A small puddle",
-            "C - A river",
-            "D - A lake"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A large pool of tears"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "Salt water from her own tears",
-        "edit_response": "Salt water from her own tears",
-        "options": [
-            "A - Salt water from her own tears",
-            "B - The sea",
-            "C - A pond",
-            "D - A swimming pool"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Salt water from her own tears"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "Comfits (sweets)",
-        "edit_response": "Comfits (sweets)",
-        "options": [
-            "A - Comfits (sweets)",
-            "B - Coins",
-            "C - Flowers",
-            "D - Ribbons"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Comfits (sweets)"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - Blue",
-            "B - Green",
-            "C - Red",
-            "D - Yellow"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - Three inches",
-            "B - Six inches",
-            "C - One foot",
-            "D - Two feet"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "You are old, Father William",
-        "edit_response": "You are old, Father William",
-        "options": [
-            "A - You are old, Father William",
-            "B - Twinkle, twinkle little star",
-            "C - How doth the little crocodile",
-            "D - Mary had a little lamb"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "You are old, Father William"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "One side makes you grow taller, the other shorter",
-        "edit_response": "One side makes you grow taller, the other shorter",
-        "options": [
-            "A - One side makes you grow taller, the other shorter",
-            "B - It's poisonous",
-            "C - It tastes good",
-            "D - It's magical"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "Sneeze",
-        "edit_response": "Sneeze",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sneeze"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "B ---",
-        "edit_response": "B",
-        "options": [
-            "A - In a tree",
-            "B - On the ground",
-            "C - In the house",
-            "D - In the garden"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "In a tree"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "Disappear and leave only its grin",
-        "edit_response": "Disappear and leave only its grin",
-        "options": [
-            "A - Disappear and leave only its grin",
-            "B - Talk",
-            "C - Fly",
-            "D - Change colors"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Disappear and leave only its grin"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "Everyone in Wonderland",
-        "edit_response": "Everyone in Wonderland",
-        "options": [
-            "A - Everyone in Wonderland",
-            "B - Only the Mad Hatter",
-            "C - Only the March Hare",
-            "D - Only Alice"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Everyone in Wonderland"
-    },
-    {
-        "model": "all_mpnet_base_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -843,32 +375,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "He murdered the time while singing"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "The Queen orders their heads to be cut off",
-        "edit_response": "The Queen orders their heads to be cut off",
-        "options": [
-            "A - The Queen orders their heads to be cut off",
-            "B - They are promoted",
-            "C - They are thanked",
-            "D - They are ignored"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Queen orders their heads to be cut off"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "Soldiers bent over",
-        "edit_response": "Soldiers bent over",
-        "options": [
-            "A - Soldiers bent over",
-            "B - Trees",
-            "C - Regular hoops",
-            "D - Flowers"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Soldiers bent over"
     },
     {
         "model": "all_mpnet_base_v2",
@@ -885,7 +391,7 @@
     },
     {
         "model": "all_mpnet_base_v2",
-        "original_response": "B --- \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup! --- \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014 --- \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014 --- \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014 --- \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
+        "original_response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
         "edit_response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
         "options": [
             "A - 'Tis the Voice of the Lobster",
@@ -934,19 +440,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "The Mad Hatter, the Duchess's cook, and Alice"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "D ---",
-        "edit_response": "D",
-        "options": [
-            "A - The Queen of Hearts",
-            "B - The King of Hearts",
-            "C - The Duchess",
-            "D - The Gryphon"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Queen of Hearts"
     },
     {
         "model": "bge_large_en",
@@ -1002,32 +495,6 @@
     },
     {
         "model": "bge_large_en",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - Ten inches",
-            "B - Five inches",
-            "C - Two feet",
-            "D - One foot"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "The golden key",
-        "edit_response": "The golden key",
-        "options": [
-            "A - The golden key",
-            "B - Her shoes",
-            "C - Her book",
-            "D - Her handkerchief"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The golden key"
-    },
-    {
-        "model": "bge_large_en",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1041,19 +508,6 @@
     },
     {
         "model": "bge_large_en",
-        "original_response": "A large pool of tears",
-        "edit_response": "A large pool of tears",
-        "options": [
-            "A - A large pool of tears",
-            "B - A small puddle",
-            "C - A river",
-            "D - A lake"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A large pool of tears"
-    },
-    {
-        "model": "bge_large_en",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1064,32 +518,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "The White Rabbit's fan"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "Salt water from her own tears",
-        "edit_response": "Salt water from her own tears",
-        "options": [
-            "A - Salt water from her own tears",
-            "B - The sea",
-            "C - A pond",
-            "D - A swimming pool"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Salt water from her own tears"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "Comfits (sweets)",
-        "edit_response": "Comfits (sweets)",
-        "options": [
-            "A - Comfits (sweets)",
-            "B - Coins",
-            "C - Flowers",
-            "D - Ribbons"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Comfits (sweets)"
     },
     {
         "model": "bge_large_en",
@@ -1119,32 +547,6 @@
     },
     {
         "model": "bge_large_en",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - Blue",
-            "B - Green",
-            "C - Red",
-            "D - Yellow"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "C ---",
-        "edit_response": "C",
-        "options": [
-            "A - Who are you?",
-            "B - Where are you going?",
-            "C - What do you want?",
-            "D - How old are you?"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Who are you?"
-    },
-    {
-        "model": "bge_large_en",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1155,58 +557,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "One side makes you grow taller, the other shorter"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "Sneeze",
-        "edit_response": "Sneeze",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sneeze"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "Disappear and leave only its grin",
-        "edit_response": "Disappear and leave only its grin",
-        "options": [
-            "A - Disappear and leave only its grin",
-            "B - Talk",
-            "C - Fly",
-            "D - Change colors"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Disappear and leave only its grin"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "C ---",
-        "edit_response": "C",
-        "options": [
-            "A - Everyone in Wonderland",
-            "B - Only the Mad Hatter",
-            "C - Only the March Hare",
-            "D - Only Alice"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Everyone in Wonderland"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A ---",
-        "edit_response": "A",
-        "options": [
-            "A - Why is a raven like a writing desk?",
-            "B - What is black and white and read all over?",
-            "C - What has four legs but can't walk?",
-            "D - What gets wet while drying?"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": ""
     },
     {
         "model": "bge_large_en",
@@ -1223,19 +573,6 @@
     },
     {
         "model": "bge_large_en",
-        "original_response": "The Queen orders their heads to be cut off",
-        "edit_response": "The Queen orders their heads to be cut off",
-        "options": [
-            "A - The Queen orders their heads to be cut off",
-            "B - They are promoted",
-            "C - They are thanked",
-            "D - They are ignored"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Queen orders their heads to be cut off"
-    },
-    {
-        "model": "bge_large_en",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1246,32 +583,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "Soldiers bent over"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "The executioner argues it's impossible to cut off a head without a body",
-        "edit_response": "The executioner argues it's impossible to cut off a head without a body",
-        "options": [
-            "A - The executioner argues it's impossible to cut off a head without a body",
-            "B - Alice",
-            "C - The King",
-            "D - The gardeners"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The executioner argues it's impossible to cut off a head without a body"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "'Tis the Voice of the Lobster",
-        "edit_response": "'Tis the Voice of the Lobster",
-        "options": [
-            "A - 'Tis the Voice of the Lobster",
-            "B - Beautiful Soup",
-            "C - The Walrus and the Carpenter",
-            "D - Jabberwocky"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "'Tis the Voice of the Lobster"
     },
     {
         "model": "bge_large_en",
@@ -1379,32 +690,6 @@
     },
     {
         "model": "e5_base_v2",
-        "original_response": "The golden key",
-        "edit_response": "The golden key",
-        "options": [
-            "A - The golden key",
-            "B - Her shoes",
-            "C - Her book",
-            "D - Her handkerchief"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The golden key"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A large pool of tears",
-        "edit_response": "A large pool of tears",
-        "options": [
-            "A - A large pool of tears",
-            "B - A small puddle",
-            "C - A river",
-            "D - A lake"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A large pool of tears"
-    },
-    {
-        "model": "e5_base_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1415,32 +700,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "The White Rabbit's fan"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "Salt water from her own tears",
-        "edit_response": "Salt water from her own tears",
-        "options": [
-            "A - Salt water from her own tears",
-            "B - The sea",
-            "C - A pond",
-            "D - A swimming pool"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Salt water from her own tears"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "Comfits (sweets)",
-        "edit_response": "Comfits (sweets)",
-        "options": [
-            "A - Comfits (sweets)",
-            "B - Coins",
-            "C - Flowers",
-            "D - Ribbons"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Comfits (sweets)"
     },
     {
         "model": "e5_base_v2",
@@ -1470,58 +729,6 @@
     },
     {
         "model": "e5_base_v2",
-        "original_response": "You are old, Father William",
-        "edit_response": "You are old, Father William",
-        "options": [
-            "A - You are old, Father William",
-            "B - Twinkle, twinkle little star",
-            "C - How doth the little crocodile",
-            "D - Mary had a little lamb"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "You are old, Father William"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "One side makes you grow taller, the other shorter",
-        "edit_response": "One side makes you grow taller, the other shorter",
-        "options": [
-            "A - One side makes you grow taller, the other shorter",
-            "B - It's poisonous",
-            "C - It tastes good",
-            "D - It's magical"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "Sneeze",
-        "edit_response": "Sneeze",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sneeze"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "Disappear and leave only its grin",
-        "edit_response": "Disappear and leave only its grin",
-        "options": [
-            "A - Disappear and leave only its grin",
-            "B - Talk",
-            "C - Fly",
-            "D - Change colors"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Disappear and leave only its grin"
-    },
-    {
-        "model": "e5_base_v2",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1545,45 +752,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "He murdered the time while singing"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "The Queen orders their heads to be cut off",
-        "edit_response": "The Queen orders their heads to be cut off",
-        "options": [
-            "A - The Queen orders their heads to be cut off",
-            "B - They are promoted",
-            "C - They are thanked",
-            "D - They are ignored"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Queen orders their heads to be cut off"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "Soldiers bent over",
-        "edit_response": "Soldiers bent over",
-        "options": [
-            "A - Soldiers bent over",
-            "B - Trees",
-            "C - Regular hoops",
-            "D - Flowers"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Soldiers bent over"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "The executioner argues it's impossible to cut off a head without a body",
-        "edit_response": "The executioner argues it's impossible to cut off a head without a body",
-        "options": [
-            "A - The executioner argues it's impossible to cut off a head without a body",
-            "B - Alice",
-            "C - The King",
-            "D - The gardeners"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The executioner argues it's impossible to cut off a head without a body"
     },
     {
         "model": "e5_base_v2",
@@ -1691,32 +859,6 @@
     },
     {
         "model": "static_retrieval_mrl_en_v1",
-        "original_response": "The golden key",
-        "edit_response": "The golden key",
-        "options": [
-            "A - The golden key",
-            "B - Her shoes",
-            "C - Her book",
-            "D - Her handkerchief"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The golden key"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A large pool of tears",
-        "edit_response": "A large pool of tears",
-        "options": [
-            "A - A large pool of tears",
-            "B - A small puddle",
-            "C - A river",
-            "D - A lake"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A large pool of tears"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1727,19 +869,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "The White Rabbit's fan"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "Comfits (sweets)",
-        "edit_response": "Comfits (sweets)",
-        "options": [
-            "A - Comfits (sweets)",
-            "B - Coins",
-            "C - Flowers",
-            "D - Ribbons"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Comfits (sweets)"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1792,19 +921,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "Sneeze"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "Disappear and leave only its grin",
-        "edit_response": "Disappear and leave only its grin",
-        "options": [
-            "A - Disappear and leave only its grin",
-            "B - Talk",
-            "C - Fly",
-            "D - Change colors"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Disappear and leave only its grin"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
@@ -1870,19 +986,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "The long hall with the glass table"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "The Queen orders their heads to be cut off",
-        "edit_response": "The Queen orders their heads to be cut off",
-        "options": [
-            "A - The Queen orders their heads to be cut off",
-            "B - They are promoted",
-            "C - They are thanked",
-            "D - They are ignored"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Queen orders their heads to be cut off"
     },
     {
         "model": "static_retrieval_mrl_en_v1",
