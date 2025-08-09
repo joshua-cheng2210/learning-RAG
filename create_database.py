@@ -21,9 +21,20 @@ load_dotenv()
 # openai.api_key = os.environ['OPENAI_API_KEY']
 # openAIWords2Vector = OpenAIEmbeddings()
 
-HuggingFaceWords2Vector = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+model_options=[
+    "sentence-transformers/all-MiniLM-L6-v2", 
+    "sentence-transformers/all-mpnet-base-v2", 
+    "BAAI/bge-large-en", 
+    "intfloat/e5-base-v2", 
+    "SproutsAI/embedding-model",
+    "sentence-transformers/static-retrieval-mrl-en-v1",
+    "sentence-transformers/all-MiniLM-L12-v2"
+    ]
 
-CHROMA_PATH = "chroma"
+model_option_index = 0
+HuggingFaceWords2Vector = HuggingFaceEmbeddings(model_name=model_options[model_option_index])
+
+CHROMA_PATH = f"chroma_{model_options[model_option_index].replace('/', '_').replace('-', '_')}"
 DATA_PATH = "books"
 
 
@@ -53,9 +64,9 @@ def split_text(documents: list[Document]):
     chunks = text_splitter.split_documents(documents)
     print(f"Split {len(documents)} documents into {len(chunks)} chunks.")
 
-    document = chunks[0]
-    print(document.page_content)
-    print(document.metadata)
+    # document = chunks[0]
+    # print(document.page_content)
+    # print(document.metadata)
 
     return chunks
 
@@ -73,5 +84,5 @@ def save_to_chroma(chunks: list[Document]):
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
