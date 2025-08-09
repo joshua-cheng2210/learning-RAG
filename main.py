@@ -6,19 +6,21 @@ This script demonstrates how to use the DatabaseManager and QueryEngine classes.
 
 import argparse
 import json
+import os
+import pathlib
 from database_manager import DatabaseManager
 from query_engine import QueryEngine
 
 
 # Centralized model options
 EMBEDDING_MODEL_OPTIONS = [
-    "sentence-transformers/all-MiniLM-L6-v2", 
-    "sentence-transformers/all-mpnet-base-v2", 
-    "BAAI/bge-large-en", 
-    "intfloat/e5-base-v2", 
-    "SproutsAI/embedding-model",
-    "sentence-transformers/static-retrieval-mrl-en-v1",
-    "sentence-transformers/all-MiniLM-L12-v2"
+    "sentence-transformers/all-MiniLM-L6-v2", # success
+    "sentence-transformers/all-mpnet-base-v2", # success
+    "BAAI/bge-large-en", # success
+    "intfloat/e5-base-v2", # success
+    # "SproutsAI/embedding-model",
+    "sentence-transformers/static-retrieval-mrl-en-v1", # success
+    "sentence-transformers/all-MiniLM-L12-v2" # success
 ]
 
 TEXT_GENERATION_MODEL_OPTIONS = [
@@ -73,8 +75,8 @@ def main():
     # Get selected models
     embedding_model = EMBEDDING_MODEL_OPTIONS[args.embedding_model]
     text_model = TEXT_GENERATION_MODEL_OPTIONS[args.text_model]
-    db_data_path = f"chroma_{embedding_model.split('/')[-1].replace('/', '_').replace('-', '_')}"
-    result_file_path = f"{embedding_model.split('/')[-1].replace('/', '_').replace('-', '_')}_quiz_results.json"
+    db_data_path = f"chroma/{embedding_model.split('/')[-1].replace('/', '_').replace('-', '_')}"
+    result_file_path = f"quiz_results/{embedding_model.split('/')[-1].replace('/', '_').replace('-', '_')}_quiz_results.json"
     raw_knowledge_directory = "books"
 
     if args.mode == "list-models":
@@ -150,13 +152,18 @@ def main():
         create_mode()
 
     if args.mode == "query":
-        create_mode()
-        query_mode()
+        if os.path.exists(db_data_path):
+            quiz_mode()
+        else:
+            create_mode()
+            query_mode()
         
     if args.mode == "quiz":
-        create_mode()
-        quiz_mode()
-        
+        if os.path.exists(db_data_path):
+            quiz_mode()
+        else:
+            create_mode()
+            quiz_mode()
 
 
 if __name__ == "__main__":

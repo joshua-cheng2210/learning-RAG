@@ -3,3 +3,6 @@ chroma_*
 chroma
 .DS_Store
 temp.txt
+__pycache__/
+# test_quiz_results/
+testing.py

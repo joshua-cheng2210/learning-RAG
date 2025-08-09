@@ -147,7 +147,7 @@ class QueryEngine:
         
         result = {
             'question': question,
-            'response': response_text.strip(),
+            'response': response_text.replace('-', '').strip(),
             'sources': sources
         }
         
