@@ -3,7 +3,9 @@
 - what is chroma --> a vector database specifically designed for storing and querying embeddings
 - you need to break up all your text data into chunks and then use a word to vector embedding model to convert the text into vectors, and save those vectors in the vector db
 - word embeddings models dont have preset vectors for each of the words, they generate them in real time through the trained neural network
-
+- some of google's computing services like google cloud, google AI studio and vertex AI
+- intergrated google's free tier services models like embedding-001
+- the differences between langchain and huggingface. langchain is the tool box of all NLP developement adn huggingface is where you find the AI/ML models
 
 future works to check out
 - how does vector db work? and what other uses for it?
