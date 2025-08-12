@@ -1,7 +1,7 @@
 import os
 import json
 
-model_response_directory = "test_quiz_results"
+model_response_directory = "quiz_results"
 incorrect_answers = []
 
 for model_response_fp in os.listdir(model_response_directory):

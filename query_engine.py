@@ -1,37 +1,79 @@
 import json
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFacePipeline, HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings  # New import
 from transformers import pipeline
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 
 class QueryEngine:
-    """
-    Handles querying the vector database and generating responses using LLM.
-    """
-    
     def __init__(self, persist_directory="chroma", 
-                 embedding_model_name="sentence-transformers/all-MiniLM-L6-v2", 
+                 embedding_model_name="sentence-transformers/all-MiniLM-L12-v2",
+                 embedding_model_type="huggingface",
                  text_model_name="google/flan-t5-base"):
         """
-        Initialize the QueryEngine.
+        Initialize QueryEngine with specified models.
         
         Args:
-            persist_directory (str): Path to the Chroma database
-            embedding_model_name (str): Name of the HuggingFace embedding model
-            text_model_name (str): Name of the HuggingFace text generation model
+            persist_directory: Path to the Chroma database
+            embedding_model_name: Name of the embedding model
+            embedding_model_type: Type of embedding model ("huggingface" or "gemini")
+            text_model_name: Name of the text generation model
         """
         self.persist_directory = persist_directory
         self.embedding_model_name = embedding_model_name
+        self.embedding_model_type = embedding_model_type
         self.text_model_name = text_model_name
         
-        # Initialize embedding function
-        self.embedding_function = HuggingFaceEmbeddings(model_name=self.embedding_model_name)
+        # Initialize embedding function based on type
+        if embedding_model_type == "gemini":
+            api_key = os.getenv("GEMINI_API_KEY")
+            if not api_key:
+                raise ValueError("GEMINI_API_KEY environment variable is required for Gemini models")
+            
+            # Extract model name (remove 'gemini/' prefix)
+            model_name = embedding_model_name.replace("gemini/", "")
+            self.embedding_function = GoogleGenerativeAIEmbeddings(
+                model=model_name,
+                google_api_key=api_key
+            )
+        elif embedding_model_type == "huggingface":
+            self.embedding_function = HuggingFaceEmbeddings(model_name=embedding_model_name)
+        else:  # huggingface
+            embedding_model_type == "huggingface"
+            self.embedding_function = HuggingFaceEmbeddings(model_name=embedding_model_name)
         
-        # Initialize text generation pipeline
-        self.llm_pipeline = None
-        self.model = None
+        # Initialize text generation model
+        if self.text_model_name.startswith("google/flan"):
+            self.hf_pipeline = pipeline(
+                "text2text-generation",
+                model=self.text_model_name,
+                max_length=512,
+            )
+        elif self.text_model_name.startswith("gpt") or self.text_model_name.startswith("distilgpt"):
+            self.hf_pipeline = pipeline(
+                "text-generation",
+                model=self.text_model_name,
+                max_length=512,
+                do_sample=True,
+                pad_token_id=50256
+            )
+        else:
+            self.text_model_name = "google/flan-t5-small"
+            self.hf_pipeline = pipeline(
+                "text2text-generation",
+                model=self.text_model_name,
+                max_length=512,
+            )
         
-        # Default prompt template
+        self.model = HuggingFacePipeline(pipeline=self.hf_pipeline)
+        
+        # Initialize database
+        self.db = Chroma(persist_directory=persist_directory, 
+                        embedding_function=self.embedding_function)
+    
         self.PROMPT_TEMPLATE = """
             Answer the question based only on the following context:
 
@@ -45,7 +87,13 @@ class QueryEngine:
 
             Respond only the Letter of the correct options like A, B, C and D
             """
-        self.initialize_llm()
+        
+        print(f"QueryEngine initialized:")
+        print(f"  Embedding: {embedding_model_name} ({embedding_model_type})")
+        print(f"  Text Generation: {text_model_name}")
+        print(f"  Database: {persist_directory}")
+
+    # Rest of your QueryEngine methods remain the same...
     
     def load_quiz_data(self, quiz_file_path='test_questions.json'):
         """Load quiz data from JSON file."""
@@ -61,44 +109,43 @@ class QueryEngine:
             print(f"Error parsing JSON: {e}")
             return []
     
-    def initialize_llm(self):
-        """Initialize the language model pipeline."""
-        if self.llm_pipeline is None:
-            print(f"Creating HuggingFace pipeline with model: {self.text_model_name}")
-            try:
-                self.llm_pipeline = pipeline(
-                    "text2text-generation",
-                    model=self.text_model_name,
-                    max_length=512,
-                )
+    # def initialize_llm(self):
+    #     """Initialize the language model pipeline."""
+    #     if self.llm_pipeline is None:
+    #         print(f"Creating HuggingFace pipeline with model: {self.text_model_name}")
+    #         try:
+    #             self.llm_pipeline = pipeline(
+    #                 "text2text-generation",
+    #                 model=self.text_model_name,
+    #                 max_length=512,
+    #             )
                 
-                # Wrap the pipeline in LangChain
-                self.model = HuggingFacePipeline(pipeline=self.llm_pipeline)
-                print("HuggingFace pipeline created successfully.")
+    #             # Wrap the pipeline in LangChain
+    #             self.model = HuggingFacePipeline(pipeline=self.llm_pipeline)
+    #             print("HuggingFace pipeline created successfully.")
                 
-            except Exception as e:
-                print(f"Error creating HuggingFace pipeline: {e}")
-                return False
-        return True
+    #         except Exception as e:
+    #             print(f"Error creating HuggingFace pipeline: {e}")
+    #             return False
+    #     return True
     
-    def get_database(self):
-        """Get the Chroma database instance."""
-        try:
-            db = Chroma(persist_directory=self.persist_directory, embedding_function=self.embedding_function)
-            return db
-        except Exception as e:
-            print(f"Error loading database from {self.persist_directory}: {e}")
-            print("Make sure you've run DatabaseManager.generate_data_store() first.")
-            return None
+    # def get_database(self):
+    #     """Get the Chroma database instance."""
+    #     try:
+    #         db = Chroma(persist_directory=self.persist_directory, embedding_function=self.embedding_function)
+    #         return db
+    #     except Exception as e:
+    #         print(f"Error loading database from {self.persist_directory}: {e}")
+    #         print("Make sure you've run DatabaseManager.generate_data_store() first.")
+    #         return None
     
     def semantic_search_database(self, query, k=5):
         """Search the database for relevant documents."""
-        db = self.get_database()
-        if db is None:
+        if self.db is None:
             return []
         
         try:
-            results = db.similarity_search_with_relevance_scores(query, k=k)
+            results = self.db.similarity_search_with_relevance_scores(query, k=k)
             return results
         except Exception as e:
             print(f"Error searching database: {e}")
@@ -110,9 +157,6 @@ class QueryEngine:
 
     def generate_response(self, question, options, context_text):
         """Generate a response using the LLM."""
-        if not self.initialize_llm():
-            return "Error: Could not initialize language model."
-        
         # Format the prompt
         options_text = "\n".join(options) if isinstance(options, list) else str(options)
         prompt = self.PROMPT_TEMPLATE.format(

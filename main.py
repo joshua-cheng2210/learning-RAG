@@ -18,14 +18,27 @@ EMBEDDING_MODEL_OPTIONS = [
     "sentence-transformers/all-mpnet-base-v2", # success
     "BAAI/bge-large-en", # success
     "intfloat/e5-base-v2", # success
-    # "SproutsAI/embedding-model",
     "sentence-transformers/static-retrieval-mrl-en-v1", # success
-    "sentence-transformers/all-MiniLM-L12-v2" # success
+    "sentence-transformers/all-MiniLM-L12-v2", # success
+    "gemini/embedding-001",       # Older Gemini model
+    "gemini/text-embedding-005",  # New Gemini model
+]
+
+# Add model types to distinguish between HuggingFace and Gemini
+EMBEDDING_MODEL_TYPES = [
+    "huggingface",  # 0
+    "huggingface",  # 1
+    "huggingface",  # 2
+    "huggingface",  # 3
+    "huggingface",  # 4
+    "huggingface",  # 5
+    "gemini",       # 6 - New
+    "gemini",       # 7 - New
 ]
 
 TEXT_GENERATION_MODEL_OPTIONS = [
     "google/flan-t5-small",
-    "google/flan-t5-base", 
+    "google/flan-t5-base", # have been using this for default development testing
     "google/flan-t5-large",
     "google/flan-t5-xl",
     "gpt2",
@@ -36,8 +49,8 @@ TEXT_GENERATION_MODEL_OPTIONS = [
 def list_models():
     """List all available models."""
     print("Available Embedding Models:")
-    for i, model in enumerate(EMBEDDING_MODEL_OPTIONS):
-        print(f"  {i}: {model}")
+    for i, (model, model_type) in enumerate(zip(EMBEDDING_MODEL_OPTIONS, EMBEDDING_MODEL_TYPES)):
+        print(f"  {i}: {model} ({model_type})")
     
     print("\nAvailable Text Generation Models:")
     for i, model in enumerate(TEXT_GENERATION_MODEL_OPTIONS):
@@ -54,10 +67,6 @@ def main():
     parser.add_argument("--text-model", type=int, default=1,
                        help=f"Text generation model index (0-{len(TEXT_GENERATION_MODEL_OPTIONS)-1})")
     parser.add_argument("--limit", type=int, help="Limit number of quiz questions")
-    # parser.add_argument("--data-path", type=str, default="books",
-    #                    help="Path to documents directory")
-    # parser.add_argument("--persist-directory", type=str, default="chroma",
-    #                    help="Path to the chroma database directory")
     
     args = parser.parse_args()
     
@@ -74,21 +83,23 @@ def main():
     
     # Get selected models
     embedding_model = EMBEDDING_MODEL_OPTIONS[args.embedding_model]
+    embedding_model_type = EMBEDDING_MODEL_TYPES[args.embedding_model]
     text_model = TEXT_GENERATION_MODEL_OPTIONS[args.text_model]
     db_data_path = f"chroma/{embedding_model.split('/')[-1].replace('/', '_').replace('-', '_')}"
-    result_file_path = f"quiz_results/{embedding_model.split('/')[-1].replace('/', '_').replace('-', '_')}_quiz_results.json"
+    result_file_path = f"quiz_results/{embedding_model.split('/')[-1].replace('/', '_').replace('-', '_')}--{text_model.split('/')[-1].replace('/', '_').replace('-', '_')}_quiz_results.json"
     raw_knowledge_directory = "books"
 
     if args.mode == "list-models":
         list_models()
         return
     
-    print(f"Using embedding model: {embedding_model}")
+    print(f"Using embedding model: {embedding_model} ({embedding_model_type})")
     print(f"Using text generation model: {text_model}")
 
     def create_mode():
         print("Creating database...")
-        db_manager = DatabaseManager(embedding_model_name=embedding_model)
+        db_manager = DatabaseManager(embedding_model_name=embedding_model, 
+                                   embedding_model_type=embedding_model_type)
         success = db_manager.generate_data_store(data_path=raw_knowledge_directory, 
                                                 persist_directory=db_data_path)
         
@@ -105,6 +116,7 @@ def main():
         print(f"Querying: {args.question}")
         query_engine = QueryEngine(persist_directory=db_data_path,
                                  embedding_model_name=embedding_model,
+                                 embedding_model_type=embedding_model_type,
                                  text_model_name=text_model)
         
         result = query_engine.query_single_question(args.question, show_context=True)
@@ -120,12 +132,13 @@ def main():
         print("Running Alice in Wonderland quiz...")
         query_engine = QueryEngine(persist_directory=db_data_path,
                                  embedding_model_name=embedding_model,
+                                 embedding_model_type=embedding_model_type,
                                  text_model_name=text_model)
         
         # Run the quiz
         results = query_engine.run_quiz("test_questions.json", limit=args.limit)
         
-        # Additional analysis
+        # Rest of quiz_mode code remains the same...
         if results:
             print("\n" + "="*50)
             print("DETAILED ANALYSIS")
@@ -153,7 +166,7 @@ def main():
 
     if args.mode == "query":
         if os.path.exists(db_data_path):
-            quiz_mode()
+            query_mode()
         else:
             create_mode()
             query_mode()

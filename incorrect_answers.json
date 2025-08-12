@@ -806,6 +806,201 @@
         "alternate_correct_answer": "It proves nothing"
     },
     {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "Respond only the Letter of the correct options like A, B, C and D",
+        "edit_response": "Respond only the Letter of the correct options like A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sitting by her sister on the bank"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A large pool of tears  \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"Please, then, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer",
+        "edit_response": "A large pool of tears  \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"Please, then, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A large pool of tears"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "Comfits (sweets)",
+        "edit_response": "Comfits (sweets)",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Comfits (sweets)"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "You are old, Father William"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "One side makes you grow taller, the other shorter",
+        "edit_response": "One side makes you grow taller, the other shorter",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "Sneeze",
+        "edit_response": "Sneeze",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sneeze"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everyone in Wonderland"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - We're all mad here",
+            "B - Mad people are dangerous",
+            "C - Being mad is fun",
+            "D - Mad people are sad"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "We're all mad here"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - A tea party",
+            "B - A birthday party",
+            "C - A wedding",
+            "D - A funeral"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A tea party"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - About three sisters who lived in a treacle well",
+            "B - About a princess",
+            "C - About a dragon",
+            "D - About a magic kingdom"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "About three sisters who lived in a treacle well"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "He murdered the time while singing"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everything is alive and moves around"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "B  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next",
+        "edit_response": "B  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next",
+        "options": [
+            "A - The Cheshire Cat's head",
+            "B - The Queen",
+            "C - The King",
+            "D - A soldier"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Cheshire Cat's head"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "News of a trial beginning"
+    },
+    {
         "model": "static_retrieval_mrl_en_v1",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",

@@ -3,6 +3,7 @@ langchain
 langchain-community
 langchain-huggingface
 langchain_chroma
+langchain-google-genai
 
 # HuggingFace transformers for local models
 transformers
@@ -18,4 +19,3 @@ unstructured
 # Environment variables
 python-dotenv
 
-# Note: After installing requirements, run: pip install "unstructured[md]" for markdown support 
