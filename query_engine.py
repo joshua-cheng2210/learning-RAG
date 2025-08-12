@@ -108,37 +108,7 @@ class QueryEngine:
         except json.JSONDecodeError as e:
             print(f"Error parsing JSON: {e}")
             return []
-    
-    # def initialize_llm(self):
-    #     """Initialize the language model pipeline."""
-    #     if self.llm_pipeline is None:
-    #         print(f"Creating HuggingFace pipeline with model: {self.text_model_name}")
-    #         try:
-    #             self.llm_pipeline = pipeline(
-    #                 "text2text-generation",
-    #                 model=self.text_model_name,
-    #                 max_length=512,
-    #             )
-                
-    #             # Wrap the pipeline in LangChain
-    #             self.model = HuggingFacePipeline(pipeline=self.llm_pipeline)
-    #             print("HuggingFace pipeline created successfully.")
-                
-    #         except Exception as e:
-    #             print(f"Error creating HuggingFace pipeline: {e}")
-    #             return False
-    #     return True
-    
-    # def get_database(self):
-    #     """Get the Chroma database instance."""
-    #     try:
-    #         db = Chroma(persist_directory=self.persist_directory, embedding_function=self.embedding_function)
-    #         return db
-    #     except Exception as e:
-    #         print(f"Error loading database from {self.persist_directory}: {e}")
-    #         print("Make sure you've run DatabaseManager.generate_data_store() first.")
-    #         return None
-    
+ 
     def semantic_search_database(self, query, k=5):
         """Search the database for relevant documents."""
         if self.db is None:
@@ -271,25 +241,3 @@ class QueryEngine:
         """Set a custom prompt template."""
         self.PROMPT_TEMPLATE = new_template
         print("Prompt template updated.")
-
-
-# if __name__ == "__main__":
-#     # Example usage
-#     query_engine = QueryEngine(
-#         persist_directory="chroma",
-#         embedding_model_name="sentence-transformers/all-MiniLM-L6-v2",
-#         text_model_name="google/flan-t5-base"
-#     )
-    
-#     # Run a small quiz
-#     print("Running quiz...")
-#     results = query_engine.run_quiz("test_questions.json", limit=5)
-    
-#     # Query a single question
-#     print("\nSingle question example:")
-#     result = query_engine.query_single_question(
-#         "Who does Alice follow down the rabbit hole?",
-#         ["A - The White Rabbit", "B - The Cheshire Cat", "C - The Mad Hatter", "D - The Queen"],
-#         show_context=True
-#     )
-#     print(f"Response: {result['response']}")

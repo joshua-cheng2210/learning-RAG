@@ -846,19 +846,6 @@
     },
     {
         "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "Comfits (sweets)",
-        "edit_response": "Comfits (sweets)",
-        "options": [
-            "A - Comfits (sweets)",
-            "B - Coins",
-            "C - Flowers",
-            "D - Ribbons"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Comfits (sweets)"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -869,32 +856,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "You are old, Father William"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "One side makes you grow taller, the other shorter",
-        "edit_response": "One side makes you grow taller, the other shorter",
-        "options": [
-            "A - One side makes you grow taller, the other shorter",
-            "B - It's poisonous",
-            "C - It tastes good",
-            "D - It's magical"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "Sneeze",
-        "edit_response": "Sneeze",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sneeze"
     },
     {
         "model": "embedding_001--flan_t5_base_quiz_results",
