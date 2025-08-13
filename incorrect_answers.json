@@ -1,6 +1,6 @@
 [
     {
-        "model": "all_MiniLM_L12_v2",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
         "original_response": "A small cake with 'EAT ME' written on it",
         "edit_response": "A small cake with 'EAT ME' written on it",
         "options": [
@@ -13,9 +13,9 @@
         "alternate_correct_answer": "A bottle labeled 'DRINK ME'"
     },
     {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
             "B - To eat more cake",
@@ -26,20 +26,7 @@
         "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
     },
     {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Because Time has stopped for the Mad Hatter",
-            "B - They enjoy tea more than any other meal",
-            "C - It's a riddle they are trying to solve",
-            "D - They are waiting for someone to join them"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -52,7 +39,7 @@
         "alternate_correct_answer": "Sitting by her sister on the bank"
     },
     {
-        "model": "all_MiniLM_L12_v2",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -65,22 +52,9 @@
         "alternate_correct_answer": "A dry, boring history"
     },
     {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Kicks him up the chimney",
-            "B - Talks to him",
-            "C - Hides from him",
-            "D - Helps him down"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Kicks him up the chimney"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - One side makes you grow taller, the other shorter",
             "B - It's poisonous",
@@ -91,150 +65,7 @@
         "alternate_correct_answer": "One side makes you grow taller, the other shorter"
     },
     {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - They planted white roses by mistake and the Queen wants red",
-            "B - They want to surprise the Queen",
-            "C - The roses are dying",
-            "D - It's their job"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "They planted white roses by mistake and the Queen wants red"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "They are ignored Respond only the Letter of the correct choices like A, B, C and D",
-        "edit_response": "They are ignored Respond only the Letter of the correct choices like A, B, C and D",
-        "options": [
-            "A - The Queen orders their heads to be cut off",
-            "B - They are promoted",
-            "C - They are thanked",
-            "D - They are ignored"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Queen orders their heads to be cut off"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Everything is alive and moves around",
-            "B - The ground is uneven",
-            "C - There are too many players",
-            "D - The rules keep changing"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Everything is alive and moves around"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The Lobster Quadrille",
-            "B - The Waltz",
-            "C - The Tango",
-            "D - The Ballet"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Lobster Quadrille"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The Knave of Hearts",
-            "B - Alice",
-            "C - The Mad Hatter",
-            "D - The White Rabbit"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Knave of Hearts"
-    },
-    {
-        "model": "all_MiniLM_L12_v2",
-        "original_response": "B, C and D",
-        "edit_response": "B, C and D",
-        "options": [
-            "A - The charges against the Knave",
-            "B - The evidence",
-            "C - The verdict",
-            "D - A poem"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The charges against the Knave"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "Respond only the Letter of the correct choices like A, B, C and D",
-        "edit_response": "Respond only the Letter of the correct choices like A, B, C and D",
-        "options": [
-            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
-            "B - To eat more cake",
-            "C - To drink from the bottle",
-            "D - To fan herself rapidly"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Because Time has stopped for the Mad Hatter",
-            "B - They enjoy tea more than any other meal",
-            "C - It's a riddle they are trying to solve",
-            "D - They are waiting for someone to join them"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Sitting by her sister on the bank",
-            "B - Making a daisy chain",
-            "C - Playing in the garden",
-            "D - Having tea"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sitting by her sister on the bank"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - She mentions her cat Dinah",
-            "B - She's too tall",
-            "C - She's too small",
-            "D - She's crying too much"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "She mentions her cat Dinah"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - You are old, Father William",
-            "B - Twinkle, twinkle little star",
-            "C - How doth the little crocodile",
-            "D - Mary had a little lamb"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "You are old, Father William"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
         "original_response": "Sneeze B",
         "edit_response": "Sneeze B",
         "options": [
@@ -247,74 +78,35 @@
         "alternate_correct_answer": "Sneeze"
     },
     {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
+        "original_response": "A cat",
+        "edit_response": "A cat",
         "options": [
-            "A - Everyone in Wonderland",
-            "B - Only the Mad Hatter",
-            "C - Only the March Hare",
-            "D - Only Alice"
+            "A - A pig",
+            "B - A cat",
+            "C - A mouse",
+            "D - A bird"
         ],
         "correct_answer": "A",
-        "alternate_correct_answer": "Everyone in Wonderland"
+        "alternate_correct_answer": "A pig"
     },
     {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
-            "A - He murdered the time while singing",
-            "B - He was always late",
-            "C - He broke his watch",
-            "D - He forgot an appointment"
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
         ],
         "correct_answer": "A",
-        "alternate_correct_answer": "He murdered the time while singing"
+        "alternate_correct_answer": "Everything is alive and moves around"
     },
     {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Soldiers bent over",
-            "B - Trees",
-            "C - Regular hoops",
-            "D - Flowers"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Soldiers bent over"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The Mock Turtle",
-            "B - The Gryphon",
-            "C - The Duchess",
-            "D - The Queen"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Mock Turtle"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - News of a trial beginning",
-            "B - The Queen calling",
-            "C - Dinner time",
-            "D - A thunderstorm"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "News of a trial beginning"
-    },
-    {
-        "model": "all_MiniLM_L6_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - The Knave of Hearts",
             "B - Alice",
@@ -325,9 +117,9 @@
         "alternate_correct_answer": "The Knave of Hearts"
     },
     {
-        "model": "all_mpnet_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
+        "original_response": "Respond only the Letter of the correct choices like A, B, C and D",
+        "edit_response": "Respond only the Letter of the correct choices like A, B, C and D",
         "options": [
             "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
             "B - To eat more cake",
@@ -338,7 +130,7 @@
         "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
     },
     {
-        "model": "all_mpnet_base_v2",
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -351,7 +143,7 @@
         "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
     },
     {
-        "model": "all_mpnet_base_v2",
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -364,358 +156,7 @@
         "alternate_correct_answer": "Sitting by her sister on the bank"
     },
     {
-        "model": "all_mpnet_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - He murdered the time while singing",
-            "B - He was always late",
-            "C - He broke his watch",
-            "D - He forgot an appointment"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "He murdered the time while singing"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The appearance of the Cheshire Cat's head",
-            "B - Alice cheating",
-            "C - The Queen's anger",
-            "D - A thunderstorm"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The appearance of the Cheshire Cat's head"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
-        "edit_response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
-        "options": [
-            "A - 'Tis the Voice of the Lobster",
-            "B - Beautiful Soup",
-            "C - The Walrus and the Carpenter",
-            "D - Jabberwocky"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "'Tis the Voice of the Lobster"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - News of a trial beginning",
-            "B - The Queen calling",
-            "C - Dinner time",
-            "D - A thunderstorm"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "News of a trial beginning"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "B, C and D",
-        "edit_response": "B, C and D",
-        "options": [
-            "A - The charges against the Knave",
-            "B - The evidence",
-            "C - The verdict",
-            "D - A poem"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The charges against the Knave"
-    },
-    {
-        "model": "all_mpnet_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The Mad Hatter, the Duchess's cook, and Alice",
-            "B - The Queen, King, and Knave",
-            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
-            "D - The gardeners"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Mad Hatter, the Duchess's cook, and Alice"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "Respond only the Letter of the correct options like A, B, C and D",
-        "edit_response": "Respond only the Letter of the correct options like A, B, C and D",
-        "options": [
-            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
-            "B - To eat more cake",
-            "C - To drink from the bottle",
-            "D - To fan herself rapidly"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Because Time has stopped for the Mad Hatter",
-            "B - They enjoy tea more than any other meal",
-            "C - It's a riddle they are trying to solve",
-            "D - They are waiting for someone to join them"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Sitting by her sister on the bank",
-            "B - Making a daisy chain",
-            "C - Playing in the garden",
-            "D - Having tea"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sitting by her sister on the bank"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A letter",
-        "edit_response": "A letter",
-        "options": [
-            "A - A watch",
-            "B - A handkerchief",
-            "C - A key",
-            "D - A letter"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A watch"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - EAT ME",
-            "B - TAKE ME",
-            "C - TRY ME",
-            "D - BITE ME"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "EAT ME"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The White Rabbit's fan",
-            "B - The gloves",
-            "C - Another bottle",
-            "D - A magic word"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The White Rabbit's fan"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - A dry, boring history",
-            "B - A fairy tale",
-            "C - An adventure story",
-            "D - A ghost story"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A dry, boring history"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Pebbles that turn into cakes",
-            "B - Stones",
-            "C - Flowers",
-            "D - Mud"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Pebbles that turn into cakes"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - One side makes you grow taller, the other shorter",
-            "B - It's poisonous",
-            "C - It tastes good",
-            "D - It's magical"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - He murdered the time while singing",
-            "B - He was always late",
-            "C - He broke his watch",
-            "D - He forgot an appointment"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "He murdered the time while singing"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Soldiers bent over",
-            "B - Trees",
-            "C - Regular hoops",
-            "D - Flowers"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Soldiers bent over"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - News of a trial beginning",
-            "B - The Queen calling",
-            "C - Dinner time",
-            "D - A thunderstorm"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "News of a trial beginning"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The charges against the Knave",
-            "B - The evidence",
-            "C - The verdict",
-            "D - A poem"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The charges against the Knave"
-    },
-    {
-        "model": "bge_large_en",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The Mad Hatter, the Duchess's cook, and Alice",
-            "B - The Queen, King, and Knave",
-            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
-            "D - The gardeners"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Mad Hatter, the Duchess's cook, and Alice"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A small cake with 'EAT ME' written on it",
-        "edit_response": "A small cake with 'EAT ME' written on it",
-        "options": [
-            "A - A small cake with 'EAT ME' written on it",
-            "B - A bottle labeled 'DRINK ME'",
-            "C - A mushroom",
-            "D - A fan"
-        ],
-        "correct_answer": "B",
-        "alternate_correct_answer": "A bottle labeled 'DRINK ME'"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The Cheshire Cat",
-            "B - The March Hare",
-            "C - The Dormouse",
-            "D - The Caterpillar"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Cheshire Cat"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
-            "B - To eat more cake",
-            "C - To drink from the bottle",
-            "D - To fan herself rapidly"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Because Time has stopped for the Mad Hatter",
-            "B - They enjoy tea more than any other meal",
-            "C - It's a riddle they are trying to solve",
-            "D - They are waiting for someone to join them"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Sitting by her sister on the bank",
-            "B - Making a daisy chain",
-            "C - Playing in the garden",
-            "D - Having tea"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sitting by her sister on the bank"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The White Rabbit's fan",
-            "B - The gloves",
-            "C - Another bottle",
-            "D - A magic word"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The White Rabbit's fan"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - A dry, boring history",
-            "B - A fairy tale",
-            "C - An adventure story",
-            "D - A ghost story"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A dry, boring history"
-    },
-    {
-        "model": "e5_base_v2",
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -728,124 +169,7 @@
         "alternate_correct_answer": "She mentions her cat Dinah"
     },
     {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Everyone in Wonderland",
-            "B - Only the Mad Hatter",
-            "C - Only the March Hare",
-            "D - Only Alice"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Everyone in Wonderland"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - He murdered the time while singing",
-            "B - He was always late",
-            "C - He broke his watch",
-            "D - He forgot an appointment"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "He murdered the time while singing"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - News of a trial beginning",
-            "B - The Queen calling",
-            "C - Dinner time",
-            "D - A thunderstorm"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "News of a trial beginning"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The charges against the Knave",
-            "B - The evidence",
-            "C - The verdict",
-            "D - A poem"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The charges against the Knave"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The Mad Hatter, the Duchess's cook, and Alice",
-            "B - The Queen, King, and Knave",
-            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
-            "D - The gardeners"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Mad Hatter, the Duchess's cook, and Alice"
-    },
-    {
-        "model": "e5_base_v2",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - It proves nothing",
-            "B - It's very convincing",
-            "C - It's confusing",
-            "D - It's false"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "It proves nothing"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "Respond only the Letter of the correct options like A, B, C and D",
-        "edit_response": "Respond only the Letter of the correct options like A, B, C and D",
-        "options": [
-            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
-            "B - To eat more cake",
-            "C - To drink from the bottle",
-            "D - To fan herself rapidly"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Sitting by her sister on the bank",
-            "B - Making a daisy chain",
-            "C - Playing in the garden",
-            "D - Having tea"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sitting by her sister on the bank"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "A large pool of tears  \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"Please, then, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer",
-        "edit_response": "A large pool of tears  \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"Please, then, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn\u2019t cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer",
-        "options": [
-            "A - A large pool of tears",
-            "B - A small puddle",
-            "C - A river",
-            "D - A lake"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A large pool of tears"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -858,7 +182,20 @@
         "alternate_correct_answer": "You are old, Father William"
     },
     {
-        "model": "embedding_001--flan_t5_base_quiz_results",
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
+        "original_response": "Sneeze B",
+        "edit_response": "Sneeze B",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sneeze"
+    },
+    {
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -871,9 +208,503 @@
         "alternate_correct_answer": "Everyone in Wonderland"
     },
     {
-        "model": "embedding_001--flan_t5_base_quiz_results",
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "He murdered the time while singing"
+    },
+    {
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Soldiers bent over"
+    },
+    {
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - The Mock Turtle",
+            "B - The Gryphon",
+            "C - The Duchess",
+            "D - The Queen"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Mock Turtle"
+    },
+    {
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "News of a trial beginning"
+    },
+    {
+        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Knave of Hearts"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sitting by her sister on the bank"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "He murdered the time while singing"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - The appearance of the Cheshire Cat's head",
+            "B - Alice cheating",
+            "C - The Queen's anger",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The appearance of the Cheshire Cat's head"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
+        "edit_response": "B  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the Mock Turtle to the Gryphon. \"We can do without lobsters, you know. Which shall sing?\" \"Oh, you sing,\" said the Gryphon. \"I\u2019ve forgotten the words.\" So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:\u2014  \"Very much indeed,\" said Alice. \"Come, let\u2019s try the first figure!\" said the M",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "'Tis the Voice of the Lobster"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "News of a trial beginning"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "B, C and D",
+        "edit_response": "B, C and D",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The charges against the Knave"
+    },
+    {
+        "model": "all_mpnet_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Mad Hatter, the Duchess's cook, and Alice"
+    },
+    {
+        "model": "bge_large_en--flan_t5_base_quiz_results",
+        "original_response": "Respond only the Letter of the correct options like A, B, C and D. Do not inlcude the source.",
+        "edit_response": "Respond only the Letter of the correct options like A, B, C and D. Do not inlcude the source.",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
+    },
+    {
+        "model": "bge_large_en--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
+    },
+    {
+        "model": "bge_large_en--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sitting by her sister on the bank"
+    },
+    {
+        "model": "bge_large_en--flan_t5_base_quiz_results",
+        "original_response": "A letter",
+        "edit_response": "A letter",
+        "options": [
+            "A - A watch",
+            "B - A handkerchief",
+            "C - A key",
+            "D - A letter"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A watch"
+    },
+    {
+        "model": "bge_large_en--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A dry, boring history"
+    },
+    {
+        "model": "bge_large_en--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
+    },
+    {
+        "model": "bge_large_en--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "News of a trial beginning"
+    },
+    {
+        "model": "bge_large_en--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The charges against the Knave"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A small cake with 'EAT ME' written on it",
+        "edit_response": "A small cake with 'EAT ME' written on it",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B",
+        "alternate_correct_answer": "A bottle labeled 'DRINK ME'"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A tiny golden key",
+        "edit_response": "A tiny golden key",
+        "options": [
+            "A - A tiny golden key",
+            "B - A bottle",
+            "C - A cake",
+            "D - Both A and B"
+        ],
+        "correct_answer": "D",
+        "alternate_correct_answer": "Both A and B"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A dry, boring history"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "Sneeze B",
+        "edit_response": "Sneeze B",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sneeze"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "He murdered the time while singing"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "The Duchess Respond only the Letter the correct options like A, B, C and D. Do not inlcude the source.",
+        "edit_response": "The Duchess Respond only the Letter the correct options like A, B, C and D. Do not inlcude the source.",
+        "options": [
+            "A - The Gryphon",
+            "B - The Mad Hatter",
+            "C - The Caterpillar",
+            "D - The Duchess"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Gryphon"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "Beautiful Soup  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Oh, a song, please, if the Mock Turtle would be so kind,\" Alice replied, so eagerly that the Gryphon said, in a rather offended tone, \"Hm! No accounting for tastes! Sing her 'Turtle Soup,' will you, old fellow?\" The Mock Turtle sighed deeply, and began, in a voice sometimes choked with sobs, to sing this:\u2014 \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Oh, a song, please, if the Mock Turtle would be so kind,\" Alice replied, so eagerly that the Gryphon said, in a rather offended tone, \"Hm! No accounting for tastes! Sing her 'Turtle Soup,' will you, old fellow?\" The Mock Turtle sighed deeply, and began, in a voice sometimes choked with sobs, to sing this:\u2014 \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!",
+        "edit_response": "Beautiful Soup  \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Oh, a song, please, if the Mock Turtle would be so kind,\" Alice replied, so eagerly that the Gryphon said, in a rather offended tone, \"Hm! No accounting for tastes! Sing her 'Turtle Soup,' will you, old fellow?\" The Mock Turtle sighed deeply, and began, in a voice sometimes choked with sobs, to sing this:\u2014 \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!  \"Oh, a song, please, if the Mock Turtle would be so kind,\" Alice replied, so eagerly that the Gryphon said, in a rather offended tone, \"Hm! No accounting for tastes! Sing her 'Turtle Soup,' will you, old fellow?\" The Mock Turtle sighed deeply, and began, in a voice sometimes choked with sobs, to sing this:\u2014 \"Beautiful Soup, so rich and green, Waiting in a hot tureen! Who for such dainties would not stoop? Soup of the evening, beautiful Soup! Soup of the evening, beautiful Soup! Beau\u2014ootiful Soo\u2014oop! Beau\u2014ootiful Soo\u2014oop! Soo\u2014oop of the e\u2014e\u2014evening, Beautiful, beautiful Soup!",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "'Tis the Voice of the Lobster"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D",
+        "edit_response": "A, B, C and D",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "News of a trial beginning"
+    },
+    {
+        "model": "e5_base_v2--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The charges against the Knave"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A small cake with 'EAT ME' written on it",
+        "edit_response": "A small cake with 'EAT ME' written on it",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B",
+        "alternate_correct_answer": "A bottle labeled 'DRINK ME'"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "Respond only the Letter of the correct options like A, B, C and D. Do not inlcude the source.",
+        "edit_response": "Respond only the Letter of the correct options like A, B, C and D. Do not inlcude the source.",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A tiny golden key",
+        "edit_response": "A tiny golden key",
+        "options": [
+            "A - A tiny golden key",
+            "B - A bottle",
+            "C - A cake",
+            "D - Both A and B"
+        ],
+        "correct_answer": "D",
+        "alternate_correct_answer": "Both A and B"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A large pool of tears  \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"Please, then, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer",
+        "edit_response": "A large pool of tears  \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"Please, then, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A large pool of tears"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "Salt water from her own tears  \u201cI wish I hadn\u2019t cried so much!\u201d said Alice, as she swam about, trying to find her way out. \u201cI shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\u201d  Just then she heard something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.  In another moment down went Alice after it, never once considering how in the world she was to get out again. The rabbithole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.",
+        "edit_response": "Salt water from her own tears  \u201cI wish I hadn\u2019t cried so much!\u201d said Alice, as she swam about, trying to find her way out. \u201cI shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\u201d  Just then she heard something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.  In another moment down went Alice after it, never once considering how in the world she was to get out again. The rabbithole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Salt water from her own tears"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "You are old, Father William"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D. Respond only the Letter of the correct options like A, B, C and D. Do not inlcude the source.",
+        "edit_response": "A, B, C and D. Respond only the Letter of the correct options like A, B, C and D. Do not inlcude the source.",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everyone in Wonderland"
+    },
+    {
+        "model": "embedding_001--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - We're all mad here",
             "B - Mad people are dangerous",
@@ -885,21 +716,21 @@
     },
     {
         "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
-            "A - A tea party",
-            "B - A birthday party",
-            "C - A wedding",
-            "D - A funeral"
+            "A - Why is a raven like a writing desk?",
+            "B - What is black and white and read all over?",
+            "C - What has four legs but can't walk?",
+            "D - What gets wet while drying?"
         ],
         "correct_answer": "A",
-        "alternate_correct_answer": "A tea party"
+        "alternate_correct_answer": "Why is a raven like a writing desk?"
     },
     {
         "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - About three sisters who lived in a treacle well",
             "B - About a princess",
@@ -924,29 +755,16 @@
     },
     {
         "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "original_response": "Red roses white",
+        "edit_response": "Red roses white",
         "options": [
-            "A - Everything is alive and moves around",
-            "B - The ground is uneven",
-            "C - There are too many players",
-            "D - The rules keep changing"
+            "A - White roses red",
+            "B - Red roses white",
+            "C - The fence",
+            "D - The trees"
         ],
         "correct_answer": "A",
-        "alternate_correct_answer": "Everything is alive and moves around"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "B  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next",
-        "edit_response": "B  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next walking about at the other end of the ground\u2014and I should have croqueted the Queen\u2019s hedgehog just now, only it ran away  \"I don\u2019t think they play at all fairly,\" Alice began, in rather a complaining tone, \"and they all quarrel so dreadfully one can\u2019t hear oneself speak\u2014and they don\u2019t seem to have any rules in particular; at least, if there are, nobody attends to them\u2014and you\u2019ve no idea how confusing it is all the things being alive; for instance, there\u2019s the arch I\u2019ve got to go through next",
-        "options": [
-            "A - The Cheshire Cat's head",
-            "B - The Queen",
-            "C - The King",
-            "D - A soldier"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The Cheshire Cat's head"
+        "alternate_correct_answer": "White roses red"
     },
     {
         "model": "embedding_001--flan_t5_base_quiz_results",
@@ -962,9 +780,22 @@
         "alternate_correct_answer": "News of a trial beginning"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
+        "original_response": "A fan",
+        "edit_response": "A fan",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B",
+        "alternate_correct_answer": "A bottle labeled 'DRINK ME'"
+    },
+    {
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
             "B - To eat more cake",
@@ -975,20 +806,7 @@
         "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Because Time has stopped for the Mad Hatter",
-            "B - They enjoy tea more than any other meal",
-            "C - It's a riddle they are trying to solve",
-            "D - They are waiting for someone to join them"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1001,7 +819,7 @@
         "alternate_correct_answer": "Sitting by her sister on the bank"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
         "original_response": "Orange marmalade",
         "edit_response": "Orange marmalade",
         "options": [
@@ -1014,20 +832,20 @@
         "alternate_correct_answer": "Nothing, it was empty"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
-            "A - The White Rabbit's fan",
-            "B - The gloves",
-            "C - Another bottle",
-            "D - A magic word"
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
         ],
         "correct_answer": "A",
-        "alternate_correct_answer": "The White Rabbit's fan"
+        "alternate_correct_answer": "A dry, boring history"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [
@@ -1040,9 +858,9 @@
         "alternate_correct_answer": "His gloves and fan"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - You are old, Father William",
             "B - Twinkle, twinkle little star",
@@ -1053,9 +871,9 @@
         "alternate_correct_answer": "You are old, Father William"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - One side makes you grow taller, the other shorter",
             "B - It's poisonous",
@@ -1066,7 +884,7 @@
         "alternate_correct_answer": "One side makes you grow taller, the other shorter"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
         "original_response": "Cough",
         "edit_response": "Cough",
         "options": [
@@ -1079,48 +897,22 @@
         "alternate_correct_answer": "Sneeze"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
-            "A - Everyone in Wonderland",
-            "B - Only the Mad Hatter",
-            "C - Only the March Hare",
-            "D - Only Alice"
+            "A - Why is a raven like a writing desk?",
+            "B - What is black and white and read all over?",
+            "C - What has four legs but can't walk?",
+            "D - What gets wet while drying?"
         ],
         "correct_answer": "A",
-        "alternate_correct_answer": "Everyone in Wonderland"
+        "alternate_correct_answer": "Why is a raven like a writing desk?"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - A tea party",
-            "B - A birthday party",
-            "C - A wedding",
-            "D - A funeral"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A tea party"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - Put him in the teapot and use him as a cushion",
-            "B - Wake him up",
-            "C - Feed him",
-            "D - Ignore him"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Put him in the teapot and use him as a cushion"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
+        "original_response": "A, B, C and D.",
+        "edit_response": "A, B, C and D.",
         "options": [
             "A - He murdered the time while singing",
             "B - He was always late",
@@ -1131,33 +923,7 @@
         "alternate_correct_answer": "He murdered the time while singing"
     },
     {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - The long hall with the glass table",
-            "B - Another tea party",
-            "C - The Queen's garden",
-            "D - Her sister"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "The long hall with the glass table"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
-        "original_response": "A, B, C and D",
-        "edit_response": "A, B, C and D",
-        "options": [
-            "A - News of a trial beginning",
-            "B - The Queen calling",
-            "C - Dinner time",
-            "D - A thunderstorm"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "News of a trial beginning"
-    },
-    {
-        "model": "static_retrieval_mrl_en_v1",
+        "model": "static_retrieval_mrl_en_v1--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D",
         "edit_response": "A, B, C and D",
         "options": [

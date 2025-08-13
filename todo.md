@@ -1,0 +1,1 @@
+- include the vector differences when searching the db and each of the sources

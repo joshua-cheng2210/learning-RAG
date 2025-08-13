@@ -29,7 +29,7 @@ class QueryEngine:
         
         # Initialize embedding function based on type
         if embedding_model_type == "gemini":
-            api_key = os.getenv("GEMINI_API_KEY")
+            api_key = os.getenv("GEMINI_API_KEY")  # Changed from GEMINI_API_KEY
             if not api_key:
                 raise ValueError("GEMINI_API_KEY environment variable is required for Gemini models")
             
@@ -85,7 +85,7 @@ class QueryEngine:
             here are the options:
             {options}
 
-            Respond only the Letter of the correct options like A, B, C and D
+            Respond only the Letter of the correct options like A, B, C and D. Do not inlcude the source.
             """
         
         print(f"QueryEngine initialized:")
@@ -211,7 +211,24 @@ class QueryEngine:
                 'response' : result['response'],
                 'is_correct': result['response'].strip().upper() == correct_answer.upper()
             })
-            
+
+            if result["is_correct"] == False and len(result["response"]) != 1:
+                if result["correct_answer"].upper().strip() == "A":
+                    alternate_correct_answer = result["options"][0][4:].replace('-', '').strip()
+                elif result["correct_answer"].upper().strip() == "B":
+                    alternate_correct_answer = result["options"][1][4:].replace('-', '').strip()
+                elif result["correct_answer"].upper().strip() == "C":
+                    alternate_correct_answer = result["options"][2][4:].replace('-', '').strip()
+                elif result["correct_answer"].upper().strip() == "D":
+                    alternate_correct_answer = result["options"][3][4:].replace('-', '').strip()
+                else:
+                    alternate_correct_answer = ""
+
+                if alternate_correct_answer.upper() == result["response"].upper():
+                    result["is_correct"] = True
+                else:
+                    result["is_correct"] = False
+
             if result['is_correct']:
                 correct_count += 1
             

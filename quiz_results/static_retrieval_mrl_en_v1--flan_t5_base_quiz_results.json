@@ -21,7 +21,7 @@
     },
     {
         "question": "What item does Alice find that makes her shrink?",
-        "response": "C",
+        "response": "A fan",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -41,7 +41,7 @@
     },
     {
         "question": "Who continually shouts 'Off with their heads!'?",
-        "response": "D",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -57,7 +57,7 @@
             "D - The Gryphon"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What animal is constantly smiling?",
@@ -101,7 +101,7 @@
     },
     {
         "question": "What advice does the Caterpillar give Alice regarding her size?",
-        "response": "Respond only the Letter of the correct options like A, B, C and D",
+        "response": "A, B, C and D.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -141,7 +141,7 @@
     },
     {
         "question": "Why is it always tea-time at the Mad Tea-Party?",
-        "response": "A, B, C and D",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -157,11 +157,11 @@
             "D - They are waiting for someone to join them"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does Alice use as a mallet in the Queen's croquet game?",
-        "response": "A",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -177,11 +177,11 @@
             "D - Her arm"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who recites 'Tis the Voice of the Lobster'?",
-        "response": "C",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -197,7 +197,7 @@
             "D - The White Rabbit"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What is Alice doing when she first sees the White Rabbit?",
@@ -221,7 +221,7 @@
     },
     {
         "question": "What does the White Rabbit take out of his waistcoat pocket?",
-        "response": "A letter",
+        "response": "A watch",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -237,11 +237,11 @@
             "D - A letter"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does Alice find in the jar labeled 'ORANGE MARMALADE'?",
-        "response": "A",
+        "response": "Orange marmalade",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -257,7 +257,7 @@
             "D - A note"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice worry about while falling down the rabbit hole?",
@@ -281,7 +281,7 @@
     },
     {
         "question": "What is the name of Alice's cat?",
-        "response": "A",
+        "response": "Dinah",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -321,7 +321,7 @@
     },
     {
         "question": "What flavors does the 'DRINK ME' bottle taste like?",
-        "response": "A",
+        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -341,7 +341,7 @@
     },
     {
         "question": "How tall is Alice after drinking from the bottle?",
-        "response": "A",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -357,7 +357,7 @@
             "D - One foot"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice forget when she tries to go through the little door?",
@@ -381,7 +381,7 @@
     },
     {
         "question": "What words are written on the cake?",
-        "response": "A, B, C and D",
+        "response": "EAT ME",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -397,7 +397,7 @@
             "D - BITE ME"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "How tall does Alice become after eating the cake in Chapter II?",
@@ -441,7 +441,7 @@
     },
     {
         "question": "What is the White Rabbit carrying when Alice sees him the second time?",
-        "response": "A",
+        "response": "White kid gloves and a large fan",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -481,7 +481,7 @@
     },
     {
         "question": "What causes Alice to shrink again in Chapter II?",
-        "response": "A, B, C and D",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -541,7 +541,7 @@
     },
     {
         "question": "What does Alice find herself swimming in?",
-        "response": "Salt water from her own tears",
+        "response": "B",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -557,7 +557,7 @@
             "D - A swimming pool"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What kind of race do the animals run to get dry?",
@@ -661,7 +661,7 @@
     },
     {
         "question": "Why do all the animals leave Alice?",
-        "response": "A",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -677,7 +677,7 @@
             "D - She's crying too much"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does the White Rabbit mistake Alice for?",
@@ -701,7 +701,7 @@
     },
     {
         "question": "What does the White Rabbit send Alice to fetch?",
-        "response": "A",
+        "response": "A, B, C and D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -717,7 +717,7 @@
             "D - His coat"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What happens when Alice drinks from the bottle in the White Rabbit's house?",
@@ -741,7 +741,7 @@
     },
     {
         "question": "What do the animals throw at Alice when she's stuck in the house?",
-        "response": "A, B, C and D",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -761,7 +761,7 @@
     },
     {
         "question": "Who goes down the chimney to get Alice out?",
-        "response": "B",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -801,7 +801,7 @@
     },
     {
         "question": "What color is the Caterpillar?",
-        "response": "A",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -817,7 +817,7 @@
             "D - Yellow"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What is the Caterpillar smoking?",
@@ -861,7 +861,7 @@
     },
     {
         "question": "What height does the Caterpillar think is good?",
-        "response": "A",
+        "response": "Three inches",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -881,7 +881,7 @@
     },
     {
         "question": "What does Alice recite for the Caterpillar?",
-        "response": "A",
+        "response": "A, B, C and D.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -897,11 +897,11 @@
             "D - Mary had a little lamb"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does the Caterpillar tell Alice about the mushroom?",
-        "response": "A, B, C and D",
+        "response": "A, B, C and D.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -941,7 +941,7 @@
     },
     {
         "question": "What does the Pigeon think Alice is?",
-        "response": "A",
+        "response": "A serpent",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -961,7 +961,7 @@
     },
     {
         "question": "What is the Duchess's cook doing when Alice arrives?",
-        "response": "A",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -977,11 +977,11 @@
             "D - Chopping vegetables"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does everyone except the cook and Cheshire Cat do because of the pepper?",
-        "response": "Sneeze",
+        "response": "Cough",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -997,11 +997,11 @@
             "D - Cough"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does the Duchess's baby turn into?",
-        "response": "A",
+        "response": "A pig",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1061,7 +1061,7 @@
     },
     {
         "question": "According to the Cheshire Cat, who is mad?",
-        "response": "C",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1077,7 +1077,7 @@
             "D - Only Alice"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does the Cheshire Cat say about being mad?",
@@ -1141,7 +1141,7 @@
     },
     {
         "question": "What riddle does the Mad Hatter ask Alice?",
-        "response": "A",
+        "response": "A, B, C and D.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1157,11 +1157,11 @@
             "D - What gets wet while drying?"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What do they do to the Dormouse at the tea party?",
-        "response": "B",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1177,7 +1177,7 @@
             "D - Ignore him"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What story does the Dormouse tell?",
@@ -1201,7 +1201,7 @@
     },
     {
         "question": "What are the names of the three sisters in the Dormouse's story?",
-        "response": "A",
+        "response": "D",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1217,7 +1217,7 @@
             "D - Anne, Beth, and Claire"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What did the three sisters draw from the treacle well?",
@@ -1241,7 +1241,7 @@
     },
     {
         "question": "Why did the Mad Hatter quarrel with Time?",
-        "response": "A, B, C and D",
+        "response": "A, B, C and D.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1281,7 +1281,7 @@
     },
     {
         "question": "What does Alice find when she goes through the door in the tree?",
-        "response": "B",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1401,7 +1401,7 @@
     },
     {
         "question": "What serves as the hoops in the croquet game?",
-        "response": "A, B, C and D",
+        "response": "Soldiers bent over",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1417,11 +1417,11 @@
             "D - Flowers"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "Why is the croquet game so difficult?",
-        "response": "A",
+        "response": "B",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1437,7 +1437,7 @@
             "D - The rules keep changing"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who does Alice talk to during the croquet game?",
@@ -1461,7 +1461,7 @@
     },
     {
         "question": "What causes a commotion during the croquet game?",
-        "response": "C",
+        "response": "B",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1481,7 +1481,7 @@
     },
     {
         "question": "Who does the Queen want to execute for the Cheshire Cat incident?",
-        "response": "The executioner argues it's impossible to cut off a head without a body",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1497,7 +1497,7 @@
             "D - The gardeners"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who does Alice meet while the Queen is away?",
@@ -1541,7 +1541,7 @@
     },
     {
         "question": "What subjects did the Mock Turtle study?",
-        "response": "B",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1561,7 +1561,7 @@
     },
     {
         "question": "What dance do the Gryphon and Mock Turtle demonstrate?",
-        "response": "A",
+        "response": "The Lobster Quadrille",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1581,7 +1581,7 @@
     },
     {
         "question": "What poem does the Mock Turtle recite?",
-        "response": "'Tis the Voice of the Lobster",
+        "response": "B",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1597,11 +1597,11 @@
             "D - Jabberwocky"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What interrupts Alice's time with the Mock Turtle and Gryphon?",
-        "response": "A, B, C and D",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1701,7 +1701,7 @@
     },
     {
         "question": "Who are the witnesses at the trial?",
-        "response": "A, B, C and D",
+        "response": "A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1717,11 +1717,11 @@
             "D - The gardeners"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What happens to Alice during the trial?",
-        "response": "A",
+        "response": "C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1737,11 +1737,11 @@
             "D - She shrinks"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice say about the evidence?",
-        "response": "A",
+        "response": "B",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1757,7 +1757,7 @@
             "D - It's false"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "How does Alice's adventure end?",
