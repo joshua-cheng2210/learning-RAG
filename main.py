@@ -19,7 +19,7 @@ EMBEDDING_MODEL_OPTIONS = [
     "BAAI/bge-large-en", # success
     "intfloat/e5-base-v2", # success
     "sentence-transformers/static-retrieval-mrl-en-v1", # success
-    "sentence-transformers/all-MiniLM-L12-v2", # success
+    "sentence-transformers/all-MiniLM-L12-v2", # success # best one so far
     "gemini/embedding-001",       # Older Gemini model
     "gemini/text-embedding-005",  # New Gemini model
 ]

@@ -1,1 +1,2 @@
 - include the vector differences when searching the db and each of the sources
+- size of the chorma db for each file or chunk of text

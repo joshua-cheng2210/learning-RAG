@@ -437,7 +437,7 @@
             "D - A lake"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What is the White Rabbit carrying when Alice sees him the second time?",
@@ -557,7 +557,7 @@
             "D - A swimming pool"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What kind of race do the animals run to get dry?",

@@ -34,8 +34,10 @@ for model_response_fp in os.listdir(model_response_directory):
                     if alternate_correct_answer.upper() == edit_response.upper():
                         question["is_correct"] = True
                     else:
-                        edit_response.upper().startswith(alternate_correct_answer.upper())
-                        question["is_correct"] = False
+                        if edit_response.upper().startswith(alternate_correct_answer.upper()):
+                            question["is_correct"] = True
+                        else:
+                            question["is_correct"] = False
                 
                 save = {
                     "model" : model_response_fp.replace(".json", ""),

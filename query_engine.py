@@ -53,12 +53,17 @@ class QueryEngine:
                 max_length=512,
             )
         elif self.text_model_name.startswith("gpt") or self.text_model_name.startswith("distilgpt"):
+            # Special handling for GPT-2 models to fix the token length issue
             self.hf_pipeline = pipeline(
                 "text-generation",
                 model=self.text_model_name,
-                max_length=512,
+                max_new_tokens=50,         # Generate only 50 new tokens
                 do_sample=True,
-                pad_token_id=50256
+                temperature=0.7,
+                pad_token_id=50256,
+                truncation=True,           # Truncate long inputs
+                return_full_text=False,    # Only return generated text, not input
+                device=-1                  # Force CPU for stability
             )
         else:
             self.text_model_name = "google/flan-t5-small"
@@ -227,7 +232,11 @@ class QueryEngine:
                 if alternate_correct_answer.upper() == result["response"].upper():
                     result["is_correct"] = True
                 else:
-                    result["is_correct"] = False
+                    if result["response"].upper().startswith(alternate_correct_answer.upper()):
+                        result["response"] = alternate_correct_answer
+                        result["is_correct"] = True
+                    else:
+                        result["is_correct"] = False
 
             if result['is_correct']:
                 correct_count += 1

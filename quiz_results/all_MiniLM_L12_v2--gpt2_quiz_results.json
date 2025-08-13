@@ -1,7 +1,7 @@
 [
     {
         "question": "Who does Alice follow down the rabbit hole at the beginning of the story?",
-        "response": "A",
+        "response": "I  The Fairy Queen\n\nJ  The King of Hearts\n\nK  The Queen of Hearts\n\nL  The Queen of Hearts\n\nM  The Queen of Hearts\n\n\n\n\nSo the story proceeds.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -17,11 +17,11 @@
             "D - The Queen of Hearts"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What item does Alice find that makes her shrink?",
-        "response": "B",
+        "response": "Answer the question to the letters.               Answer the question based on the above context: What you find makes Alice shrink?\n\n\u201cYou did it!\u201d",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -37,11 +37,11 @@
             "D - A fan"
         ],
         "correct_answer": "B",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who continually shouts 'Off with their heads!'?",
-        "response": "A",
+        "response": "Answer the question based on the above context: Who, during the time of the game, who ever appeared in the game, or who ever ran to the entrance of the game, who ever paid for the game, or who ever held the game's",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -57,11 +57,11 @@
             "D - The Gryphon"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What animal is constantly smiling?",
-        "response": "A",
+        "response": "Answer the question based on the above context: How did the Cat smile?\n\n\u201cWell! I\u2019ve often seen a cat without a grin,\u201d thought Alice; \u201cbut a smile without a cat! It\u2019",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -77,11 +77,11 @@
             "D - The Caterpillar"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What game does the Queen of Hearts play using flamingos and hedgehogs?",
-        "response": "A",
+        "response": "Answer the question based upon the following context:\n\nB  Chess\n\nC  Tennis\n\nD  Bowling\n\nE  Bowling\n\n\nWhy do you think the game is so confusing?\n\n\n\nAlice thought of a",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -97,11 +97,11 @@
             "D - Bowling"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What advice does the Caterpillar give Alice regarding her size?",
-        "response": "Respond only the Letter of the correct choices like A, B, C and D",
+        "response": "Answer the question based on the above context:\n\nB  To be a little bigger\n\nC  To be a little bigger\n\nD  To be a little bigger\n\n\n\nThe Caterpillar, the Caterpillar's companion",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -121,7 +121,7 @@
     },
     {
         "question": "Who attends the Mad Tea-Party with the Mad Hatter?",
-        "response": "A",
+        "response": "Answer the question based on the above context: Who attends the Mad TeaParty with the Mad Hatter?\n\n\n\nThe answer was the following:\n\nA  The Duke of Gloucester\n\nB  The King of",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -137,11 +137,11 @@
             "D - The Gryphon and the Mock Turtle"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Why is it always tea-time at the Mad Tea-Party?",
-        "response": "A, B, C and D",
+        "response": "B  If you are interested in looking into the situation, you must choose the answer that you want to hear next.\nB  If you are interested in looking into the situation, you must choose the answer that you want to hear next. C",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -161,7 +161,7 @@
     },
     {
         "question": "What does Alice use as a mallet in the Queen's croquet game?",
-        "response": "A",
+        "response": "Answer the question based on the following context: What do you use as a mallet in the Queen's croquet game?\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -177,11 +177,11 @@
             "D - Her arm"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who recites 'Tis the Voice of the Lobster'?",
-        "response": "C",
+        "response": "Answer the question based on the above context: Who sings 'Tis the Voice of the Lobster'?\n\n\n\n\u201cNo,\u201d said Alice. \u201cI would not have written 'Tis the Voice of the Lob",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -201,7 +201,7 @@
     },
     {
         "question": "What is Alice doing when she first sees the White Rabbit?",
-        "response": "A, B, C and D",
+        "response": "Answer the question based on the above context: How many times do you have to answer the question, and why? Answer the letter of the correct options like A, B, C, D, E, F; only answer the Letter of",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -221,7 +221,7 @@
     },
     {
         "question": "What does the White Rabbit take out of his waistcoat pocket?",
-        "response": "A",
+        "response": "Answer the question based on the above context:\n\n A watch\n\n A key\n\n A letter\n\n A letter\n\n A letter\n\n A letter\n\n A letter\n\n A letter",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -237,11 +237,11 @@
             "D - A letter"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice find in the jar labeled 'ORANGE MARMALADE'?",
-        "response": "A",
+        "response": "Answer the question based on the above context: A is very very much in the blue marmalade, but B is not, so cannot be used as a key for opening a jar, or for breaking the jar, or for taking out and holding",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -257,11 +257,11 @@
             "D - A note"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice worry about while falling down the rabbit hole?",
-        "response": "C",
+        "response": "Answers the question based on the above context: The rabbithole can be a large, cold, dark, or even a deep hole. The rabbithole can be a place where the rabbit has to lay down.\n\nThe rabbithole",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -281,7 +281,7 @@
     },
     {
         "question": "What is the name of Alice's cat?",
-        "response": "A",
+        "response": "Answer the question based on the following context: Why do you like the Queen? What is the name of Alice's cat?\n\n\n\nThe Cat in a low voice said to Alice, now, with her face in the water, \"",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -297,11 +297,11 @@
             "D - Fluffy"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice find on the three-legged glass table?",
-        "response": "A",
+        "response": "Answer the question based on the above context: What does Alice find on the threelegged glass table?\n\nC  C cup\n\nD  D cup\n\nE  E cup\n\nF  F cup\n\nG  G",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -321,7 +321,7 @@
     },
     {
         "question": "What flavors does the 'DRINK ME' bottle taste like?",
-        "response": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+        "response": "Answer the question based on the above context:\n\nA  Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast\n\nB  Strawberry and cream\n\nC  Chocolate and vanilla",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -337,11 +337,11 @@
             "D - Lemon and honey"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "How tall is Alice after drinking from the bottle?",
-        "response": "A",
+        "response": "Answer the question based on the above context: How far away from the door is the door to the room in question?\n\n\n\nOne day at night, while having the best of friends in the world, Alice was sitting under a large",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -357,11 +357,11 @@
             "D - One foot"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice forget when she tries to go through the little door?",
-        "response": "A",
+        "response": "Reply only the Letter of the correct options like A, B, C, and D. Do not inlcude the source.\n\n\n\nNo, if I get through the door, I shall not get into the garden. I will",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -377,11 +377,11 @@
             "D - Her handkerchief"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What words are written on the cake?",
-        "response": "A",
+        "response": "Answer the question based on the above context: Are you a prisoner in the cell?\n\nThe Answer\n\n\u201cYes, you are,\u201c the King said.\n\n\u201cYou are a prisoner in a cage,\u201c",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -397,11 +397,11 @@
             "D - BITE ME"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "How tall does Alice become after eating the cake in Chapter II?",
-        "response": "A",
+        "response": "Answer the question based on the above context: This is the first time that we have seen a person grow taller than nine feet, and for a long time we had thought that it was the height of some sort. We are now very certain",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -417,11 +417,11 @@
             "D - Ten feet"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice create when she cries?",
-        "response": "A large pool of tears",
+        "response": "Answer the question based on the following context: What does Alice create when she cries?\n\nAnd what does Alice create when she cries?\n\n\n\nIt was a very long time before this little girl gave any answer. The Rabbit sat",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -437,11 +437,11 @@
             "D - A lake"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What is the White Rabbit carrying when Alice sees him the second time?",
-        "response": "A",
+        "response": "Answer the question based on the following context: What is the White Rabbit carrying when Alice sees him the first time?\n\nA  A small bag with a large fan or a scroll\n\nB  A trumpet and a scroll\n\nC",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -457,11 +457,11 @@
             "D - A book and a pen"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who is the White Rabbit worried about keeping waiting?",
-        "response": "A",
+        "response": "Answer the question based on the above context: Who is the Queen worried about keeping waiting?\n\n\n\nThe White Rabbit's eyes suddenly changed from a serious expression to a slightly frown. \u201cHe is the Queen.\n\nThe Queen",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -477,11 +477,11 @@
             "D - The Caterpillar"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What causes Alice to shrink again in Chapter II?",
-        "response": "C",
+        "response": "Answer the question based on the above context: What causes Alice to shrink again in Chapter II?\n\n\n\n\nAlice's first reaction was to look at the clock on the wall. Although it was beginning to look as if she would soon be",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -501,7 +501,7 @@
     },
     {
         "question": "What poem does Alice try to recite but gets wrong?",
-        "response": "B",
+        "response": "Answer the question based on the following context:\n\n\nA  The letters are written in a single letter. B  The letters are not written in a single letter. C  No letter.\n\n\nIn the beginning of every sentence, Alice thinks",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -521,7 +521,7 @@
     },
     {
         "question": "What does Alice think she might have been changed into?",
-        "response": "D",
+        "response": "Answer the question based on the following context:\n\n\nA  Ada, you see, I have been changed into a woman, and I have been the first to speak in your name. I am not a girl. It is your right to",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -537,11 +537,11 @@
             "D - All of the above"
         ],
         "correct_answer": "D",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice find herself swimming in?",
-        "response": "Salt water from her own tears",
+        "response": "Answer the question based on the above context:\n\n\nAnswer 2\n\n\u2014\n\n\u2014\u2014\n\n\"I am so afraid of you, Alice, that I am afraid of the sea, that I am afraid of your life, and that",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -557,11 +557,11 @@
             "D - A swimming pool"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What kind of race do the animals run to get dry?",
-        "response": "A",
+        "response": "Answer the question based on the following context: What kind of race do the animals run to get dry?\n\nIf you have not completed your first three questions, it may be necessary to have your answer checked first by a qualified expert with the necessary",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -577,11 +577,11 @@
             "D - A sprint"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who organizes the Caucus-race?",
-        "response": "A",
+        "response": "Answer the question based on the following context: Who organizes the Caucusrace?\n\nB  The Mouse\n\nA  The Mouse\n\nB  The Mouse\n\n\n\u201cWhat is a Caucusrace?\u201d said",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -597,11 +597,11 @@
             "D - The Lory"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What is special about the Caucus-race?",
-        "response": "C",
+        "response": "Answer the question based on the above context: What is special about the party?\n\n\u201cWhat is special about the party?\u201d said the Dodo. \u201cYou're the only one who has won and lost.\ufffd",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -621,7 +621,7 @@
     },
     {
         "question": "What does Alice give out as prizes?",
-        "response": "Comfits (sweets)",
+        "response": "Answer the question based on the following context: what do you give out as prizes?\n\nB  Comfits\n\n\nB  Coins\n\nC  Flowers\n\n\nC  Ribbons\n\n\nC  Flowers\n\nD  Ribbons",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -637,11 +637,11 @@
             "D - Ribbons"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What story does the Mouse tell?",
-        "response": "A",
+        "response": "Answer the question based on the following context: What story does the Mouse tell?\n\nAnswer the Question: What Story? Answer the Question:\n\n\n\nA  A fairy tale\n\nB  A adventure story\n\nC",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -657,11 +657,11 @@
             "D - A ghost story"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Why do all the animals leave Alice?",
-        "response": "A, B, C and D",
+        "response": "Answer the question based on the above context: Why do all the animals leave Alice? What would be the point of this question if Alice were not here?\n\n\n\nNow that she was completely in the matter of this question, it would",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -681,7 +681,7 @@
     },
     {
         "question": "What does the White Rabbit mistake Alice for?",
-        "response": "B",
+        "response": "Answer the question based on the following context:\n\nA  The Queen\n\nB  She would probably not be able to afford to pay the Queen's dowry for her new home.\n\nD  Her daughter\n\nE",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -701,7 +701,7 @@
     },
     {
         "question": "What does the White Rabbit send Alice to fetch?",
-        "response": "A",
+        "response": "Answer the question based on the above context: What does the White Rabbit send Alice to fetch?\n\nC  He is at home with Dinah\n\nD  He is away with the Mouse\n\nE  He is at home with M",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -717,11 +717,11 @@
             "D - His coat"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What happens when Alice drinks from the bottle in the White Rabbit's house?",
-        "response": "B",
+        "response": "Answer the question based on the above context: What happens when Alice goes to the other side of the room and finds the letter?\n\nE  Yes, she answered\n\nF  No, she answered\n\nG  She says nothing",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -741,7 +741,7 @@
     },
     {
         "question": "What do the animals throw at Alice when she's stuck in the house?",
-        "response": "Pebbles that turn into cakes",
+        "response": "Answer the question based on the following context: Do not take the letter of the correct option with you, if you ever see one. Are you sure that it is right?\n\n\nA  The Letter of the correct option.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -757,11 +757,11 @@
             "D - Mud"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who goes down the chimney to get Alice out?",
-        "response": "A",
+        "response": "Reply the question based on the following context: How do you get out?\n\n\ufffd\n\n\n\n\u201cThe answer is a little different!\ufffd\n\n\u200b\n\n\nLiked this article? Consider supporting us on Patreon!",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -777,11 +777,11 @@
             "D - The Dodo"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice do to Bill the Lizard?",
-        "response": "C",
+        "response": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -801,7 +801,7 @@
     },
     {
         "question": "What color is the Caterpillar?",
-        "response": "A",
+        "response": "Answer the question based on the above context: What color is the Caterpillar?\n\n\u201cThe answer to this question depends on the character of the Caterpillar.\n\n\u201cAnswers to questions like these are not always possible.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -817,11 +817,11 @@
             "D - Yellow"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What is the Caterpillar smoking?",
-        "response": "A",
+        "response": "Answer the question based on the above context: How many of these will you be able to smoke?\n\nYou can tell if you have a really big mouth, or a small mouth by looking at the mouth at a certain distance.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -837,11 +837,11 @@
             "D - A cigar"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does the Caterpillar ask Alice?",
-        "response": "A",
+        "response": "Answer the question based on the following context: The letter you answered was of the kind given by the Master here, and it was written in the form of a letter.\n\n\n\n\u201cThe letter you received was from the Master.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -857,11 +857,11 @@
             "D - How old are you?"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What height does the Caterpillar think is good?",
-        "response": "A",
+        "response": "Answer the question based on the above context: What height does the Caterpillar think is good?\n\nI would like to know how much of the Caterpillar's intelligence we have.\n\n\n\nThere are only two answers to this question",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -877,11 +877,11 @@
             "D - Two feet"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice recite for the Caterpillar?",
-        "response": "A, B, C and D",
+        "response": "Answer the question based on the above context: What does the letter say?\n\n\n\n\u201cI have the letter,\u201d said Alice.\n\n\u201cPlease tell me what the letter says.\u201d\n\n\u201c",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -901,7 +901,7 @@
     },
     {
         "question": "What does the Caterpillar tell Alice about the mushroom?",
-        "response": "One side makes you grow taller, the other shorter",
+        "response": "Answer the question based on the following context:\n\n\n\u201cAre you certain that your size will be reduced to one?\u201d If so, and for what purpose?\n\nC  It's to get you through your first three years of",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -917,11 +917,11 @@
             "D - It's magical"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What happens when Alice eats from the wrong side of the mushroom first?",
-        "response": "C",
+        "response": "Reply only the Letter of the correct options like B, C and D. Do not inlcude the source.\n\n\n\n\u201cHaven't you said the mushroom was a little oversized?\u201d said the Caterpillar",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -941,7 +941,7 @@
     },
     {
         "question": "What does the Pigeon think Alice is?",
-        "response": "A",
+        "response": "Answer the question based on the above context: What does the Pigeon think Alice is?\n\n\n\n\u201cI\u2014I\u2019m a little girl,\u201d said Alice, rather doubtfully, as she remembered the number",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -957,11 +957,11 @@
             "D - A worm"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What is the Duchess's cook doing when Alice arrives?",
-        "response": "A",
+        "response": "Answer the question based on the following context: What is the Duchess doing when Alice arrives?\n\n\nThe Duchess has been seen in the palace before, and is often seen on the streets of the city, and in the gardens of the royal",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -977,11 +977,11 @@
             "D - Chopping vegetables"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does everyone except the cook and Cheshire Cat do because of the pepper?",
-        "response": "Sneeze B",
+        "response": "Answer the question based on the above context: This is not my place. I don\u2019t like it. I don\u2019t like that. I don\u2019t like that any more. I don\u2019t like that!",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -997,11 +997,11 @@
             "D - Cough"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does the Duchess's baby turn into?",
-        "response": "A",
+        "response": "Reply only the Letter of the correct options like A, B, C and D. Do not inlcude the source. A  A pig\nB  A pig\n\nC  A mouse\n\nD  A bird",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1017,11 +1017,11 @@
             "D - A bird"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Where does the Cheshire Cat first appear to Alice?",
-        "response": "B",
+        "response": "Reply for the correct options.\n\n\n\nIt would be nice if Alice did not know the name, the Cat thought, and replied: \"Would you tell me, please, which way I ought to go from here?\"",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1041,7 +1041,7 @@
     },
     {
         "question": "What can the Cheshire Cat do that's unusual?",
-        "response": "Disappear and leave only its grin",
+        "response": "Answer the question based on the following context:   , B is the English language, A is an English language, D is an English language, and E is an English language.\n\n\n\nBut she didn't think about it",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1057,11 +1057,11 @@
             "D - Change colors"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "According to the Cheshire Cat, who is mad?",
-        "response": "A, B, C and D",
+        "response": "Error generating response.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1081,7 +1081,7 @@
     },
     {
         "question": "What does the Cheshire Cat say about being mad?",
-        "response": "A",
+        "response": "Error generating response.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1097,11 +1097,11 @@
             "D - Mad people are sad"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What is happening at the Mad Hatter's house when Alice arrives?",
-        "response": "A",
+        "response": "Answer the question based only on the following context: The Hatter says that the Dormouse is in the hall, and Alice knows that the Dormouse will be there, but she doesn't know what it means, so she leaves her,",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1117,11 +1117,11 @@
             "D - A funeral"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice say she has had to drink at the tea table?",
-        "response": "C",
+        "response": "Reply this question to this question in our forum.\n\nquestion #1: A It's still tea time.\n\nquestion #2: B The Queen is killing the time.\n\nquestion #3: D The",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1141,7 +1141,7 @@
     },
     {
         "question": "What riddle does the Mad Hatter ask Alice?",
-        "response": "A",
+        "response": "Answer the question based on the following context:\n\n\n\n\u201cThe Dormouse is asleep again,\u201d said the Hatter.\n\n\u201cNo, I give it up,\u201d Alice replied: \u201cwhat",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1157,11 +1157,11 @@
             "D - What gets wet while drying?"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What do they do to the Dormouse at the tea party?",
-        "response": "A",
+        "response": "Answer the question based on the following context: What do they do at the tea party?\n\n\n\n\ufffd\n\nF.G. KIRBY\n\n(Mrs. K. Birby)\n\n\n\nThe House",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1177,11 +1177,11 @@
             "D - Ignore him"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What story does the Dormouse tell?",
-        "response": "A",
+        "response": "Answer the question based on the above context: When the Dormouse was born, this was the location of a treacle. If an angel is raised there, the Dormouse was raised there. If someone were to die there, it would",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1197,11 +1197,11 @@
             "D - About a magic kingdom"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What are the names of the three sisters in the Dormouse's story?",
-        "response": "A",
+        "response": "Answer the question based on the following context: What are the names of the three sisters in the Dormouse's story?\n\n\ufffdWell,\u201c said the Hatter, who was in the Dormouse's place.\n\n\ufffd",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1217,11 +1217,11 @@
             "D - Anne, Beth, and Claire"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What did the three sisters draw from the treacle well?",
-        "response": "C",
+        "response": "Answer the question based on the following context: How does a treaclewell work?\n\nA  The well is not to be taken out of the well.\n\nB  It must be left in the well.\n\nC",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1241,7 +1241,7 @@
     },
     {
         "question": "Why did the Mad Hatter quarrel with Time?",
-        "response": "A, B, C and D",
+        "response": "Answer the question based on the following context: Why did the mad Hatter quarrel with Time?\n\nThe Mad Hatter replied: he was a murderer.            A  He murdered the",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1261,7 +1261,7 @@
     },
     {
         "question": "What do they do when they want clean dishes at the tea party?",
-        "response": "B",
+        "response": "Answer the question based on the above context: What do they do when they want clean dishes at the tea party?\n\n\n\n\u201cI\u2019ll never go there again!\u201d said the March Hare, with a sigh.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1281,7 +1281,7 @@
     },
     {
         "question": "What does Alice find when she goes through the door in the tree?",
-        "response": "B",
+        "response": "Answer the question based on the above context: What does Alice find when she goes through the door in the garden?\n\n\n\nAlice opened the door in the corner and spotted the Rabbit; the door creaked shut, and Alice stood in",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1301,7 +1301,7 @@
     },
     {
         "question": "What are the gardeners painting in the Queen's garden?",
-        "response": "A",
+        "response": "Answer the question based on the above context:\n\n\nA  The Queen\n\nB  A\n\nC  A\n\nD  A\n\nE  A\n\nF  A\n\nG  A",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1317,11 +1317,11 @@
             "D - The trees"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Why are the gardeners painting the roses?",
-        "response": "A",
+        "response": "Answer the question based on the above context: Could it please your Majesty, that they would put these flowers in a plant called the croquet?\n\nA  They planted white roses by mistake and the Queen wants red\n\nB  They",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1337,11 +1337,11 @@
             "D - It's their job"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What are the gardeners' names?",
-        "response": "A",
+        "response": "Reply the question based on the above context: What are the gardeners' names?\n\n           Answer the question based on the above context: Why do you think the Princess is the one who is",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1357,11 +1357,11 @@
             "D - Red, White, and Blue"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What happens to the gardeners who painted the roses?",
-        "response": "The Queen orders their heads to be cut off",
+        "response": "Answer the question based only on the following context: Where was the Gardeners?\n\nA  They were in the garden\n\n\nB  They were in the garden\n\n\nC  They were in the garden\n\n\nD  They were",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1377,11 +1377,11 @@
             "D - They are ignored"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What serves as the balls in the Queen's croquet game?",
-        "response": "A",
+        "response": "Answer the question based on the above context: How many balls do you have right now?\n\n1 / 5\n\n2 / 5\n\n3 / 5\n\n4 / 5\n\n5 / 5\n\n1 / 5",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1397,11 +1397,11 @@
             "D - Apples"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What serves as the hoops in the croquet game?",
-        "response": "A, B, C and D",
+        "response": "Answer the question based on the following context: If you are in a position to shoot a ball, then you will have to shoot the ball in order to make the hoop jump. If, on the other hand, you do not, then you",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1421,7 +1421,7 @@
     },
     {
         "question": "Why is the croquet game so difficult?",
-        "response": "A",
+        "response": "Answer the question based on the three options:\n\nA  You should have taken the first option.\n\nB  The second option is more difficult.\n\nC  The third option is more difficult.\n\nD  The final option",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1437,11 +1437,11 @@
             "D - The rules keep changing"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who does Alice talk to during the croquet game?",
-        "response": "B",
+        "response": "Answer the question based on the above context: Who does Alice talk to during the croquet game?\n\n\n\nA  The King\n\nC  The Queen\n\nD  A soldier\n\nE  A soldier",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1461,7 +1461,7 @@
     },
     {
         "question": "What causes a commotion during the croquet game?",
-        "response": "C",
+        "response": "Answer the question based on the above context: What causes a commotion during the croquet game?\n\n\u201cWhat causes a commotion during the croquet game?\u201d\n\nThe answer was no, it was just another croquet",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1481,7 +1481,7 @@
     },
     {
         "question": "Who does the Queen want to execute for the Cheshire Cat incident?",
-        "response": "C",
+        "response": "Reply only the Letter of the correct options like A, B, C and D. Do not inlcude the source.\n\n\n\nThe king wanted to kill the Duchess, so he led the other party to the castle: the people",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1501,7 +1501,7 @@
     },
     {
         "question": "Who does Alice meet while the Queen is away?",
-        "response": "D",
+        "response": "Answer any of the following questions:\n\n\nB  What is your name?\n\nC  What is your age?\n\nD  What is your position?\n\nE  What is your name?\n\nF  What is your",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1521,7 +1521,7 @@
     },
     {
         "question": "Who tells Alice the story of his education?",
-        "response": "A, B, C and D",
+        "response": "* * * * Answer the question based on the above context: What is the story of Alice's education?\n\n\u201cWhat is the story of Alice's education?\u201d said the Hatter.\n\n\u201cWhat is the story",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1541,7 +1541,7 @@
     },
     {
         "question": "What subjects did the Mock Turtle study?",
-        "response": "A",
+        "response": "Answer the question based on the above context: What are the subjects the Mock Turtle studied?\n\nA  Reading and Writing\nB  History, Geography, and Science\nC  Art, Music, and Drama\nD  Art, Reading",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1557,11 +1557,11 @@
             "D - Art, Music, and Drama"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What dance do the Gryphon and Mock Turtle demonstrate?",
-        "response": "A",
+        "response": "Answer the question based on the following context: We should have a Lobster Quadrille and a Tango.\n\nThe Lobster Quadrille\n\nThe Tango\n\nThe Ballet\n\nThe Tango",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1577,11 +1577,11 @@
             "D - The Ballet"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What poem does the Mock Turtle recite?",
-        "response": "B",
+        "response": "Answer the question based on the above context:\n\n\n\n\u201cAh,\u201d said the Mock Turtle. \u201cWhy does he say that?\u201d\n\n\u201cBecause he really does not understand,\u201d said the",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1601,7 +1601,7 @@
     },
     {
         "question": "What interrupts Alice's time with the Mock Turtle and Gryphon?",
-        "response": "A, B, C and D",
+        "response": "Answer the question based on the following context: What interrupted Alice's time with the Mock Turtle and Gryphon?\n\n\u201cHow many times do you remember this event,\u201d said the Mock Turtle to the Gryphon.",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1621,7 +1621,7 @@
     },
     {
         "question": "Who is on trial?",
-        "response": "A, B, C and D",
+        "response": "Reply to the questions.\n\n\n\n\u201cHe\u2019s a man,\u2029he\u2019s a man of wit and wit,\u2029he\u2019s a man who has been so bravely bravely brave",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1641,7 +1641,7 @@
     },
     {
         "question": "What is the Knave of Hearts accused of?",
-        "response": "A",
+        "response": "Answer the question based on the following context:\n\n\u201cI am the King of Hearts\n\nB  The Queen of Hearts stole my tarts\n\nC  Breaking the King's crown\n\nD  Insulting the court",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1657,11 +1657,11 @@
             "D - Insulting the court"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "Who is the judge at the trial?",
-        "response": "A",
+        "response": "Answer the question based on the above context: Who is the judge at the trial?\n\n\u201cThe King of Hearts\n\n\u201cThe Mad Hatter\n\n\u201cThe Duchess of Hearts\n\n\u201cThe White Rabbit",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1677,11 +1677,11 @@
             "D - The Mad Hatter"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does the White Rabbit read at the trial?",
-        "response": "B",
+        "response": "Answer the question based on the above context: What does the White Rabbit read at the trial?\n\n\n\n\u201cThe jury has already heard the answer.\u201d the King answered.\n\n\n\n\u201cThe Queen and",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1701,7 +1701,7 @@
     },
     {
         "question": "Who are the witnesses at the trial?",
-        "response": "B",
+        "response": "Answer the question based on the following context:\n\n\n\nThe First witness was a man, and was sitting at the same table as the King, who was sitting there on his stool. \u201cWhat is the reason for this?\ufffd",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1721,7 +1721,7 @@
     },
     {
         "question": "What happens to Alice during the trial?",
-        "response": "A",
+        "response": "Answer the question based on the above context: What happens to Alice during the trial?\n\nB  She grows taller again\nC  She disappears\nD  She shrinks\n\nE  She grows smaller again\n\nG  She",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1737,11 +1737,11 @@
             "D - She shrinks"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "What does Alice say about the evidence?",
-        "response": "A",
+        "response": "Answer the question based on the above context: What does Alice say about the evidence?\n\n2. Answers to Questions\u00b6 \u00a0* This is the question that could be asked in the second place.\n\n\u201d (Question 1) What",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1757,11 +1757,11 @@
             "D - It's false"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     },
     {
         "question": "How does Alice's adventure end?",
-        "response": "B",
+        "response": "The Project Gutenberg eBook of Alice's Adventures in Wonderland\n\n\n\nThe Project Gutenberg eBook of Alice's Adventures in Wonderland is a collection of eBooks by Alice Bailey",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1781,7 +1781,7 @@
     },
     {
         "question": "Who wakes Alice up at the end?",
-        "response": "A",
+        "response": "Answer the question based on the following context: Do you think that the Rabbit will sleep if you go to sleep with her?\n\n\n\nThe letter ended with a reply: \"I hope that there is no danger of waking her up,",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -1797,6 +1797,6 @@
             "D - The Cheshire Cat"
         ],
         "correct_answer": "A",
-        "is_correct": true
+        "is_correct": false
     }
 ]

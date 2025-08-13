@@ -981,7 +981,7 @@
     },
     {
         "question": "What does everyone except the cook and Cheshire Cat do because of the pepper?",
-        "response": "Sneeze B",
+        "response": "Sneeze",
         "sources": [
             "books\\alice_in_wonderland.md",
             "books\\alice_in_wonderland.md",
@@ -997,7 +997,7 @@
             "D - Cough"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does the Duchess's baby turn into?",

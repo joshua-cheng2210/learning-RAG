@@ -997,7 +997,7 @@
             "D - Cough"
         ],
         "correct_answer": "A",
-        "is_correct": false
+        "is_correct": true
     },
     {
         "question": "What does the Duchess's baby turn into?",
