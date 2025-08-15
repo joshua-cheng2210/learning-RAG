@@ -165,14 +165,17 @@ class QueryEngine:
         # Prepare context from search results
         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
         sources = [(_score, doc.metadata.get("source", "Unknown"), doc.page_content) for doc, _score in results]
-        
+        all_scores = [_score for doc, _score in results]
+        avg = sum(all_scores) / len(all_scores) if all_scores else 0
+
         # Generate response
         response_text = self.generate_response(question, options or [], context_text)
         
         result = {
             'question': question,
             'response': response_text.replace('-', '').strip(),
-            'sources': sources
+            'sources': sources,
+            "avg relevance sources" : avg
         }
         
         if show_context:
@@ -180,7 +183,7 @@ class QueryEngine:
         
         return result
     
-    def run_quiz(self, quiz_file_path='test_questions.json', show_details=True, limit=None):
+    def run_quiz(self, quiz_file_path='test_questions.json', show_details=False, limit=None):
         """Run the complete quiz and return results."""
         # Load quiz data
         quiz_data = self.load_quiz_data(quiz_file_path)
