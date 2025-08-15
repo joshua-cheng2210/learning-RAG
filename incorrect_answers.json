@@ -1,5 +1,1149 @@
 [
     {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The White Rabbit",
+            "B - The Cheshire Cat",
+            "C - The Mad Hatter",
+            "D - The Queen of Hearts"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The White Rabbit"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cI did not.\u201d\n\u201cI did.\u201d\n\u201cI did.\u201d\n\u201cI did...\u201d\n\u201c",
+        "edit_response": "\u201cI did not.\u201d\n\u201cI did.\u201d\n\u201cI did.\u201d\n\u201cI did...\u201d\n\u201c",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B",
+        "alternate_correct_answer": "A bottle labeled 'DRINK ME'"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The army of the",
+        "edit_response": "The army of the",
+        "options": [
+            "A - The Queen of Hearts",
+            "B - The King of Hearts",
+            "C - The Duchess",
+            "D - The Gryphon"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Queen of Hearts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The Cheshire Cat",
+            "B - The March Hare",
+            "C - The Dormouse",
+            "D - The Caterpillar"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Cheshire Cat"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Croquet",
+            "B - Chess",
+            "C - Tennis",
+            "D - Bowling"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Croquet"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cThe first witness was the Hatter. He came in with a teacup in one hand and a piece of breadandbutter in the other. \u201c",
+        "edit_response": "\u201cThe first witness was the Hatter. He came in with a teacup in one hand and a piece of breadandbutter in the other. \u201c",
+        "options": [
+            "A - The March Hare and the Dormouse",
+            "B - The White Rabbit and the Dodo",
+            "C - The Queen of Hearts and the King of Hearts",
+            "D - The Gryphon and the Mock Turtle"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The March Hare and the Dormouse"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - A flamingo",
+            "B - A hedgehog",
+            "C - A wooden stick",
+            "D - Her arm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A flamingo"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "A  Alice\nB  The Skeleton\nC  The Black Rabbit\nD  The White Rabbit\nE  The Gryphon\nD  The White Rabbit\nF  The White Rabbit\nF  The White",
+        "edit_response": "A  Alice\nB  The Skeleton\nC  The Black Rabbit\nD  The White Rabbit\nE  The Gryphon\nD  The White Rabbit\nF  The White Rabbit\nF  The White",
+        "options": [
+            "A - Alice",
+            "B - The Mock Turtle",
+            "C - The Gryphon",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Alice"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "In the last minute Alice's ears began to hear her voice, but they were far away, and Alice knew nothing of her actions. She was still at the same time as the other two. She",
+        "edit_response": "In the last minute Alice's ears began to hear her voice, but they were far away, and Alice knew nothing of her actions. She was still at the same time as the other two. She",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sitting by her sister on the bank"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "B  A handkerchief\nE  A key\nF  A key\nG  A key\nH  A key",
+        "edit_response": "B  A handkerchief\nE  A key\nF  A key\nG  A key\nH  A key",
+        "options": [
+            "A - A watch",
+            "B - A handkerchief",
+            "C - A key",
+            "D - A letter"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A watch"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Nothing, it was empty",
+            "B - Orange marmalade",
+            "C - A key",
+            "D - A note"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Nothing, it was empty"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cI\u2019ll have to go look at this carefully,\u201d Alice said to herself, \u201cand see if it\u2019s something I like, and you\u2019ll tell me what you think.",
+        "edit_response": "\u201cI\u2019ll have to go look at this carefully,\u201d Alice said to herself, \u201cand see if it\u2019s something I like, and you\u2019ll tell me what you think.",
+        "options": [
+            "A - How many miles she's fallen",
+            "B - Whether she'll hurt someone below",
+            "C - That she might hurt herself",
+            "D - Neither"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "How many miles she's fallen"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The Countess was in the middle of the night, and she was in the middle of the night. The Countess had no interest in anything of importance, but she was",
+        "edit_response": "The Countess was in the middle of the night, and she was in the middle of the night. The Countess had no interest in anything of importance, but she was",
+        "options": [
+            "A - Dinah",
+            "B - Mittens",
+            "C - Whiskers",
+            "D - Fluffy"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Dinah"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "A  A small golden key\nB  A small golden key\nC  A small golden key\nD  A small golden key\nE  A small golden key\nE  A large golden",
+        "edit_response": "A  A small golden key\nB  A small golden key\nC  A small golden key\nD  A small golden key\nE  A small golden key\nE  A large golden",
+        "options": [
+            "A - A tiny golden key",
+            "B - A bottle",
+            "C - A cake",
+            "D - Both A and B"
+        ],
+        "correct_answer": "D",
+        "alternate_correct_answer": "Both A and B"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "(I\u2019m not sure that this can be done in the same way.)\n*",
+        "edit_response": "(I\u2019m not sure that this can be done in the same way.)\n*",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The golden key"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43",
+        "edit_response": "3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43",
+        "options": [
+            "A - EAT ME",
+            "B - TAKE ME",
+            "C - TRY ME",
+            "D - BITE ME"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "EAT ME"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "Alice felt quite confused as she looked at the table. \u201cI\u2019m going to eat it,\u201d said the Caterpillar",
+        "edit_response": "Alice felt quite confused as she looked at the table. \u201cI\u2019m going to eat it,\u201d said the Caterpillar",
+        "options": [
+            "A - More than nine feet",
+            "B - Six feet",
+            "C - Eight feet",
+            "D - Ten feet"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "More than nine feet"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cHave you heard of the words \u2018Let the baby sit,\u201d said Alice. \u201cWhat do you mean by saying \u2018Put the baby down to the ground?\ufffd",
+        "edit_response": "\u201cHave you heard of the words \u2018Let the baby sit,\u201d said Alice. \u201cWhat do you mean by saying \u2018Put the baby down to the ground?\ufffd",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A large pool of tears"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - White kid gloves and a large fan",
+            "B - A trumpet and a scroll",
+            "C - A bag and an umbrella",
+            "D - A book and a pen"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "White kid gloves and a large fan"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The Duchess",
+            "B - The Queen",
+            "C - The King",
+            "D - The Caterpillar"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Duchess"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The White Rabbit was a",
+        "edit_response": "The White Rabbit was a",
+        "options": [
+            "A - The White Rabbit's fan",
+            "B - The gloves",
+            "C - Another bottle",
+            "D - A magic word"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The White Rabbit's fan"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - How doth the little crocodile",
+            "B - Twinkle, twinkle little star",
+            "C - Mary had a little lamb",
+            "D - London Bridge is falling down"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "How doth the little crocodile"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Mabel",
+            "B - Ada",
+            "C - Another girl from her class",
+            "D - All of the above"
+        ],
+        "correct_answer": "D",
+        "alternate_correct_answer": "All of the above"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Salt water from her own tears"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - A Caucus-race",
+            "B - A relay race",
+            "C - A marathon",
+            "D - A sprint"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A Caucusrace"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The Dodo",
+            "B - The Mouse",
+            "C - Alice",
+            "D - The Lory"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Dodo"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "They were, the Dodo decided, \u201cthe best thing to",
+        "edit_response": "They were, the Dodo decided, \u201cthe best thing to",
+        "options": [
+            "A - Everyone wins and gets prizes",
+            "B - Only one person wins",
+            "C - Nobody wins",
+            "D - Only Alice wins"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everyone wins and gets prizes"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Comfits (sweets)"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "So she said, \u201cO\u00f9 est ma chat",
+        "edit_response": "So she said, \u201cO\u00f9 est ma chat",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A dry, boring history"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "A  You're a big cat\n You're a big cat She's too tall\nC  She's too small\nD  She's too small",
+        "edit_response": "A  You're a big cat\n You're a big cat She's too tall\nC  She's too small\nD  She's too small",
+        "options": [
+            "A - She mentions her cat Dinah",
+            "B - She's too tall",
+            "C - She's too small",
+            "D - She's crying too much"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "She mentions her cat Dinah"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - His housemaid Mary Ann",
+            "B - The Duchess",
+            "C - The Queen",
+            "D - His daughter"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "His housemaid Mary Ann"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - His gloves and fan",
+            "B - His watch",
+            "C - His hat",
+            "D - His coat"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "His gloves and fan"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - She grows too large for the house",
+            "B - She shrinks again",
+            "C - She disappears",
+            "D - Nothing happens"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "She grows too large for the house"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Pebbles that turn into cakes",
+            "B - Stones",
+            "C - Flowers",
+            "D - Mud"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Pebbles that turn into cakes"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cWell,\u201d said Alice, \u201cI hope you're okay",
+        "edit_response": "\u201cWell,\u201d said Alice, \u201cI hope you're okay",
+        "options": [
+            "A - Bill the Lizard",
+            "B - The White Rabbit",
+            "C - A mouse",
+            "D - The Dodo"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Bill the Lizard"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Kicks him up the chimney",
+            "B - Talks to him",
+            "C - Hides from him",
+            "D - Helps him down"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Kicks him up the chimney"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "B  Green\nE  Yellow\nF  Yellow\nF  Blue\nG  Yellow",
+        "edit_response": "B  Green\nE  Yellow\nF  Yellow\nF  Blue\nG  Yellow",
+        "options": [
+            "A - Blue",
+            "B - Green",
+            "C - Red",
+            "D - Yellow"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Blue"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - A hookah",
+            "B - A pipe",
+            "C - A cigarette",
+            "D - A cigar"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A hookah"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Who are you?",
+            "B - Where are you going?",
+            "C - What do you want?",
+            "D - How old are you?"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Who are you?"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Three inches",
+            "B - Six inches",
+            "C - One foot",
+            "D - Two feet"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Three inches"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "You are old, Father William"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Her neck grows very long",
+            "B - She shrinks",
+            "C - She grows very tall",
+            "D - Nothing happens"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Her neck grows very long"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - A serpent",
+            "B - A girl",
+            "C - A bird",
+            "D - A worm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A serpent"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The next witness was the Duchess, and the two of them immediately entered the Royal House, where they began to sniff the baby\u2014the Duchess, Alice, and the Hatter.\n\nThe King, who",
+        "edit_response": "The next witness was the Duchess, and the two of them immediately entered the Royal House, where they began to sniff the baby\u2014the Duchess, Alice, and the Hatter.\n\nThe King, who",
+        "options": [
+            "A - Putting too much pepper in the soup",
+            "B - Washing dishes",
+            "C - Baking bread",
+            "D - Chopping vegetables"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Putting too much pepper in the soup"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sneeze"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cI am in prison,\u201d the Duchess said to the executioner: \u201c",
+        "edit_response": "\u201cI am in prison,\u201d the Duchess said to the executioner: \u201c",
+        "options": [
+            "A - A pig",
+            "B - A cat",
+            "C - A mouse",
+            "D - A bird"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A pig"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The Queen smiled and passed on.\n\ufffd",
+        "edit_response": "The Queen smiled and passed on.\n\ufffd",
+        "options": [
+            "A - In a tree",
+            "B - On the ground",
+            "C - In the house",
+            "D - In the garden"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "In a tree"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The cat was surprised to see that she was not quite sure whether it was good manners for her to speak first, \ufffd",
+        "edit_response": "The cat was surprised to see that she was not quite sure whether it was good manners for her to speak first, \ufffd",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Disappear and leave only its grin"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "Error generating response.",
+        "edit_response": "Error generating response.",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everyone in Wonderland"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "Error generating response.",
+        "edit_response": "Error generating response.",
+        "options": [
+            "A - We're all mad here",
+            "B - Mad people are dangerous",
+            "C - Being mad is fun",
+            "D - Mad people are sad"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "We're all mad here"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - A tea party",
+            "B - A birthday party",
+            "C - A wedding",
+            "D - A funeral"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A tea party"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Nothing",
+            "B - Milk",
+            "C - Tea",
+            "D - Water"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Nothing"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cIt\u2019s not so hard to hear the same Riddle! It\u2019s a little less hard to hear the same Riddle!\u201d\n\ufffd",
+        "edit_response": "\u201cIt\u2019s not so hard to hear the same Riddle! It\u2019s a little less hard to hear the same Riddle!\u201d\n\ufffd",
+        "options": [
+            "A - Why is a raven like a writing desk?",
+            "B - What is black and white and read all over?",
+            "C - What has four legs but can't walk?",
+            "D - What gets wet while drying?"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Why is a raven like a writing desk?"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Put him in the teapot and use him as a cushion",
+            "B - Wake him up",
+            "C - Feed him",
+            "D - Ignore him"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Put him in the teapot and use him as a cushion"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The first question was:\n\u201cCan I make this?\u201d\nB  About a princess\nD  About a dragon\nD  About a dragon (",
+        "edit_response": "The first question was:\n\u201cCan I make this?\u201d\nB  About a princess\nD  About a dragon\nD  About a dragon (",
+        "options": [
+            "A - About three sisters who lived in a treacle well",
+            "B - About a princess",
+            "C - About a dragon",
+            "D - About a magic kingdom"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "About three sisters who lived in a treacle well"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Elsie, Lacie, and Tillie",
+            "B - Alice, Mary, and Jane",
+            "C - Rose, Lily, and Daisy",
+            "D - Anne, Beth, and Claire"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Elsie, Lacie, and Tillie"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Things beginning with M",
+            "B - Pictures",
+            "C - Water",
+            "D - Treasure"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Things beginning with M"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "He murdered the time while singing"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Move around the table",
+            "B - Wash them",
+            "C - Get new ones",
+            "D - Use their hands"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Move around the table"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The Queen's garden was lit",
+        "edit_response": "The Queen's garden was lit",
+        "options": [
+            "A - The long hall with the glass table",
+            "B - Another tea party",
+            "C - The Queen's garden",
+            "D - Her sister"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The long hall with the glass table"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "If you want to see what the two gardeners are doing, you can read the comment section for the following information:\n The flowers that are blooming\n The flowers that are blooming",
+        "edit_response": "If you want to see what the two gardeners are doing, you can read the comment section for the following information:\n The flowers that are blooming\n The flowers that are blooming",
+        "options": [
+            "A - White roses red",
+            "B - Red roses white",
+            "C - The fence",
+            "D - The trees"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "White roses red"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cI do not know why you are painting the roses,\u201d said Alice, who had also",
+        "edit_response": "\u201cI do not know why you are painting the roses,\u201d said Alice, who had also",
+        "options": [
+            "A - They planted white roses by mistake and the Queen wants red",
+            "B - They want to surprise the Queen",
+            "C - The roses are dying",
+            "D - It's their job"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "They planted white roses by mistake and the Queen wants red"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u2014\nWhen the Queen first came to the garden she looked at it with a sudden, deep breath, and then said, \u201cWell, there\u2019s nothing left\u2014\u201d and then she",
+        "edit_response": "\u2014\nWhen the Queen first came to the garden she looked at it with a sudden, deep breath, and then said, \u201cWell, there\u2019s nothing left\u2014\u201d and then she",
+        "options": [
+            "A - Two, Five, and Seven",
+            "B - Ace, King, and Queen",
+            "C - Tom, Dick, and Harry",
+            "D - Red, White, and Blue"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Two, Five, and Seven"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Queen orders their heads to be cut off"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The Princess was in front of the crowd, and the ball was placed in her",
+        "edit_response": "The Princess was in front of the crowd, and the ball was placed in her",
+        "options": [
+            "A - Live hedgehogs",
+            "B - Regular croquet balls",
+            "C - Stones",
+            "D - Apples"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Live hedgehogs"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The first option, A, C, D, E, F, G, H, I, I, I, I, I, I, I, I, I, I, I",
+        "edit_response": "The first option, A, C, D, E, F, G, H, I, I, I, I, I, I, I, I, I, I, I",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Soldiers bent over"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The hedgehog began to move, and when he reached the other side of the garden she saw a strange thing appear:\nThe hedgehog was in a struggle with another hedgehog",
+        "edit_response": "The hedgehog began to move, and when he reached the other side of the garden she saw a strange thing appear:\nThe hedgehog was in a struggle with another hedgehog",
+        "options": [
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everything is alive and moves around"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The Cheshire Cat's head",
+            "B - The Queen",
+            "C - The King",
+            "D - A soldier"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Cheshire Cat's head"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "\u201cB  The appearance of the Cheshire Cat's head\nC  The appearance of the Ches",
+        "edit_response": "\u201cB  The appearance of the Cheshire Cat's head\nC  The appearance of the Ches",
+        "options": [
+            "A - The appearance of the Cheshire Cat's head",
+            "B - Alice cheating",
+            "C - The Queen's anger",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The appearance of the Cheshire Cat's head"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The King did not respond to the call of the Cheshire",
+        "edit_response": "The King did not respond to the call of the Cheshire",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The executioner argues it's impossible to cut off a head without a body"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The Queen was very surprised, and, as she said, \u201cIt\u2019s a very fine day!\u201d\n\nThe Queen spoke very carefully, and she went on, \ufffd",
+        "edit_response": "The Queen was very surprised, and, as she said, \u201cIt\u2019s a very fine day!\u201d\n\nThe Queen spoke very carefully, and she went on, \ufffd",
+        "options": [
+            "A - The Gryphon",
+            "B - The Mad Hatter",
+            "C - The Caterpillar",
+            "D - The Duchess"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Gryphon"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The Mock Turtle",
+            "B - The Gryphon",
+            "C - The Duchess",
+            "D - The Queen"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Mock Turtle"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Reeling, Writhing, and Fainting in Coils",
+            "B - Reading, Writing, and Arithmetic",
+            "C - History, Geography, and Science",
+            "D - Art, Music, and Drama"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Reeling, Writhing, and Fainting in Coils"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The Lobster Quadrille",
+            "B - The Waltz",
+            "C - The Tango",
+            "D - The Ballet"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Lobster Quadrille"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "B  The Snow White\nC  The Snow White\nD  Jabberwocky\nE  Jabberwocky\nF  Jabberwocky",
+        "edit_response": "B  The Snow White\nC  The Snow White\nD  Jabberwocky\nE  Jabberwocky\nF  Jabberwocky",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "'Tis the Voice of the Lobster"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "...\nB  The Gryphon, who said that he was a \u201cdraindraindraindraindraindraindrain",
+        "edit_response": "...\nB  The Gryphon, who said that he was a \u201cdraindraindraindraindraindraindrain",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "News of a trial beginning"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "In the last part of the film, the Prisoner is placed on the floor of the room.\nThe Prisoner is placed on the floor of the room.\nThe Prisoner is placed",
+        "edit_response": "In the last part of the film, the Prisoner is placed on the floor of the room.\nThe Prisoner is placed on the floor of the room.\nThe Prisoner is placed",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Knave of Hearts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The King replied with a somewhat annoyed tone, and then the King said, \u201cThey are not the ones who are in the cell,\u201d and then he said",
+        "edit_response": "The King replied with a somewhat annoyed tone, and then the King said, \u201cThey are not the ones who are in the cell,\u201d and then he said",
+        "options": [
+            "A - Stealing the Queen's tarts",
+            "B - Lying to the Queen",
+            "C - Breaking the King's crown",
+            "D - Insulting the court"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Stealing the Queen's tarts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "And then the",
+        "edit_response": "And then the",
+        "options": [
+            "A - The King of Hearts",
+            "B - The Queen of Hearts",
+            "C - The White Rabbit",
+            "D - The Mad Hatter"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The King of Hearts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "The evidence is not complete, but it is strong enough to explain the crime that was set up in the first place.\n\nThe",
+        "edit_response": "The evidence is not complete, but it is strong enough to explain the crime that was set up in the first place.\n\nThe",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The charges against the Knave"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Mad Hatter, the Duchess's cook, and Alice"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "This was the case of",
+        "edit_response": "This was the case of",
+        "options": [
+            "A - She starts growing larger again",
+            "B - She falls asleep",
+            "C - She disappears",
+            "D - She shrinks"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "She starts growing larger again"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "(Note that the word \u201c \u201c \u201c is actually a very different word than the",
+        "edit_response": "(Note that the word \u201c \u201c \u201c is actually a very different word than the",
+        "options": [
+            "A - It proves nothing",
+            "B - It's very convincing",
+            "C - It's confusing",
+            "D - It's false"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "It proves nothing"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - She wakes up from a dream",
+            "B - She finds a way home",
+            "C - She becomes Queen",
+            "D - She stays in Wonderland forever"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "She wakes up from a dream"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--distilgpt2_quiz_results",
+        "original_response": "",
+        "edit_response": "",
+        "options": [
+            "A - Her sister",
+            "B - Her mother",
+            "C - The White Rabbit",
+            "D - The Cheshire Cat"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Her sister"
+    },
+    {
         "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
         "original_response": "A small cake with 'EAT ME' written on it",
         "edit_response": "A small cake with 'EAT ME' written on it",
@@ -66,19 +1210,6 @@
     },
     {
         "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
-        "original_response": "Sneeze B",
-        "edit_response": "Sneeze B",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sneeze"
-    },
-    {
-        "model": "all_MiniLM_L12_v2--flan_t5_base_quiz_results",
         "original_response": "A cat",
         "edit_response": "A cat",
         "options": [
@@ -115,6 +1246,1293 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "The Knave of Hearts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "Five inches C",
+        "edit_response": "Five inches C",
+        "options": [
+            "A - Ten inches",
+            "B - Five inches",
+            "C - Two feet",
+            "D - One foot"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Ten inches"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "The Lory Respond only the Letter of the correct options like A, B, C and D.",
+        "edit_response": "The Lory Respond only the Letter of the correct options like A, B, C and D.",
+        "options": [
+            "A - The Dodo",
+            "B - The Mouse",
+            "C - Alice",
+            "D - The Lory"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Dodo"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "A mouse",
+        "edit_response": "A mouse",
+        "options": [
+            "A - Bill the Lizard",
+            "B - The White Rabbit",
+            "C - A mouse",
+            "D - The Dodo"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Bill the Lizard"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "Tea D",
+        "edit_response": "Tea D",
+        "options": [
+            "A - Nothing",
+            "B - Milk",
+            "C - Tea",
+            "D - Water"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Nothing"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "What gets wet while drying? Respond only the Letter of the correct options like A, B, C and D.",
+        "edit_response": "What gets wet while drying? Respond only the Letter of the correct options like A, B, C and D.",
+        "options": [
+            "A - Why is a raven like a writing desk?",
+            "B - What is black and white and read all over?",
+            "C - What has four legs but can't walk?",
+            "D - What gets wet while drying?"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Why is a raven like a writing desk?"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "Regular hoops",
+        "edit_response": "Regular hoops",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Soldiers bent over"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "The rules keep changing Respond only the Letter of the correct options like A, B, C and D.",
+        "edit_response": "The rules keep changing Respond only the Letter of the correct options like A, B, C and D.",
+        "options": [
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everything is alive and moves around"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "The gardeners Respond only the Letter of the correct options like A, B, C and D.",
+        "edit_response": "The gardeners Respond only the Letter of the correct options like A, B, C and D.",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The executioner argues it's impossible to cut off a head without a body"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--flan_t5_small_quiz_results",
+        "original_response": "A  The Mad Hatter, the Duchess's cook, and Alice B  The Queen, King, and Knave C  The Cheshire Cat, Mock Turtle, and Gryphon D  The gardeners Respond only the Letter of the correct options like A, B, C and D.",
+        "edit_response": "A  The Mad Hatter, the Duchess's cook, and Alice B  The Queen, King, and Knave C  The Cheshire Cat, Mock Turtle, and Gryphon D  The gardeners Respond only the Letter of the correct options like A, B, C and D.",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Mad Hatter, the Duchess's cook, and Alice"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "I  The Fairy Queen\n\nJ  The King of Hearts\n\nK  The Queen of Hearts\n\nL  The Queen of Hearts\n\nM  The Queen of Hearts\n\n\n\n\nSo the story proceeds.",
+        "edit_response": "I  The Fairy Queen\n\nJ  The King of Hearts\n\nK  The Queen of Hearts\n\nL  The Queen of Hearts\n\nM  The Queen of Hearts\n\n\n\n\nSo the story proceeds.",
+        "options": [
+            "A - The White Rabbit",
+            "B - The Cheshire Cat",
+            "C - The Mad Hatter",
+            "D - The Queen of Hearts"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The White Rabbit"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question to the letters.               Answer the question based on the above context: What you find makes Alice shrink?\n\n\u201cYou did it!\u201d",
+        "edit_response": "Answer the question to the letters.               Answer the question based on the above context: What you find makes Alice shrink?\n\n\u201cYou did it!\u201d",
+        "options": [
+            "A - A small cake with 'EAT ME' written on it",
+            "B - A bottle labeled 'DRINK ME'",
+            "C - A mushroom",
+            "D - A fan"
+        ],
+        "correct_answer": "B",
+        "alternate_correct_answer": "A bottle labeled 'DRINK ME'"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Who, during the time of the game, who ever appeared in the game, or who ever ran to the entrance of the game, who ever paid for the game, or who ever held the game's",
+        "edit_response": "Answer the question based on the above context: Who, during the time of the game, who ever appeared in the game, or who ever ran to the entrance of the game, who ever paid for the game, or who ever held the game's",
+        "options": [
+            "A - The Queen of Hearts",
+            "B - The King of Hearts",
+            "C - The Duchess",
+            "D - The Gryphon"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Queen of Hearts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: How did the Cat smile?\n\n\u201cWell! I\u2019ve often seen a cat without a grin,\u201d thought Alice; \u201cbut a smile without a cat! It\u2019",
+        "edit_response": "Answer the question based on the above context: How did the Cat smile?\n\n\u201cWell! I\u2019ve often seen a cat without a grin,\u201d thought Alice; \u201cbut a smile without a cat! It\u2019",
+        "options": [
+            "A - The Cheshire Cat",
+            "B - The March Hare",
+            "C - The Dormouse",
+            "D - The Caterpillar"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Cheshire Cat"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based upon the following context:\n\nB  Chess\n\nC  Tennis\n\nD  Bowling\n\nE  Bowling\n\n\nWhy do you think the game is so confusing?\n\n\n\nAlice thought of a",
+        "edit_response": "Answer the question based upon the following context:\n\nB  Chess\n\nC  Tennis\n\nD  Bowling\n\nE  Bowling\n\n\nWhy do you think the game is so confusing?\n\n\n\nAlice thought of a",
+        "options": [
+            "A - Croquet",
+            "B - Chess",
+            "C - Tennis",
+            "D - Bowling"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Croquet"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context:\n\nB  To be a little bigger\n\nC  To be a little bigger\n\nD  To be a little bigger\n\n\n\nThe Caterpillar, the Caterpillar's companion",
+        "edit_response": "Answer the question based on the above context:\n\nB  To be a little bigger\n\nC  To be a little bigger\n\nD  To be a little bigger\n\n\n\nThe Caterpillar, the Caterpillar's companion",
+        "options": [
+            "A - That one side of the mushroom will make her grow taller and the other side will make her grow shorter",
+            "B - To eat more cake",
+            "C - To drink from the bottle",
+            "D - To fan herself rapidly"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "That one side of the mushroom will make her grow taller and the other side will make her grow shorter"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Who attends the Mad TeaParty with the Mad Hatter?\n\n\n\nThe answer was the following:\n\nA  The Duke of Gloucester\n\nB  The King of",
+        "edit_response": "Answer the question based on the above context: Who attends the Mad TeaParty with the Mad Hatter?\n\n\n\nThe answer was the following:\n\nA  The Duke of Gloucester\n\nB  The King of",
+        "options": [
+            "A - The March Hare and the Dormouse",
+            "B - The White Rabbit and the Dodo",
+            "C - The Queen of Hearts and the King of Hearts",
+            "D - The Gryphon and the Mock Turtle"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The March Hare and the Dormouse"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "B  If you are interested in looking into the situation, you must choose the answer that you want to hear next.\nB  If you are interested in looking into the situation, you must choose the answer that you want to hear next. C",
+        "edit_response": "B  If you are interested in looking into the situation, you must choose the answer that you want to hear next.\nB  If you are interested in looking into the situation, you must choose the answer that you want to hear next. C",
+        "options": [
+            "A - Because Time has stopped for the Mad Hatter",
+            "B - They enjoy tea more than any other meal",
+            "C - It's a riddle they are trying to solve",
+            "D - They are waiting for someone to join them"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Because Time has stopped for the Mad Hatter"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What do you use as a mallet in the Queen's croquet game?\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd",
+        "edit_response": "Answer the question based on the following context: What do you use as a mallet in the Queen's croquet game?\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd\n\n\ufffd",
+        "options": [
+            "A - A flamingo",
+            "B - A hedgehog",
+            "C - A wooden stick",
+            "D - Her arm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A flamingo"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Who sings 'Tis the Voice of the Lobster'?\n\n\n\n\u201cNo,\u201d said Alice. \u201cI would not have written 'Tis the Voice of the Lob",
+        "edit_response": "Answer the question based on the above context: Who sings 'Tis the Voice of the Lobster'?\n\n\n\n\u201cNo,\u201d said Alice. \u201cI would not have written 'Tis the Voice of the Lob",
+        "options": [
+            "A - Alice",
+            "B - The Mock Turtle",
+            "C - The Gryphon",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Alice"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: How many times do you have to answer the question, and why? Answer the letter of the correct options like A, B, C, D, E, F; only answer the Letter of",
+        "edit_response": "Answer the question based on the above context: How many times do you have to answer the question, and why? Answer the letter of the correct options like A, B, C, D, E, F; only answer the Letter of",
+        "options": [
+            "A - Sitting by her sister on the bank",
+            "B - Making a daisy chain",
+            "C - Playing in the garden",
+            "D - Having tea"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sitting by her sister on the bank"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context:\n\n A watch\n\n A key\n\n A letter\n\n A letter\n\n A letter\n\n A letter\n\n A letter\n\n A letter",
+        "edit_response": "Answer the question based on the above context:\n\n A watch\n\n A key\n\n A letter\n\n A letter\n\n A letter\n\n A letter\n\n A letter\n\n A letter",
+        "options": [
+            "A - A watch",
+            "B - A handkerchief",
+            "C - A key",
+            "D - A letter"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A watch"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: A is very very much in the blue marmalade, but B is not, so cannot be used as a key for opening a jar, or for breaking the jar, or for taking out and holding",
+        "edit_response": "Answer the question based on the above context: A is very very much in the blue marmalade, but B is not, so cannot be used as a key for opening a jar, or for breaking the jar, or for taking out and holding",
+        "options": [
+            "A - Nothing, it was empty",
+            "B - Orange marmalade",
+            "C - A key",
+            "D - A note"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Nothing, it was empty"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answers the question based on the above context: The rabbithole can be a large, cold, dark, or even a deep hole. The rabbithole can be a place where the rabbit has to lay down.\n\nThe rabbithole",
+        "edit_response": "Answers the question based on the above context: The rabbithole can be a large, cold, dark, or even a deep hole. The rabbithole can be a place where the rabbit has to lay down.\n\nThe rabbithole",
+        "options": [
+            "A - How many miles she's fallen",
+            "B - Whether she'll hurt someone below",
+            "C - That she might hurt herself",
+            "D - Neither"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "How many miles she's fallen"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: Why do you like the Queen? What is the name of Alice's cat?\n\n\n\nThe Cat in a low voice said to Alice, now, with her face in the water, \"",
+        "edit_response": "Answer the question based on the following context: Why do you like the Queen? What is the name of Alice's cat?\n\n\n\nThe Cat in a low voice said to Alice, now, with her face in the water, \"",
+        "options": [
+            "A - Dinah",
+            "B - Mittens",
+            "C - Whiskers",
+            "D - Fluffy"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Dinah"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What does Alice find on the threelegged glass table?\n\nC  C cup\n\nD  D cup\n\nE  E cup\n\nF  F cup\n\nG  G",
+        "edit_response": "Answer the question based on the above context: What does Alice find on the threelegged glass table?\n\nC  C cup\n\nD  D cup\n\nE  E cup\n\nF  F cup\n\nG  G",
+        "options": [
+            "A - A tiny golden key",
+            "B - A bottle",
+            "C - A cake",
+            "D - Both A and B"
+        ],
+        "correct_answer": "D",
+        "alternate_correct_answer": "Both A and B"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context:\n\nA  Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast\n\nB  Strawberry and cream\n\nC  Chocolate and vanilla",
+        "edit_response": "Answer the question based on the above context:\n\nA  Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast\n\nB  Strawberry and cream\n\nC  Chocolate and vanilla",
+        "options": [
+            "A - Cherry-tart, custard, pineapple, roast turkey, toffee, and hot buttered toast",
+            "B - Strawberry and cream",
+            "C - Chocolate and vanilla",
+            "D - Lemon and honey"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Cherrytart, custard, pineapple, roast turkey, toffee, and hot buttered toast"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: How far away from the door is the door to the room in question?\n\n\n\nOne day at night, while having the best of friends in the world, Alice was sitting under a large",
+        "edit_response": "Answer the question based on the above context: How far away from the door is the door to the room in question?\n\n\n\nOne day at night, while having the best of friends in the world, Alice was sitting under a large",
+        "options": [
+            "A - Ten inches",
+            "B - Five inches",
+            "C - Two feet",
+            "D - One foot"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Ten inches"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply only the Letter of the correct options like A, B, C, and D. Do not inlcude the source.\n\n\n\nNo, if I get through the door, I shall not get into the garden. I will",
+        "edit_response": "Reply only the Letter of the correct options like A, B, C, and D. Do not inlcude the source.\n\n\n\nNo, if I get through the door, I shall not get into the garden. I will",
+        "options": [
+            "A - The golden key",
+            "B - Her shoes",
+            "C - Her book",
+            "D - Her handkerchief"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The golden key"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Are you a prisoner in the cell?\n\nThe Answer\n\n\u201cYes, you are,\u201c the King said.\n\n\u201cYou are a prisoner in a cage,\u201c",
+        "edit_response": "Answer the question based on the above context: Are you a prisoner in the cell?\n\nThe Answer\n\n\u201cYes, you are,\u201c the King said.\n\n\u201cYou are a prisoner in a cage,\u201c",
+        "options": [
+            "A - EAT ME",
+            "B - TAKE ME",
+            "C - TRY ME",
+            "D - BITE ME"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "EAT ME"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: This is the first time that we have seen a person grow taller than nine feet, and for a long time we had thought that it was the height of some sort. We are now very certain",
+        "edit_response": "Answer the question based on the above context: This is the first time that we have seen a person grow taller than nine feet, and for a long time we had thought that it was the height of some sort. We are now very certain",
+        "options": [
+            "A - More than nine feet",
+            "B - Six feet",
+            "C - Eight feet",
+            "D - Ten feet"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "More than nine feet"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What does Alice create when she cries?\n\nAnd what does Alice create when she cries?\n\n\n\nIt was a very long time before this little girl gave any answer. The Rabbit sat",
+        "edit_response": "Answer the question based on the following context: What does Alice create when she cries?\n\nAnd what does Alice create when she cries?\n\n\n\nIt was a very long time before this little girl gave any answer. The Rabbit sat",
+        "options": [
+            "A - A large pool of tears",
+            "B - A small puddle",
+            "C - A river",
+            "D - A lake"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A large pool of tears"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What is the White Rabbit carrying when Alice sees him the first time?\n\nA  A small bag with a large fan or a scroll\n\nB  A trumpet and a scroll\n\nC",
+        "edit_response": "Answer the question based on the following context: What is the White Rabbit carrying when Alice sees him the first time?\n\nA  A small bag with a large fan or a scroll\n\nB  A trumpet and a scroll\n\nC",
+        "options": [
+            "A - White kid gloves and a large fan",
+            "B - A trumpet and a scroll",
+            "C - A bag and an umbrella",
+            "D - A book and a pen"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "White kid gloves and a large fan"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Who is the Queen worried about keeping waiting?\n\n\n\nThe White Rabbit's eyes suddenly changed from a serious expression to a slightly frown. \u201cHe is the Queen.\n\nThe Queen",
+        "edit_response": "Answer the question based on the above context: Who is the Queen worried about keeping waiting?\n\n\n\nThe White Rabbit's eyes suddenly changed from a serious expression to a slightly frown. \u201cHe is the Queen.\n\nThe Queen",
+        "options": [
+            "A - The Duchess",
+            "B - The Queen",
+            "C - The King",
+            "D - The Caterpillar"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Duchess"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What causes Alice to shrink again in Chapter II?\n\n\n\n\nAlice's first reaction was to look at the clock on the wall. Although it was beginning to look as if she would soon be",
+        "edit_response": "Answer the question based on the above context: What causes Alice to shrink again in Chapter II?\n\n\n\n\nAlice's first reaction was to look at the clock on the wall. Although it was beginning to look as if she would soon be",
+        "options": [
+            "A - The White Rabbit's fan",
+            "B - The gloves",
+            "C - Another bottle",
+            "D - A magic word"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The White Rabbit's fan"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context:\n\n\nA  The letters are written in a single letter. B  The letters are not written in a single letter. C  No letter.\n\n\nIn the beginning of every sentence, Alice thinks",
+        "edit_response": "Answer the question based on the following context:\n\n\nA  The letters are written in a single letter. B  The letters are not written in a single letter. C  No letter.\n\n\nIn the beginning of every sentence, Alice thinks",
+        "options": [
+            "A - How doth the little crocodile",
+            "B - Twinkle, twinkle little star",
+            "C - Mary had a little lamb",
+            "D - London Bridge is falling down"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "How doth the little crocodile"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context:\n\n\nA  Ada, you see, I have been changed into a woman, and I have been the first to speak in your name. I am not a girl. It is your right to",
+        "edit_response": "Answer the question based on the following context:\n\n\nA  Ada, you see, I have been changed into a woman, and I have been the first to speak in your name. I am not a girl. It is your right to",
+        "options": [
+            "A - Mabel",
+            "B - Ada",
+            "C - Another girl from her class",
+            "D - All of the above"
+        ],
+        "correct_answer": "D",
+        "alternate_correct_answer": "All of the above"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context:\n\n\nAnswer 2\n\n\u2014\n\n\u2014\u2014\n\n\"I am so afraid of you, Alice, that I am afraid of the sea, that I am afraid of your life, and that",
+        "edit_response": "Answer the question based on the above context:\n\n\nAnswer 2\n\n\u2014\n\n\u2014\u2014\n\n\"I am so afraid of you, Alice, that I am afraid of the sea, that I am afraid of your life, and that",
+        "options": [
+            "A - Salt water from her own tears",
+            "B - The sea",
+            "C - A pond",
+            "D - A swimming pool"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Salt water from her own tears"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What kind of race do the animals run to get dry?\n\nIf you have not completed your first three questions, it may be necessary to have your answer checked first by a qualified expert with the necessary",
+        "edit_response": "Answer the question based on the following context: What kind of race do the animals run to get dry?\n\nIf you have not completed your first three questions, it may be necessary to have your answer checked first by a qualified expert with the necessary",
+        "options": [
+            "A - A Caucus-race",
+            "B - A relay race",
+            "C - A marathon",
+            "D - A sprint"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A Caucusrace"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: Who organizes the Caucusrace?\n\nB  The Mouse\n\nA  The Mouse\n\nB  The Mouse\n\n\n\u201cWhat is a Caucusrace?\u201d said",
+        "edit_response": "Answer the question based on the following context: Who organizes the Caucusrace?\n\nB  The Mouse\n\nA  The Mouse\n\nB  The Mouse\n\n\n\u201cWhat is a Caucusrace?\u201d said",
+        "options": [
+            "A - The Dodo",
+            "B - The Mouse",
+            "C - Alice",
+            "D - The Lory"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Dodo"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What is special about the party?\n\n\u201cWhat is special about the party?\u201d said the Dodo. \u201cYou're the only one who has won and lost.\ufffd",
+        "edit_response": "Answer the question based on the above context: What is special about the party?\n\n\u201cWhat is special about the party?\u201d said the Dodo. \u201cYou're the only one who has won and lost.\ufffd",
+        "options": [
+            "A - Everyone wins and gets prizes",
+            "B - Only one person wins",
+            "C - Nobody wins",
+            "D - Only Alice wins"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everyone wins and gets prizes"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: what do you give out as prizes?\n\nB  Comfits\n\n\nB  Coins\n\nC  Flowers\n\n\nC  Ribbons\n\n\nC  Flowers\n\nD  Ribbons",
+        "edit_response": "Answer the question based on the following context: what do you give out as prizes?\n\nB  Comfits\n\n\nB  Coins\n\nC  Flowers\n\n\nC  Ribbons\n\n\nC  Flowers\n\nD  Ribbons",
+        "options": [
+            "A - Comfits (sweets)",
+            "B - Coins",
+            "C - Flowers",
+            "D - Ribbons"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Comfits (sweets)"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What story does the Mouse tell?\n\nAnswer the Question: What Story? Answer the Question:\n\n\n\nA  A fairy tale\n\nB  A adventure story\n\nC",
+        "edit_response": "Answer the question based on the following context: What story does the Mouse tell?\n\nAnswer the Question: What Story? Answer the Question:\n\n\n\nA  A fairy tale\n\nB  A adventure story\n\nC",
+        "options": [
+            "A - A dry, boring history",
+            "B - A fairy tale",
+            "C - An adventure story",
+            "D - A ghost story"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A dry, boring history"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Why do all the animals leave Alice? What would be the point of this question if Alice were not here?\n\n\n\nNow that she was completely in the matter of this question, it would",
+        "edit_response": "Answer the question based on the above context: Why do all the animals leave Alice? What would be the point of this question if Alice were not here?\n\n\n\nNow that she was completely in the matter of this question, it would",
+        "options": [
+            "A - She mentions her cat Dinah",
+            "B - She's too tall",
+            "C - She's too small",
+            "D - She's crying too much"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "She mentions her cat Dinah"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context:\n\nA  The Queen\n\nB  She would probably not be able to afford to pay the Queen's dowry for her new home.\n\nD  Her daughter\n\nE",
+        "edit_response": "Answer the question based on the following context:\n\nA  The Queen\n\nB  She would probably not be able to afford to pay the Queen's dowry for her new home.\n\nD  Her daughter\n\nE",
+        "options": [
+            "A - His housemaid Mary Ann",
+            "B - The Duchess",
+            "C - The Queen",
+            "D - His daughter"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "His housemaid Mary Ann"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What does the White Rabbit send Alice to fetch?\n\nC  He is at home with Dinah\n\nD  He is away with the Mouse\n\nE  He is at home with M",
+        "edit_response": "Answer the question based on the above context: What does the White Rabbit send Alice to fetch?\n\nC  He is at home with Dinah\n\nD  He is away with the Mouse\n\nE  He is at home with M",
+        "options": [
+            "A - His gloves and fan",
+            "B - His watch",
+            "C - His hat",
+            "D - His coat"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "His gloves and fan"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What happens when Alice goes to the other side of the room and finds the letter?\n\nE  Yes, she answered\n\nF  No, she answered\n\nG  She says nothing",
+        "edit_response": "Answer the question based on the above context: What happens when Alice goes to the other side of the room and finds the letter?\n\nE  Yes, she answered\n\nF  No, she answered\n\nG  She says nothing",
+        "options": [
+            "A - She grows too large for the house",
+            "B - She shrinks again",
+            "C - She disappears",
+            "D - Nothing happens"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "She grows too large for the house"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: Do not take the letter of the correct option with you, if you ever see one. Are you sure that it is right?\n\n\nA  The Letter of the correct option.",
+        "edit_response": "Answer the question based on the following context: Do not take the letter of the correct option with you, if you ever see one. Are you sure that it is right?\n\n\nA  The Letter of the correct option.",
+        "options": [
+            "A - Pebbles that turn into cakes",
+            "B - Stones",
+            "C - Flowers",
+            "D - Mud"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Pebbles that turn into cakes"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply the question based on the following context: How do you get out?\n\n\ufffd\n\n\n\n\u201cThe answer is a little different!\ufffd\n\n\u200b\n\n\nLiked this article? Consider supporting us on Patreon!",
+        "edit_response": "Reply the question based on the following context: How do you get out?\n\n\ufffd\n\n\n\n\u201cThe answer is a little different!\ufffd\n\n\u200b\n\n\nLiked this article? Consider supporting us on Patreon!",
+        "options": [
+            "A - Bill the Lizard",
+            "B - The White Rabbit",
+            "C - A mouse",
+            "D - The Dodo"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Bill the Lizard"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+        "edit_response": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+        "options": [
+            "A - Kicks him up the chimney",
+            "B - Talks to him",
+            "C - Hides from him",
+            "D - Helps him down"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Kicks him up the chimney"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What color is the Caterpillar?\n\n\u201cThe answer to this question depends on the character of the Caterpillar.\n\n\u201cAnswers to questions like these are not always possible.",
+        "edit_response": "Answer the question based on the above context: What color is the Caterpillar?\n\n\u201cThe answer to this question depends on the character of the Caterpillar.\n\n\u201cAnswers to questions like these are not always possible.",
+        "options": [
+            "A - Blue",
+            "B - Green",
+            "C - Red",
+            "D - Yellow"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Blue"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: How many of these will you be able to smoke?\n\nYou can tell if you have a really big mouth, or a small mouth by looking at the mouth at a certain distance.",
+        "edit_response": "Answer the question based on the above context: How many of these will you be able to smoke?\n\nYou can tell if you have a really big mouth, or a small mouth by looking at the mouth at a certain distance.",
+        "options": [
+            "A - A hookah",
+            "B - A pipe",
+            "C - A cigarette",
+            "D - A cigar"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A hookah"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: The letter you answered was of the kind given by the Master here, and it was written in the form of a letter.\n\n\n\n\u201cThe letter you received was from the Master.",
+        "edit_response": "Answer the question based on the following context: The letter you answered was of the kind given by the Master here, and it was written in the form of a letter.\n\n\n\n\u201cThe letter you received was from the Master.",
+        "options": [
+            "A - Who are you?",
+            "B - Where are you going?",
+            "C - What do you want?",
+            "D - How old are you?"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Who are you?"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What height does the Caterpillar think is good?\n\nI would like to know how much of the Caterpillar's intelligence we have.\n\n\n\nThere are only two answers to this question",
+        "edit_response": "Answer the question based on the above context: What height does the Caterpillar think is good?\n\nI would like to know how much of the Caterpillar's intelligence we have.\n\n\n\nThere are only two answers to this question",
+        "options": [
+            "A - Three inches",
+            "B - Six inches",
+            "C - One foot",
+            "D - Two feet"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Three inches"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What does the letter say?\n\n\n\n\u201cI have the letter,\u201d said Alice.\n\n\u201cPlease tell me what the letter says.\u201d\n\n\u201c",
+        "edit_response": "Answer the question based on the above context: What does the letter say?\n\n\n\n\u201cI have the letter,\u201d said Alice.\n\n\u201cPlease tell me what the letter says.\u201d\n\n\u201c",
+        "options": [
+            "A - You are old, Father William",
+            "B - Twinkle, twinkle little star",
+            "C - How doth the little crocodile",
+            "D - Mary had a little lamb"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "You are old, Father William"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context:\n\n\n\u201cAre you certain that your size will be reduced to one?\u201d If so, and for what purpose?\n\nC  It's to get you through your first three years of",
+        "edit_response": "Answer the question based on the following context:\n\n\n\u201cAre you certain that your size will be reduced to one?\u201d If so, and for what purpose?\n\nC  It's to get you through your first three years of",
+        "options": [
+            "A - One side makes you grow taller, the other shorter",
+            "B - It's poisonous",
+            "C - It tastes good",
+            "D - It's magical"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "One side makes you grow taller, the other shorter"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply only the Letter of the correct options like B, C and D. Do not inlcude the source.\n\n\n\n\u201cHaven't you said the mushroom was a little oversized?\u201d said the Caterpillar",
+        "edit_response": "Reply only the Letter of the correct options like B, C and D. Do not inlcude the source.\n\n\n\n\u201cHaven't you said the mushroom was a little oversized?\u201d said the Caterpillar",
+        "options": [
+            "A - Her neck grows very long",
+            "B - She shrinks",
+            "C - She grows very tall",
+            "D - Nothing happens"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Her neck grows very long"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What does the Pigeon think Alice is?\n\n\n\n\u201cI\u2014I\u2019m a little girl,\u201d said Alice, rather doubtfully, as she remembered the number",
+        "edit_response": "Answer the question based on the above context: What does the Pigeon think Alice is?\n\n\n\n\u201cI\u2014I\u2019m a little girl,\u201d said Alice, rather doubtfully, as she remembered the number",
+        "options": [
+            "A - A serpent",
+            "B - A girl",
+            "C - A bird",
+            "D - A worm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A serpent"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What is the Duchess doing when Alice arrives?\n\n\nThe Duchess has been seen in the palace before, and is often seen on the streets of the city, and in the gardens of the royal",
+        "edit_response": "Answer the question based on the following context: What is the Duchess doing when Alice arrives?\n\n\nThe Duchess has been seen in the palace before, and is often seen on the streets of the city, and in the gardens of the royal",
+        "options": [
+            "A - Putting too much pepper in the soup",
+            "B - Washing dishes",
+            "C - Baking bread",
+            "D - Chopping vegetables"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Putting too much pepper in the soup"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: This is not my place. I don\u2019t like it. I don\u2019t like that. I don\u2019t like that any more. I don\u2019t like that!",
+        "edit_response": "Answer the question based on the above context: This is not my place. I don\u2019t like it. I don\u2019t like that. I don\u2019t like that any more. I don\u2019t like that!",
+        "options": [
+            "A - Sneeze",
+            "B - Cry",
+            "C - Laugh",
+            "D - Cough"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Sneeze"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply only the Letter of the correct options like A, B, C and D. Do not inlcude the source. A  A pig\nB  A pig\n\nC  A mouse\n\nD  A bird",
+        "edit_response": "Reply only the Letter of the correct options like A, B, C and D. Do not inlcude the source. A  A pig\nB  A pig\n\nC  A mouse\n\nD  A bird",
+        "options": [
+            "A - A pig",
+            "B - A cat",
+            "C - A mouse",
+            "D - A bird"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A pig"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply for the correct options.\n\n\n\nIt would be nice if Alice did not know the name, the Cat thought, and replied: \"Would you tell me, please, which way I ought to go from here?\"",
+        "edit_response": "Reply for the correct options.\n\n\n\nIt would be nice if Alice did not know the name, the Cat thought, and replied: \"Would you tell me, please, which way I ought to go from here?\"",
+        "options": [
+            "A - In a tree",
+            "B - On the ground",
+            "C - In the house",
+            "D - In the garden"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "In a tree"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context:   , B is the English language, A is an English language, D is an English language, and E is an English language.\n\n\n\nBut she didn't think about it",
+        "edit_response": "Answer the question based on the following context:   , B is the English language, A is an English language, D is an English language, and E is an English language.\n\n\n\nBut she didn't think about it",
+        "options": [
+            "A - Disappear and leave only its grin",
+            "B - Talk",
+            "C - Fly",
+            "D - Change colors"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Disappear and leave only its grin"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Error generating response.",
+        "edit_response": "Error generating response.",
+        "options": [
+            "A - Everyone in Wonderland",
+            "B - Only the Mad Hatter",
+            "C - Only the March Hare",
+            "D - Only Alice"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everyone in Wonderland"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Error generating response.",
+        "edit_response": "Error generating response.",
+        "options": [
+            "A - We're all mad here",
+            "B - Mad people are dangerous",
+            "C - Being mad is fun",
+            "D - Mad people are sad"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "We're all mad here"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based only on the following context: The Hatter says that the Dormouse is in the hall, and Alice knows that the Dormouse will be there, but she doesn't know what it means, so she leaves her,",
+        "edit_response": "Answer the question based only on the following context: The Hatter says that the Dormouse is in the hall, and Alice knows that the Dormouse will be there, but she doesn't know what it means, so she leaves her,",
+        "options": [
+            "A - A tea party",
+            "B - A birthday party",
+            "C - A wedding",
+            "D - A funeral"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "A tea party"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply this question to this question in our forum.\n\nquestion #1: A It's still tea time.\n\nquestion #2: B The Queen is killing the time.\n\nquestion #3: D The",
+        "edit_response": "Reply this question to this question in our forum.\n\nquestion #1: A It's still tea time.\n\nquestion #2: B The Queen is killing the time.\n\nquestion #3: D The",
+        "options": [
+            "A - Nothing",
+            "B - Milk",
+            "C - Tea",
+            "D - Water"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Nothing"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context:\n\n\n\n\u201cThe Dormouse is asleep again,\u201d said the Hatter.\n\n\u201cNo, I give it up,\u201d Alice replied: \u201cwhat",
+        "edit_response": "Answer the question based on the following context:\n\n\n\n\u201cThe Dormouse is asleep again,\u201d said the Hatter.\n\n\u201cNo, I give it up,\u201d Alice replied: \u201cwhat",
+        "options": [
+            "A - Why is a raven like a writing desk?",
+            "B - What is black and white and read all over?",
+            "C - What has four legs but can't walk?",
+            "D - What gets wet while drying?"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Why is a raven like a writing desk?"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What do they do at the tea party?\n\n\n\n\ufffd\n\nF.G. KIRBY\n\n(Mrs. K. Birby)\n\n\n\nThe House",
+        "edit_response": "Answer the question based on the following context: What do they do at the tea party?\n\n\n\n\ufffd\n\nF.G. KIRBY\n\n(Mrs. K. Birby)\n\n\n\nThe House",
+        "options": [
+            "A - Put him in the teapot and use him as a cushion",
+            "B - Wake him up",
+            "C - Feed him",
+            "D - Ignore him"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Put him in the teapot and use him as a cushion"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: When the Dormouse was born, this was the location of a treacle. If an angel is raised there, the Dormouse was raised there. If someone were to die there, it would",
+        "edit_response": "Answer the question based on the above context: When the Dormouse was born, this was the location of a treacle. If an angel is raised there, the Dormouse was raised there. If someone were to die there, it would",
+        "options": [
+            "A - About three sisters who lived in a treacle well",
+            "B - About a princess",
+            "C - About a dragon",
+            "D - About a magic kingdom"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "About three sisters who lived in a treacle well"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What are the names of the three sisters in the Dormouse's story?\n\n\ufffdWell,\u201c said the Hatter, who was in the Dormouse's place.\n\n\ufffd",
+        "edit_response": "Answer the question based on the following context: What are the names of the three sisters in the Dormouse's story?\n\n\ufffdWell,\u201c said the Hatter, who was in the Dormouse's place.\n\n\ufffd",
+        "options": [
+            "A - Elsie, Lacie, and Tillie",
+            "B - Alice, Mary, and Jane",
+            "C - Rose, Lily, and Daisy",
+            "D - Anne, Beth, and Claire"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Elsie, Lacie, and Tillie"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: How does a treaclewell work?\n\nA  The well is not to be taken out of the well.\n\nB  It must be left in the well.\n\nC",
+        "edit_response": "Answer the question based on the following context: How does a treaclewell work?\n\nA  The well is not to be taken out of the well.\n\nB  It must be left in the well.\n\nC",
+        "options": [
+            "A - Things beginning with M",
+            "B - Pictures",
+            "C - Water",
+            "D - Treasure"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Things beginning with M"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: Why did the mad Hatter quarrel with Time?\n\nThe Mad Hatter replied: he was a murderer.            A  He murdered the",
+        "edit_response": "Answer the question based on the following context: Why did the mad Hatter quarrel with Time?\n\nThe Mad Hatter replied: he was a murderer.            A  He murdered the",
+        "options": [
+            "A - He murdered the time while singing",
+            "B - He was always late",
+            "C - He broke his watch",
+            "D - He forgot an appointment"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "He murdered the time while singing"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What do they do when they want clean dishes at the tea party?\n\n\n\n\u201cI\u2019ll never go there again!\u201d said the March Hare, with a sigh.",
+        "edit_response": "Answer the question based on the above context: What do they do when they want clean dishes at the tea party?\n\n\n\n\u201cI\u2019ll never go there again!\u201d said the March Hare, with a sigh.",
+        "options": [
+            "A - Move around the table",
+            "B - Wash them",
+            "C - Get new ones",
+            "D - Use their hands"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Move around the table"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What does Alice find when she goes through the door in the garden?\n\n\n\nAlice opened the door in the corner and spotted the Rabbit; the door creaked shut, and Alice stood in",
+        "edit_response": "Answer the question based on the above context: What does Alice find when she goes through the door in the garden?\n\n\n\nAlice opened the door in the corner and spotted the Rabbit; the door creaked shut, and Alice stood in",
+        "options": [
+            "A - The long hall with the glass table",
+            "B - Another tea party",
+            "C - The Queen's garden",
+            "D - Her sister"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The long hall with the glass table"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context:\n\n\nA  The Queen\n\nB  A\n\nC  A\n\nD  A\n\nE  A\n\nF  A\n\nG  A",
+        "edit_response": "Answer the question based on the above context:\n\n\nA  The Queen\n\nB  A\n\nC  A\n\nD  A\n\nE  A\n\nF  A\n\nG  A",
+        "options": [
+            "A - White roses red",
+            "B - Red roses white",
+            "C - The fence",
+            "D - The trees"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "White roses red"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Could it please your Majesty, that they would put these flowers in a plant called the croquet?\n\nA  They planted white roses by mistake and the Queen wants red\n\nB  They",
+        "edit_response": "Answer the question based on the above context: Could it please your Majesty, that they would put these flowers in a plant called the croquet?\n\nA  They planted white roses by mistake and the Queen wants red\n\nB  They",
+        "options": [
+            "A - They planted white roses by mistake and the Queen wants red",
+            "B - They want to surprise the Queen",
+            "C - The roses are dying",
+            "D - It's their job"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "They planted white roses by mistake and the Queen wants red"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply the question based on the above context: What are the gardeners' names?\n\n           Answer the question based on the above context: Why do you think the Princess is the one who is",
+        "edit_response": "Reply the question based on the above context: What are the gardeners' names?\n\n           Answer the question based on the above context: Why do you think the Princess is the one who is",
+        "options": [
+            "A - Two, Five, and Seven",
+            "B - Ace, King, and Queen",
+            "C - Tom, Dick, and Harry",
+            "D - Red, White, and Blue"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Two, Five, and Seven"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based only on the following context: Where was the Gardeners?\n\nA  They were in the garden\n\n\nB  They were in the garden\n\n\nC  They were in the garden\n\n\nD  They were",
+        "edit_response": "Answer the question based only on the following context: Where was the Gardeners?\n\nA  They were in the garden\n\n\nB  They were in the garden\n\n\nC  They were in the garden\n\n\nD  They were",
+        "options": [
+            "A - The Queen orders their heads to be cut off",
+            "B - They are promoted",
+            "C - They are thanked",
+            "D - They are ignored"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Queen orders their heads to be cut off"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: How many balls do you have right now?\n\n1 / 5\n\n2 / 5\n\n3 / 5\n\n4 / 5\n\n5 / 5\n\n1 / 5",
+        "edit_response": "Answer the question based on the above context: How many balls do you have right now?\n\n1 / 5\n\n2 / 5\n\n3 / 5\n\n4 / 5\n\n5 / 5\n\n1 / 5",
+        "options": [
+            "A - Live hedgehogs",
+            "B - Regular croquet balls",
+            "C - Stones",
+            "D - Apples"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Live hedgehogs"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: If you are in a position to shoot a ball, then you will have to shoot the ball in order to make the hoop jump. If, on the other hand, you do not, then you",
+        "edit_response": "Answer the question based on the following context: If you are in a position to shoot a ball, then you will have to shoot the ball in order to make the hoop jump. If, on the other hand, you do not, then you",
+        "options": [
+            "A - Soldiers bent over",
+            "B - Trees",
+            "C - Regular hoops",
+            "D - Flowers"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Soldiers bent over"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the three options:\n\nA  You should have taken the first option.\n\nB  The second option is more difficult.\n\nC  The third option is more difficult.\n\nD  The final option",
+        "edit_response": "Answer the question based on the three options:\n\nA  You should have taken the first option.\n\nB  The second option is more difficult.\n\nC  The third option is more difficult.\n\nD  The final option",
+        "options": [
+            "A - Everything is alive and moves around",
+            "B - The ground is uneven",
+            "C - There are too many players",
+            "D - The rules keep changing"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Everything is alive and moves around"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Who does Alice talk to during the croquet game?\n\n\n\nA  The King\n\nC  The Queen\n\nD  A soldier\n\nE  A soldier",
+        "edit_response": "Answer the question based on the above context: Who does Alice talk to during the croquet game?\n\n\n\nA  The King\n\nC  The Queen\n\nD  A soldier\n\nE  A soldier",
+        "options": [
+            "A - The Cheshire Cat's head",
+            "B - The Queen",
+            "C - The King",
+            "D - A soldier"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Cheshire Cat's head"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What causes a commotion during the croquet game?\n\n\u201cWhat causes a commotion during the croquet game?\u201d\n\nThe answer was no, it was just another croquet",
+        "edit_response": "Answer the question based on the above context: What causes a commotion during the croquet game?\n\n\u201cWhat causes a commotion during the croquet game?\u201d\n\nThe answer was no, it was just another croquet",
+        "options": [
+            "A - The appearance of the Cheshire Cat's head",
+            "B - Alice cheating",
+            "C - The Queen's anger",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The appearance of the Cheshire Cat's head"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply only the Letter of the correct options like A, B, C and D. Do not inlcude the source.\n\n\n\nThe king wanted to kill the Duchess, so he led the other party to the castle: the people",
+        "edit_response": "Reply only the Letter of the correct options like A, B, C and D. Do not inlcude the source.\n\n\n\nThe king wanted to kill the Duchess, so he led the other party to the castle: the people",
+        "options": [
+            "A - The executioner argues it's impossible to cut off a head without a body",
+            "B - Alice",
+            "C - The King",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The executioner argues it's impossible to cut off a head without a body"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer any of the following questions:\n\n\nB  What is your name?\n\nC  What is your age?\n\nD  What is your position?\n\nE  What is your name?\n\nF  What is your",
+        "edit_response": "Answer any of the following questions:\n\n\nB  What is your name?\n\nC  What is your age?\n\nD  What is your position?\n\nE  What is your name?\n\nF  What is your",
+        "options": [
+            "A - The Gryphon",
+            "B - The Mad Hatter",
+            "C - The Caterpillar",
+            "D - The Duchess"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Gryphon"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "* * * * Answer the question based on the above context: What is the story of Alice's education?\n\n\u201cWhat is the story of Alice's education?\u201d said the Hatter.\n\n\u201cWhat is the story",
+        "edit_response": "* * * * Answer the question based on the above context: What is the story of Alice's education?\n\n\u201cWhat is the story of Alice's education?\u201d said the Hatter.\n\n\u201cWhat is the story",
+        "options": [
+            "A - The Mock Turtle",
+            "B - The Gryphon",
+            "C - The Duchess",
+            "D - The Queen"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Mock Turtle"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What are the subjects the Mock Turtle studied?\n\nA  Reading and Writing\nB  History, Geography, and Science\nC  Art, Music, and Drama\nD  Art, Reading",
+        "edit_response": "Answer the question based on the above context: What are the subjects the Mock Turtle studied?\n\nA  Reading and Writing\nB  History, Geography, and Science\nC  Art, Music, and Drama\nD  Art, Reading",
+        "options": [
+            "A - Reeling, Writhing, and Fainting in Coils",
+            "B - Reading, Writing, and Arithmetic",
+            "C - History, Geography, and Science",
+            "D - Art, Music, and Drama"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Reeling, Writhing, and Fainting in Coils"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: We should have a Lobster Quadrille and a Tango.\n\nThe Lobster Quadrille\n\nThe Tango\n\nThe Ballet\n\nThe Tango",
+        "edit_response": "Answer the question based on the following context: We should have a Lobster Quadrille and a Tango.\n\nThe Lobster Quadrille\n\nThe Tango\n\nThe Ballet\n\nThe Tango",
+        "options": [
+            "A - The Lobster Quadrille",
+            "B - The Waltz",
+            "C - The Tango",
+            "D - The Ballet"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Lobster Quadrille"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context:\n\n\n\n\u201cAh,\u201d said the Mock Turtle. \u201cWhy does he say that?\u201d\n\n\u201cBecause he really does not understand,\u201d said the",
+        "edit_response": "Answer the question based on the above context:\n\n\n\n\u201cAh,\u201d said the Mock Turtle. \u201cWhy does he say that?\u201d\n\n\u201cBecause he really does not understand,\u201d said the",
+        "options": [
+            "A - 'Tis the Voice of the Lobster",
+            "B - Beautiful Soup",
+            "C - The Walrus and the Carpenter",
+            "D - Jabberwocky"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "'Tis the Voice of the Lobster"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: What interrupted Alice's time with the Mock Turtle and Gryphon?\n\n\u201cHow many times do you remember this event,\u201d said the Mock Turtle to the Gryphon.",
+        "edit_response": "Answer the question based on the following context: What interrupted Alice's time with the Mock Turtle and Gryphon?\n\n\u201cHow many times do you remember this event,\u201d said the Mock Turtle to the Gryphon.",
+        "options": [
+            "A - News of a trial beginning",
+            "B - The Queen calling",
+            "C - Dinner time",
+            "D - A thunderstorm"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "News of a trial beginning"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Reply to the questions.\n\n\n\n\u201cHe\u2019s a man,\u2029he\u2019s a man of wit and wit,\u2029he\u2019s a man who has been so bravely bravely brave",
+        "edit_response": "Reply to the questions.\n\n\n\n\u201cHe\u2019s a man,\u2029he\u2019s a man of wit and wit,\u2029he\u2019s a man who has been so bravely bravely brave",
+        "options": [
+            "A - The Knave of Hearts",
+            "B - Alice",
+            "C - The Mad Hatter",
+            "D - The White Rabbit"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Knave of Hearts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context:\n\n\u201cI am the King of Hearts\n\nB  The Queen of Hearts stole my tarts\n\nC  Breaking the King's crown\n\nD  Insulting the court",
+        "edit_response": "Answer the question based on the following context:\n\n\u201cI am the King of Hearts\n\nB  The Queen of Hearts stole my tarts\n\nC  Breaking the King's crown\n\nD  Insulting the court",
+        "options": [
+            "A - Stealing the Queen's tarts",
+            "B - Lying to the Queen",
+            "C - Breaking the King's crown",
+            "D - Insulting the court"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Stealing the Queen's tarts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: Who is the judge at the trial?\n\n\u201cThe King of Hearts\n\n\u201cThe Mad Hatter\n\n\u201cThe Duchess of Hearts\n\n\u201cThe White Rabbit",
+        "edit_response": "Answer the question based on the above context: Who is the judge at the trial?\n\n\u201cThe King of Hearts\n\n\u201cThe Mad Hatter\n\n\u201cThe Duchess of Hearts\n\n\u201cThe White Rabbit",
+        "options": [
+            "A - The King of Hearts",
+            "B - The Queen of Hearts",
+            "C - The White Rabbit",
+            "D - The Mad Hatter"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The King of Hearts"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What does the White Rabbit read at the trial?\n\n\n\n\u201cThe jury has already heard the answer.\u201d the King answered.\n\n\n\n\u201cThe Queen and",
+        "edit_response": "Answer the question based on the above context: What does the White Rabbit read at the trial?\n\n\n\n\u201cThe jury has already heard the answer.\u201d the King answered.\n\n\n\n\u201cThe Queen and",
+        "options": [
+            "A - The charges against the Knave",
+            "B - The evidence",
+            "C - The verdict",
+            "D - A poem"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The charges against the Knave"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context:\n\n\n\nThe First witness was a man, and was sitting at the same table as the King, who was sitting there on his stool. \u201cWhat is the reason for this?\ufffd",
+        "edit_response": "Answer the question based on the following context:\n\n\n\nThe First witness was a man, and was sitting at the same table as the King, who was sitting there on his stool. \u201cWhat is the reason for this?\ufffd",
+        "options": [
+            "A - The Mad Hatter, the Duchess's cook, and Alice",
+            "B - The Queen, King, and Knave",
+            "C - The Cheshire Cat, Mock Turtle, and Gryphon",
+            "D - The gardeners"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "The Mad Hatter, the Duchess's cook, and Alice"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What happens to Alice during the trial?\n\nB  She grows taller again\nC  She disappears\nD  She shrinks\n\nE  She grows smaller again\n\nG  She",
+        "edit_response": "Answer the question based on the above context: What happens to Alice during the trial?\n\nB  She grows taller again\nC  She disappears\nD  She shrinks\n\nE  She grows smaller again\n\nG  She",
+        "options": [
+            "A - She starts growing larger again",
+            "B - She falls asleep",
+            "C - She disappears",
+            "D - She shrinks"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "She starts growing larger again"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the above context: What does Alice say about the evidence?\n\n2. Answers to Questions\u00b6 \u00a0* This is the question that could be asked in the second place.\n\n\u201d (Question 1) What",
+        "edit_response": "Answer the question based on the above context: What does Alice say about the evidence?\n\n2. Answers to Questions\u00b6 \u00a0* This is the question that could be asked in the second place.\n\n\u201d (Question 1) What",
+        "options": [
+            "A - It proves nothing",
+            "B - It's very convincing",
+            "C - It's confusing",
+            "D - It's false"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "It proves nothing"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "The Project Gutenberg eBook of Alice's Adventures in Wonderland\n\n\n\nThe Project Gutenberg eBook of Alice's Adventures in Wonderland is a collection of eBooks by Alice Bailey",
+        "edit_response": "The Project Gutenberg eBook of Alice's Adventures in Wonderland\n\n\n\nThe Project Gutenberg eBook of Alice's Adventures in Wonderland is a collection of eBooks by Alice Bailey",
+        "options": [
+            "A - She wakes up from a dream",
+            "B - She finds a way home",
+            "C - She becomes Queen",
+            "D - She stays in Wonderland forever"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "She wakes up from a dream"
+    },
+    {
+        "model": "all_MiniLM_L12_v2--gpt2_quiz_results",
+        "original_response": "Answer the question based on the following context: Do you think that the Rabbit will sleep if you go to sleep with her?\n\n\n\nThe letter ended with a reply: \"I hope that there is no danger of waking her up,",
+        "edit_response": "Answer the question based on the following context: Do you think that the Rabbit will sleep if you go to sleep with her?\n\n\n\nThe letter ended with a reply: \"I hope that there is no danger of waking her up,",
+        "options": [
+            "A - Her sister",
+            "B - Her mother",
+            "C - The White Rabbit",
+            "D - The Cheshire Cat"
+        ],
+        "correct_answer": "A",
+        "alternate_correct_answer": "Her sister"
     },
     {
         "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
@@ -180,19 +2598,6 @@
         ],
         "correct_answer": "A",
         "alternate_correct_answer": "You are old, Father William"
-    },
-    {
-        "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
-        "original_response": "Sneeze B",
-        "edit_response": "Sneeze B",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sneeze"
     },
     {
         "model": "all_MiniLM_L6_v2--flan_t5_base_quiz_results",
@@ -534,19 +2939,6 @@
     },
     {
         "model": "e5_base_v2--flan_t5_base_quiz_results",
-        "original_response": "Sneeze B",
-        "edit_response": "Sneeze B",
-        "options": [
-            "A - Sneeze",
-            "B - Cry",
-            "C - Laugh",
-            "D - Cough"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Sneeze"
-    },
-    {
-        "model": "e5_base_v2--flan_t5_base_quiz_results",
         "original_response": "A, B, C and D.",
         "edit_response": "A, B, C and D.",
         "options": [
@@ -648,32 +3040,6 @@
         ],
         "correct_answer": "D",
         "alternate_correct_answer": "Both A and B"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "A large pool of tears  \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"Please, then, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer",
-        "edit_response": "A large pool of tears  \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"Please, then, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\"  \"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer",
-        "options": [
-            "A - A large pool of tears",
-            "B - A small puddle",
-            "C - A river",
-            "D - A lake"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "A large pool of tears"
-    },
-    {
-        "model": "embedding_001--flan_t5_base_quiz_results",
-        "original_response": "Salt water from her own tears  \u201cI wish I hadn\u2019t cried so much!\u201d said Alice, as she swam about, trying to find her way out. \u201cI shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\u201d  Just then she heard something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.  In another moment down went Alice after it, never once considering how in the world she was to get out again. The rabbithole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.",
-        "edit_response": "Salt water from her own tears  \u201cI wish I hadn\u2019t cried so much!\u201d said Alice, as she swam about, trying to find her way out. \u201cI shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer today.\u201d  Just then she heard something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.  In another moment down went Alice after it, never once considering how in the world she was to get out again. The rabbithole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.",
-        "options": [
-            "A - Salt water from her own tears",
-            "B - The sea",
-            "C - A pond",
-            "D - A swimming pool"
-        ],
-        "correct_answer": "A",
-        "alternate_correct_answer": "Salt water from her own tears"
     },
     {
         "model": "embedding_001--flan_t5_base_quiz_results",

@@ -19,8 +19,8 @@ EMBEDDING_MODEL_OPTIONS = [
     "BAAI/bge-large-en", # success
     "intfloat/e5-base-v2", # success
     "sentence-transformers/static-retrieval-mrl-en-v1", # success
-    "sentence-transformers/all-MiniLM-L12-v2", # success # best one so far
-    "gemini/embedding-001",       # Older Gemini model
+    "sentence-transformers/all-MiniLM-L12-v2", # 5 # success # best one so far
+    # "gemini/embedding-001",       # Older Gemini model
     "gemini/text-embedding-005",  # New Gemini model
 ]
 
@@ -33,14 +33,14 @@ EMBEDDING_MODEL_TYPES = [
     "huggingface",  # 4
     "huggingface",  # 5
     "gemini",       # 6 - New
-    "gemini",       # 7 - New
+    # "gemini",       # 7 - New
 ]
 
 TEXT_GENERATION_MODEL_OPTIONS = [
     "google/flan-t5-small",
     "google/flan-t5-base", # have been using this for default development testing
     "google/flan-t5-large",
-    "google/flan-t5-xl",
+    "google/flan-t5-xl", # 3
     "gpt2",
     "distilgpt2"
 ]

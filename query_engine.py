@@ -164,7 +164,7 @@ class QueryEngine:
         
         # Prepare context from search results
         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
-        sources = [doc.metadata.get("source", "Unknown") for doc, _score in results]
+        sources = [(_score, doc.metadata.get("source", "Unknown"), doc.page_content) for doc, _score in results]
         
         # Generate response
         response_text = self.generate_response(question, options or [], context_text)
