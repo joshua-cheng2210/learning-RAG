@@ -149,13 +149,13 @@ def main():
             correct_results = [r for r in results if r['is_correct']]
             incorrect_results = [r for r in results if not r['is_correct']]
             
-            if incorrect_results:
-                print(f"\nIncorrect answers ({len(incorrect_results)}):")
-                for result in incorrect_results:
-                    print(f"Q{result['id']}: Expected {result['correct_answer']}, got {result['response']}")
+            # if incorrect_results:
+            #     print(f"\nIncorrect answers ({len(incorrect_results)}):")
+            #     for result in incorrect_results:
+            #         print(f"Q{result['id']}: Expected {result['correct_answer']}, got {result['response']}")
             
-            if correct_results:
-                print(f"\nCorrect answers: {len(correct_results)}")
+            # if correct_results:
+            #     print(f"\nCorrect answers: {len(correct_results)}")
 
             with open(result_file_path, "w") as f:
                 json.dump(results, f, indent=4)

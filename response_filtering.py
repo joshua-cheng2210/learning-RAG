@@ -45,7 +45,9 @@ for model_response_fp in os.listdir(model_response_directory):
                     "edit_response" : edit_response,
                     "options" : question["options"],
                     "correct_answer" : question["correct_answer"],
-                    "alternate_correct_answer" : alternate_correct_answer
+                    "alternate_correct_answer" : alternate_correct_answer,
+                    "sources" : question["sources"],
+                    "question" : question["question"]
                 }
                 incorrect_answers.append(save)
                         
