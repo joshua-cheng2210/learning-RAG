@@ -1,184 +1,185 @@
-Model: all_MiniLM_L12_v2--falcon_7b_quiz_results.json, Correct: 55/90
-Model: all_MiniLM_L12_v2--gemma_3_1b_it_quiz_results.json, Correct: 55/90
-Model: all_MiniLM_L12_v2--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 55/90
-Model: all_MiniLM_L12_v2--zephyr_7b_beta_quiz_results.json, Correct: 55/90
-Model: all_MiniLM_L6_v2--falcon_7b_instruct_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--falcon_7b_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--flan_t5_base_quiz_results.json, Correct: 62/90
-Model: all_MiniLM_L6_v2--flan_t5_large_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--flan_t5_small_quiz_results.json, Correct: 64/90
-Model: all_MiniLM_L6_v2--flan_t5_xl_quiz_results.json, Correct: 65/90
-Model: all_MiniLM_L6_v2--gemma_2_2b_it_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--gemma_2_2b_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--gemma_3_1b_it_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--Llama_3.2_1B_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 66/90
-Model: all_MiniLM_L6_v2--zephyr_7b_beta_quiz_results.json, Correct: 66/90
-Model: all_mpnet_base_v2--falcon_7b_instruct_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--falcon_7b_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--flan_t5_base_quiz_results.json, Correct: 57/90
-Model: all_mpnet_base_v2--flan_t5_large_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--flan_t5_small_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--flan_t5_xl_quiz_results.json, Correct: 63/90
-Model: all_mpnet_base_v2--gemma_2_2b_it_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--gemma_2_2b_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--gemma_3_1b_it_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--Llama_3.2_1B_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 61/90
-Model: all_mpnet_base_v2--zephyr_7b_beta_quiz_results.json, Correct: 61/90
-Model: bge_base_en_v1.5--falcon_7b_instruct_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--falcon_7b_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--flan_t5_base_quiz_results.json, Correct: 58/90
-Model: bge_base_en_v1.5--flan_t5_large_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--flan_t5_small_quiz_results.json, Correct: 64/90
-Model: bge_base_en_v1.5--flan_t5_xl_quiz_results.json, Correct: 62/90
-Model: bge_base_en_v1.5--gemma_2_2b_it_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--gemma_2_2b_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--gemma_3_1b_it_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--Llama_3.2_1B_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 67/90
-Model: bge_base_en_v1.5--zephyr_7b_beta_quiz_results.json, Correct: 67/90
-Model: bge_large_en--falcon_7b_instruct_quiz_results.json, Correct: 66/90
-Model: bge_large_en--falcon_7b_quiz_results.json, Correct: 66/90
-Model: bge_large_en--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 66/90
-Model: bge_large_en--flan_t5_base_quiz_results.json, Correct: 56/90
-Model: bge_large_en--flan_t5_large_quiz_results.json, Correct: 66/90
-Model: bge_large_en--flan_t5_small_quiz_results.json, Correct: 58/90
-Model: bge_large_en--flan_t5_xl_quiz_results.json, Correct: 59/90
-Model: bge_large_en--gemma_2_2b_it_quiz_results.json, Correct: 66/90
-Model: bge_large_en--gemma_2_2b_quiz_results.json, Correct: 66/90
-Model: bge_large_en--gemma_3_1b_it_quiz_results.json, Correct: 66/90
-Model: bge_large_en--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 66/90
-Model: bge_large_en--Llama_3.2_1B_quiz_results.json, Correct: 66/90
-Model: bge_large_en--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 66/90
-Model: bge_large_en--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 66/90
-Model: bge_large_en--zephyr_7b_beta_quiz_results.json, Correct: 66/90
-Model: bge_large_en_v1.5--falcon_7b_instruct_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--falcon_7b_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--flan_t5_base_quiz_results.json, Correct: 56/90
-Model: bge_large_en_v1.5--flan_t5_large_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--flan_t5_small_quiz_results.json, Correct: 62/90
-Model: bge_large_en_v1.5--flan_t5_xl_quiz_results.json, Correct: 64/90
-Model: bge_large_en_v1.5--gemma_2_2b_it_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--gemma_2_2b_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--gemma_3_1b_it_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--Llama_3.2_1B_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 65/90
-Model: bge_large_en_v1.5--zephyr_7b_beta_quiz_results.json, Correct: 65/90
-Model: bge_m3--falcon_7b_instruct_quiz_results.json, Correct: 63/90
-Model: bge_m3--falcon_7b_quiz_results.json, Correct: 63/90
-Model: bge_m3--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 63/90
-Model: bge_m3--flan_t5_base_quiz_results.json, Correct: 57/90
-Model: bge_m3--flan_t5_large_quiz_results.json, Correct: 63/90
-Model: bge_m3--flan_t5_small_quiz_results.json, Correct: 64/90
-Model: bge_m3--flan_t5_xl_quiz_results.json, Correct: 68/90
-Model: bge_m3--gemma_2_2b_it_quiz_results.json, Correct: 63/90
-Model: bge_m3--gemma_2_2b_quiz_results.json, Correct: 63/90
-Model: bge_m3--gemma_3_1b_it_quiz_results.json, Correct: 63/90
-Model: bge_m3--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 63/90
-Model: bge_m3--Llama_3.2_1B_quiz_results.json, Correct: 63/90
-Model: bge_m3--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 63/90
-Model: bge_m3--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 63/90
-Model: bge_m3--zephyr_7b_beta_quiz_results.json, Correct: 63/90
-Model: e5_base_v2--falcon_7b_instruct_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--falcon_7b_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--flan_t5_base_quiz_results.json, Correct: 62/90
-Model: e5_base_v2--flan_t5_large_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--flan_t5_small_quiz_results.json, Correct: 62/90
-Model: e5_base_v2--flan_t5_xl_quiz_results.json, Correct: 63/90
-Model: e5_base_v2--gemma_2_2b_it_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--gemma_2_2b_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--gemma_3_1b_it_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--Llama_3.2_1B_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 66/90
-Model: e5_base_v2--zephyr_7b_beta_quiz_results.json, Correct: 66/90
-Model: instructor_large--falcon_7b_instruct_quiz_results.json, Correct: 62/90
-Model: instructor_large--falcon_7b_quiz_results.json, Correct: 62/90
-Model: instructor_large--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 62/90
-Model: instructor_large--flan_t5_base_quiz_results.json, Correct: 53/90
-Model: instructor_large--flan_t5_large_quiz_results.json, Correct: 62/90
-Model: instructor_large--flan_t5_small_quiz_results.json, Correct: 61/90
-Model: instructor_large--flan_t5_xl_quiz_results.json, Correct: 64/90
-Model: instructor_large--gemma_2_2b_it_quiz_results.json, Correct: 62/90
-Model: instructor_large--gemma_2_2b_quiz_results.json, Correct: 62/90
-Model: instructor_large--gemma_3_1b_it_quiz_results.json, Correct: 62/90
-Model: instructor_large--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 62/90
-Model: instructor_large--Llama_3.2_1B_quiz_results.json, Correct: 62/90
-Model: instructor_large--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 62/90
-Model: instructor_large--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 62/90
-Model: instructor_large--zephyr_7b_beta_quiz_results.json, Correct: 62/90
-Model: instructor_xl--falcon_7b_instruct_quiz_results.json, Correct: 71/90
-Model: instructor_xl--falcon_7b_quiz_results.json, Correct: 71/90
-Model: instructor_xl--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 71/90
-Model: instructor_xl--flan_t5_base_quiz_results.json, Correct: 62/90
-Model: instructor_xl--flan_t5_large_quiz_results.json, Correct: 71/90
-Model: instructor_xl--flan_t5_small_quiz_results.json, Correct: 64/90
-Model: instructor_xl--flan_t5_xl_quiz_results.json, Correct: 0/90
-Model: instructor_xl--gemma_2_2b_it_quiz_results.json, Correct: 71/90
-Model: instructor_xl--gemma_2_2b_quiz_results.json, Correct: 71/90
-Model: instructor_xl--gemma_3_1b_it_quiz_results.json, Correct: 71/90
-Model: instructor_xl--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 71/90
-Model: instructor_xl--Llama_3.2_1B_quiz_results.json, Correct: 71/90
-Model: instructor_xl--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 71/90
-Model: instructor_xl--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 71/90
-Model: instructor_xl--zephyr_7b_beta_quiz_results.json, Correct: 71/90
-Model: multi_qa_mpnet_base_cos_v1--falcon_7b_instruct_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--falcon_7b_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--flan_t5_base_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_cos_v1--flan_t5_large_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--flan_t5_small_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_cos_v1--flan_t5_xl_quiz_results.json, Correct: 62/90
-Model: multi_qa_mpnet_base_cos_v1--gemma_2_2b_it_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--gemma_2_2b_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--gemma_3_1b_it_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--Llama_3.2_1B_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_cos_v1--zephyr_7b_beta_quiz_results.json, Correct: 65/90
-Model: multi_qa_mpnet_base_dot_v1--falcon_7b_instruct_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--falcon_7b_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--flan_t5_base_quiz_results.json, Correct: 53/90
-Model: multi_qa_mpnet_base_dot_v1--flan_t5_large_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--flan_t5_small_quiz_results.json, Correct: 56/90
-Model: multi_qa_mpnet_base_dot_v1--flan_t5_xl_quiz_results.json, Correct: 58/90
-Model: multi_qa_mpnet_base_dot_v1--gemma_2_2b_it_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--gemma_2_2b_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--gemma_3_1b_it_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--Llama_3.2_1B_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 60/90
-Model: multi_qa_mpnet_base_dot_v1--zephyr_7b_beta_quiz_results.json, Correct: 60/90
-Model: static_retrieval_mrl_en_v1--falcon_7b_instruct_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--falcon_7b_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--Falcon_H1_0.5B_Instruct_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--flan_t5_base_quiz_results.json, Correct: 45/90
-Model: static_retrieval_mrl_en_v1--flan_t5_large_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--flan_t5_small_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--flan_t5_xl_quiz_results.json, Correct: 56/90
-Model: static_retrieval_mrl_en_v1--gemma_2_2b_it_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--gemma_2_2b_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--gemma_3_1b_it_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--Llama_3.1_8B_Instruct_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--Llama_3.2_1B_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--Llama_3.2_3B_Instruct_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 53/90
-Model: static_retrieval_mrl_en_v1--zephyr_7b_beta_quiz_results.json, Correct: 53/90
+embedding_model,chat_model,accuracy_percent,raw_score
+all_MiniLM_L12_v2,falcon_7b,61.11111,55/90
+all_MiniLM_L12_v2,gemma_3_1b_it,61.11111,55/90
+all_MiniLM_L12_v2,Llama_3.1_8B_Instruct,61.11111,55/90
+all_MiniLM_L12_v2,zephyr_7b_beta,61.11111,55/90
+all_MiniLM_L6_v2,falcon_7b_instruct,73.333336,66/90
+all_MiniLM_L6_v2,falcon_7b,73.333336,66/90
+all_MiniLM_L6_v2,Falcon_H1_0.5B_Instruct,73.333336,66/90
+all_MiniLM_L6_v2,flan_t5_base,68.888885,62/90
+all_MiniLM_L6_v2,flan_t5_large,73.333336,66/90
+all_MiniLM_L6_v2,flan_t5_small,71.111115,64/90
+all_MiniLM_L6_v2,flan_t5_xl,72.22222,65/90
+all_MiniLM_L6_v2,gemma_2_2b_it,73.333336,66/90
+all_MiniLM_L6_v2,gemma_2_2b,73.333336,66/90
+all_MiniLM_L6_v2,gemma_3_1b_it,73.333336,66/90
+all_MiniLM_L6_v2,Llama_3.1_8B_Instruct,73.333336,66/90
+all_MiniLM_L6_v2,Llama_3.2_1B,73.333336,66/90
+all_MiniLM_L6_v2,Llama_3.2_3B_Instruct,73.333336,66/90
+all_MiniLM_L6_v2,Meta_Llama_3_8B_Instruct,73.333336,66/90
+all_MiniLM_L6_v2,zephyr_7b_beta,73.333336,66/90
+all_mpnet_base_v2,falcon_7b_instruct,67.77778,61/90
+all_mpnet_base_v2,falcon_7b,67.77778,61/90
+all_mpnet_base_v2,Falcon_H1_0.5B_Instruct,67.77778,61/90
+all_mpnet_base_v2,flan_t5_base,63.333332,57/90
+all_mpnet_base_v2,flan_t5_large,67.77778,61/90
+all_mpnet_base_v2,flan_t5_small,67.77778,61/90
+all_mpnet_base_v2,flan_t5_xl,70.0,63/90
+all_mpnet_base_v2,gemma_2_2b_it,67.77778,61/90
+all_mpnet_base_v2,gemma_2_2b,67.77778,61/90
+all_mpnet_base_v2,gemma_3_1b_it,67.77778,61/90
+all_mpnet_base_v2,Llama_3.1_8B_Instruct,67.77778,61/90
+all_mpnet_base_v2,Llama_3.2_1B,67.77778,61/90
+all_mpnet_base_v2,Llama_3.2_3B_Instruct,67.77778,61/90
+all_mpnet_base_v2,Meta_Llama_3_8B_Instruct,67.77778,61/90
+all_mpnet_base_v2,zephyr_7b_beta,67.77778,61/90
+bge_base_en_v1.5,falcon_7b_instruct,74.44444,67/90
+bge_base_en_v1.5,falcon_7b,74.44444,67/90
+bge_base_en_v1.5,Falcon_H1_0.5B_Instruct,74.44444,67/90
+bge_base_en_v1.5,flan_t5_base,64.44444,58/90
+bge_base_en_v1.5,flan_t5_large,74.44444,67/90
+bge_base_en_v1.5,flan_t5_small,71.111115,64/90
+bge_base_en_v1.5,flan_t5_xl,68.888885,62/90
+bge_base_en_v1.5,gemma_2_2b_it,74.44444,67/90
+bge_base_en_v1.5,gemma_2_2b,74.44444,67/90
+bge_base_en_v1.5,gemma_3_1b_it,74.44444,67/90
+bge_base_en_v1.5,Llama_3.1_8B_Instruct,74.44444,67/90
+bge_base_en_v1.5,Llama_3.2_1B,74.44444,67/90
+bge_base_en_v1.5,Llama_3.2_3B_Instruct,74.44444,67/90
+bge_base_en_v1.5,Meta_Llama_3_8B_Instruct,74.44444,67/90
+bge_base_en_v1.5,zephyr_7b_beta,74.44444,67/90
+bge_large_en,falcon_7b_instruct,73.333336,66/90
+bge_large_en,falcon_7b,73.333336,66/90
+bge_large_en,Falcon_H1_0.5B_Instruct,73.333336,66/90
+bge_large_en,flan_t5_base,62.22222,56/90
+bge_large_en,flan_t5_large,73.333336,66/90
+bge_large_en,flan_t5_small,64.44444,58/90
+bge_large_en,flan_t5_xl,65.55556,59/90
+bge_large_en,gemma_2_2b_it,73.333336,66/90
+bge_large_en,gemma_2_2b,73.333336,66/90
+bge_large_en,gemma_3_1b_it,73.333336,66/90
+bge_large_en,Llama_3.1_8B_Instruct,73.333336,66/90
+bge_large_en,Llama_3.2_1B,73.333336,66/90
+bge_large_en,Llama_3.2_3B_Instruct,73.333336,66/90
+bge_large_en,Meta_Llama_3_8B_Instruct,73.333336,66/90
+bge_large_en,zephyr_7b_beta,73.333336,66/90
+bge_large_en_v1.5,falcon_7b_instruct,72.22222,65/90
+bge_large_en_v1.5,falcon_7b,72.22222,65/90
+bge_large_en_v1.5,Falcon_H1_0.5B_Instruct,72.22222,65/90
+bge_large_en_v1.5,flan_t5_base,62.22222,56/90
+bge_large_en_v1.5,flan_t5_large,72.22222,65/90
+bge_large_en_v1.5,flan_t5_small,68.888885,62/90
+bge_large_en_v1.5,flan_t5_xl,71.111115,64/90
+bge_large_en_v1.5,gemma_2_2b_it,72.22222,65/90
+bge_large_en_v1.5,gemma_2_2b,72.22222,65/90
+bge_large_en_v1.5,gemma_3_1b_it,72.22222,65/90
+bge_large_en_v1.5,Llama_3.1_8B_Instruct,72.22222,65/90
+bge_large_en_v1.5,Llama_3.2_1B,72.22222,65/90
+bge_large_en_v1.5,Llama_3.2_3B_Instruct,72.22222,65/90
+bge_large_en_v1.5,Meta_Llama_3_8B_Instruct,72.22222,65/90
+bge_large_en_v1.5,zephyr_7b_beta,72.22222,65/90
+bge_m3,falcon_7b_instruct,70.0,63/90
+bge_m3,falcon_7b,70.0,63/90
+bge_m3,Falcon_H1_0.5B_Instruct,70.0,63/90
+bge_m3,flan_t5_base,63.333332,57/90
+bge_m3,flan_t5_large,70.0,63/90
+bge_m3,flan_t5_small,71.111115,64/90
+bge_m3,flan_t5_xl,75.55556,68/90
+bge_m3,gemma_2_2b_it,70.0,63/90
+bge_m3,gemma_2_2b,70.0,63/90
+bge_m3,gemma_3_1b_it,70.0,63/90
+bge_m3,Llama_3.1_8B_Instruct,70.0,63/90
+bge_m3,Llama_3.2_1B,70.0,63/90
+bge_m3,Llama_3.2_3B_Instruct,70.0,63/90
+bge_m3,Meta_Llama_3_8B_Instruct,70.0,63/90
+bge_m3,zephyr_7b_beta,70.0,63/90
+e5_base_v2,falcon_7b_instruct,73.333336,66/90
+e5_base_v2,falcon_7b,73.333336,66/90
+e5_base_v2,Falcon_H1_0.5B_Instruct,73.333336,66/90
+e5_base_v2,flan_t5_base,68.888885,62/90
+e5_base_v2,flan_t5_large,73.333336,66/90
+e5_base_v2,flan_t5_small,68.888885,62/90
+e5_base_v2,flan_t5_xl,70.0,63/90
+e5_base_v2,gemma_2_2b_it,73.333336,66/90
+e5_base_v2,gemma_2_2b,73.333336,66/90
+e5_base_v2,gemma_3_1b_it,73.333336,66/90
+e5_base_v2,Llama_3.1_8B_Instruct,73.333336,66/90
+e5_base_v2,Llama_3.2_1B,73.333336,66/90
+e5_base_v2,Llama_3.2_3B_Instruct,73.333336,66/90
+e5_base_v2,Meta_Llama_3_8B_Instruct,73.333336,66/90
+e5_base_v2,zephyr_7b_beta,73.333336,66/90
+instructor_large,falcon_7b_instruct,68.888885,62/90
+instructor_large,falcon_7b,68.888885,62/90
+instructor_large,Falcon_H1_0.5B_Instruct,68.888885,62/90
+instructor_large,flan_t5_base,58.88889,53/90
+instructor_large,flan_t5_large,68.888885,62/90
+instructor_large,flan_t5_small,67.77778,61/90
+instructor_large,flan_t5_xl,71.111115,64/90
+instructor_large,gemma_2_2b_it,68.888885,62/90
+instructor_large,gemma_2_2b,68.888885,62/90
+instructor_large,gemma_3_1b_it,68.888885,62/90
+instructor_large,Llama_3.1_8B_Instruct,68.888885,62/90
+instructor_large,Llama_3.2_1B,68.888885,62/90
+instructor_large,Llama_3.2_3B_Instruct,68.888885,62/90
+instructor_large,Meta_Llama_3_8B_Instruct,68.888885,62/90
+instructor_large,zephyr_7b_beta,68.888885,62/90
+instructor_xl,falcon_7b_instruct,78.888885,71/90
+instructor_xl,falcon_7b,78.888885,71/90
+instructor_xl,Falcon_H1_0.5B_Instruct,78.888885,71/90
+instructor_xl,flan_t5_base,68.888885,62/90
+instructor_xl,flan_t5_large,78.888885,71/90
+instructor_xl,flan_t5_small,71.111115,64/90
+instructor_xl,flan_t5_xl,0.0,0/90
+instructor_xl,gemma_2_2b_it,78.888885,71/90
+instructor_xl,gemma_2_2b,78.888885,71/90
+instructor_xl,gemma_3_1b_it,78.888885,71/90
+instructor_xl,Llama_3.1_8B_Instruct,78.888885,71/90
+instructor_xl,Llama_3.2_1B,78.888885,71/90
+instructor_xl,Llama_3.2_3B_Instruct,78.888885,71/90
+instructor_xl,Meta_Llama_3_8B_Instruct,78.888885,71/90
+instructor_xl,zephyr_7b_beta,78.888885,71/90
+multi_qa_mpnet_base_cos_v1,falcon_7b_instruct,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,falcon_7b,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,Falcon_H1_0.5B_Instruct,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,flan_t5_base,66.666664,60/90
+multi_qa_mpnet_base_cos_v1,flan_t5_large,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,flan_t5_small,66.666664,60/90
+multi_qa_mpnet_base_cos_v1,flan_t5_xl,68.888885,62/90
+multi_qa_mpnet_base_cos_v1,gemma_2_2b_it,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,gemma_2_2b,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,gemma_3_1b_it,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,Llama_3.1_8B_Instruct,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,Llama_3.2_1B,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,Llama_3.2_3B_Instruct,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,Meta_Llama_3_8B_Instruct,72.22222,65/90
+multi_qa_mpnet_base_cos_v1,zephyr_7b_beta,72.22222,65/90
+multi_qa_mpnet_base_dot_v1,falcon_7b_instruct,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,falcon_7b,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,Falcon_H1_0.5B_Instruct,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,flan_t5_base,58.88889,53/90
+multi_qa_mpnet_base_dot_v1,flan_t5_large,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,flan_t5_small,62.22222,56/90
+multi_qa_mpnet_base_dot_v1,flan_t5_xl,64.44444,58/90
+multi_qa_mpnet_base_dot_v1,gemma_2_2b_it,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,gemma_2_2b,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,gemma_3_1b_it,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,Llama_3.1_8B_Instruct,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,Llama_3.2_1B,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,Llama_3.2_3B_Instruct,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,Meta_Llama_3_8B_Instruct,66.666664,60/90
+multi_qa_mpnet_base_dot_v1,zephyr_7b_beta,66.666664,60/90
+static_retrieval_mrl_en_v1,falcon_7b_instruct,58.88889,53/90
+static_retrieval_mrl_en_v1,falcon_7b,58.88889,53/90
+static_retrieval_mrl_en_v1,Falcon_H1_0.5B_Instruct,58.88889,53/90
+static_retrieval_mrl_en_v1,flan_t5_base,50.0,45/90
+static_retrieval_mrl_en_v1,flan_t5_large,58.88889,53/90
+static_retrieval_mrl_en_v1,flan_t5_small,58.88889,53/90
+static_retrieval_mrl_en_v1,flan_t5_xl,62.22222,56/90
+static_retrieval_mrl_en_v1,gemma_2_2b_it,58.88889,53/90
+static_retrieval_mrl_en_v1,gemma_2_2b,58.88889,53/90
+static_retrieval_mrl_en_v1,gemma_3_1b_it,58.88889,53/90
+static_retrieval_mrl_en_v1,Llama_3.1_8B_Instruct,58.88889,53/90
+static_retrieval_mrl_en_v1,Llama_3.2_1B,58.88889,53/90
+static_retrieval_mrl_en_v1,Llama_3.2_3B_Instruct,58.88889,53/90
+static_retrieval_mrl_en_v1,Meta_Llama_3_8B_Instruct,58.88889,53/90
+static_retrieval_mrl_en_v1,zephyr_7b_beta,58.88889,53/90
