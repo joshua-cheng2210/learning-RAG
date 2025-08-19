@@ -3,6 +3,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter, MarkdownText
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_google_genai import GoogleGenerativeAIEmbeddings  
+from langchain_experimental.text_splitter import SemanticChunker
 import os
 from pathlib import Path
 from dotenv import load_dotenv
@@ -100,11 +101,15 @@ class DatabaseManager:
     def create_text_splitter(self, strategy):
         """Create appropriate text splitter based on strategy."""
         if strategy['splitter_type'] == 'markdown':
-            return MarkdownTextSplitter(
-                chunk_size=strategy['chunk_size'],
-                chunk_overlap=strategy['chunk_overlap'],
-                length_function=len,
-                add_start_index=True,
+            # return MarkdownTextSplitter(
+            #     chunk_size=strategy['chunk_size'],
+            #     chunk_overlap=strategy['chunk_overlap'],
+            #     length_function=len,
+            #     add_start_index=True,
+            # )
+            return SemanticChunker(
+                self.embedding_function,
+                breakpoint_threshold_type="percentile"
             )
         else:  # recursive
             return RecursiveCharacterTextSplitter(
@@ -200,3 +205,4 @@ class DatabaseManager:
         # Save to database
         db = self.save_to_chroma(chunks, persist_directory)
         return db is not None
+    

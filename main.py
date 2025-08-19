@@ -141,13 +141,13 @@ def main():
         # Rest of quiz_mode code remains the same...
         if results:
             print("\n" + "="*50)
-            print("DETAILED ANALYSIS")
-            print("="*50)
-            print("Embedding Model:", embedding_model)
-            print("Text Generation Model:", text_model)
+            # print("DETAILED ANALYSIS")
+            # print("="*50)
+            # print("Embedding Model:", embedding_model)
+            # print("Text Generation Model:", text_model)
 
-            correct_results = [r for r in results if r['is_correct']]
-            incorrect_results = [r for r in results if not r['is_correct']]
+            # correct_results = [r for r in results if r['is_correct']]
+            # incorrect_results = [r for r in results if not r['is_correct']]
             
             # if incorrect_results:
             #     print(f"\nIncorrect answers ({len(incorrect_results)}):")
@@ -159,7 +159,7 @@ def main():
 
             with open(result_file_path, "w") as f:
                 json.dump(results, f, indent=4)
-            print(f"Quiz results saved to {result_file_path}")
+            # print(f"Quiz results saved to {result_file_path}")
     
     if args.mode == "create":
         create_mode()

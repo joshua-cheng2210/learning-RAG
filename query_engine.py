@@ -1,7 +1,7 @@
 import json
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFacePipeline, HuggingFaceEmbeddings
-from langchain_google_genai import GoogleGenerativeAIEmbeddings  # New import
+from langchain_google_genai import GoogleGenerativeAIEmbeddings 
 from transformers import pipeline
 import os
 from dotenv import load_dotenv
@@ -92,6 +92,15 @@ class QueryEngine:
 
             Respond only the Letter of the correct options like A, B, C and D. Do not inlcude the source.
             """
+            # """<s>[INST] You are answering questions about Alice in Wonderland. Based on the context provided, select the correct answer.
+
+            # Context: {context_text}
+
+            # Question: {question}
+            # Options:
+            # {options_text}
+
+            # Respond with only the letter (A, B, C, or D) of the correct answer. [/INST]"""
         
         print(f"QueryEngine initialized:")
         print(f"  Embedding: {embedding_model_name} ({embedding_model_type})")
@@ -201,7 +210,7 @@ class QueryEngine:
         correct_count = 0
         
         for i, question_data in enumerate(quiz_data, 1):
-            print(f"Question {i} of {len(quiz_data)}")
+            # print(f"Question {i} of {len(quiz_data)}")
             
             question_id = question_data.get("id", i)
             question = question_data["question"]
