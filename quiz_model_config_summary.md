@@ -34,7 +34,7 @@ Model: all_MiniLM_L12_v2--flan_t5_large_quiz_results.json, Correct: 56/90
 Model: all_MiniLM_L12_v2--flan_t5_small_quiz_results.json, Correct: 58/90
 Model: all_MiniLM_L12_v2--flan_t5_base_quiz_results.json, Correct: 48/90
 
-config description: (2nd attempt)
+config description: (2nd attempt - might not be accurate: i don't think the falcon chat model was being used)
 - using chunking_overlap = 150
 - using RecursiveCharacterTextSplitter()
 Model: multi_qa_mpnet_base_dot_v1--gemma_2_2b_quiz_results.json, Correct: 60/90
@@ -221,6 +221,62 @@ Model: instructor_xl--Meta_Llama_3_8B_Instruct_quiz_results.json, Correct: 71/90
 Model: instructor_xl--gemma_2_2b_it_quiz_results.json, Correct: 71/90
 Model: instructor_xl--gemma_2_2b_quiz_results.json, Correct: 71/90
 Model: instructor_xl--gemma_3_1b_it_quiz_results.json, Correct: 71/90
+
+config description: (3rd attempt)
+- using chunking_overlap = 150
+- using RecursiveCharacterTextSplitter()
+Model: e5_base_v2--flan_t5_base_quiz_results.json, Correct: 62/90, Avg Relevance: 0.7534764154283463
+Model: multi_qa_mpnet_base_cos_v1--flan_t5_small_quiz_results.json, Correct: 60/90, Avg Relevance: 0.40473959819937416
+Model: instructor_large--flan_t5_small_quiz_results.json, Correct: 61/90, Avg Relevance: 0.8391373994046398
+Model: bge_large_en--flan_t5_xl_quiz_results.json, Correct: 59/90, Avg Relevance: 0.7465364923825105
+Model: bge_large_en--flan_t5_small_quiz_results.json, Correct: 58/90, Avg Relevance: 0.7465364923825105
+Model: all_MiniLM_L6_v2--flan_t5_small_quiz_results.json, Correct: 64/90, Avg Relevance: 0.4057122311845337
+Model: instructor_large--flan_t5_base_quiz_results.json, Correct: 53/90, Avg Relevance: 0.8391373994046398
+Model: all_MiniLM_L6_v2--flan_t5_base_quiz_results.json, Correct: 62/90, Avg Relevance: 0.4057122311845337
+Model: e5_base_v2--flan_t5_xl_quiz_results.json, Correct: 63/90, Avg Relevance: 0.7534764154283463
+Model: instructor_xl--flan_t5_large_quiz_results.json, Correct: 71/90, Avg Relevance: 0.6500202609692826
+Model: bge_m3--flan_t5_xl_quiz_results.json, Correct: 68/90, Avg Relevance: 0.4033864144818549
+Model: multi_qa_mpnet_base_cos_v1--flan_t5_base_quiz_results.json, Correct: 60/90, Avg Relevance: 0.40473959819937416
+Model: static_retrieval_mrl_en_v1--flan_t5_base_quiz_results.json, Correct: 45/90, Avg Relevance: -8081.395861923956
+Model: all_MiniLM_L12_v2--flan_t5_base_quiz_results.json, Correct: 55/90, Avg Relevance: 0.3926224745980296
+Model: bge_large_en_v1.5--flan_t5_xl_quiz_results.json, Correct: 64/90, Avg Relevance: 0.508943502797658
+Model: all_mpnet_base_v2--flan_t5_base_quiz_results.json, Correct: 57/90, Avg Relevance: 0.4174687399343322
+Model: all_MiniLM_L12_v2--flan_t5_small_quiz_results.json, Correct: 57/90, Avg Relevance: 0.3926224745980296
+Model: multi_qa_mpnet_base_dot_v1--flan_t5_base_quiz_results.json, Correct: 53/90, Avg Relevance: -18.91173708825066
+Model: bge_m3--flan_t5_large_quiz_results.json, Correct: 63/90, Avg Relevance: 0.4033864144818549
+Model: instructor_xl--flan_t5_base_quiz_results.json, Correct: 62/90, Avg Relevance: 0.6500202609692826
+Model: static_retrieval_mrl_en_v1--flan_t5_small_quiz_results.json, Correct: 53/90, Avg Relevance: -8081.395861923956
+Model: all_MiniLM_L6_v2--flan_t5_large_quiz_results.json, Correct: 66/90, Avg Relevance: 0.4057122311845337
+Model: all_mpnet_base_v2--flan_t5_small_quiz_results.json, Correct: 61/90, Avg Relevance: 0.4174687399343322
+Model: all_mpnet_base_v2--flan_t5_xl_quiz_results.json, Correct: 63/90, Avg Relevance: 0.4174687399343322
+Model: bge_large_en_v1.5--flan_t5_base_quiz_results.json, Correct: 56/90, Avg Relevance: 0.508943502797658
+Model: bge_base_en_v1.5--flan_t5_xl_quiz_results.json, Correct: 62/90, Avg Relevance: 0.49804265810192244
+Model: all_MiniLM_L12_v2--flan_t5_xl_quiz_results.json, Correct: 63/90, Avg Relevance: 0.3926224745980296
+Model: instructor_large--flan_t5_xl_quiz_results.json, Correct: 64/90, Avg Relevance: 0.8391373994046398
+Model: e5_base_v2--flan_t5_large_quiz_results.json, Correct: 66/90, Avg Relevance: 0.7534764154283463
+Model: instructor_xl--flan_t5_xl_quiz_results.json, Correct: 0/90, Avg Relevance: 0.6500202609692826
+Model: bge_m3--flan_t5_base_quiz_results.json, Correct: 57/90, Avg Relevance: 0.4033864144818549
+Model: static_retrieval_mrl_en_v1--flan_t5_xl_quiz_results.json, Correct: 56/90, Avg Relevance: -8081.395861923956
+Model: bge_base_en_v1.5--flan_t5_large_quiz_results.json, Correct: 67/90, Avg Relevance: 0.49804265810192244
+Model: instructor_large--flan_t5_large_quiz_results.json, Correct: 62/90, Avg Relevance: 0.8391373994046398
+Model: bge_large_en_v1.5--flan_t5_large_quiz_results.json, Correct: 65/90, Avg Relevance: 0.508943502797658
+Model: multi_qa_mpnet_base_dot_v1--flan_t5_small_quiz_results.json, Correct: 56/90, Avg Relevance: -18.91173708825066
+Model: bge_base_en_v1.5--flan_t5_base_quiz_results.json, Correct: 58/90, Avg Relevance: 0.49804265810192244
+Model: bge_large_en--flan_t5_base_quiz_results.json, Correct: 56/90, Avg Relevance: 0.7465364923825105
+Model: multi_qa_mpnet_base_dot_v1--flan_t5_large_quiz_results.json, Correct: 60/90, Avg Relevance: -18.91173708825066
+Model: multi_qa_mpnet_base_cos_v1--flan_t5_xl_quiz_results.json, Correct: 62/90, Avg Relevance: 0.40473959819937416
+Model: all_mpnet_base_v2--flan_t5_large_quiz_results.json, Correct: 61/90, Avg Relevance: 0.4174687399343322
+Model: bge_m3--flan_t5_small_quiz_results.json, Correct: 64/90, Avg Relevance: 0.4033864144818549
+Model: bge_base_en_v1.5--flan_t5_small_quiz_results.json, Correct: 64/90, Avg Relevance: 0.49804265810192244
+Model: bge_large_en_v1.5--flan_t5_small_quiz_results.json, Correct: 62/90, Avg Relevance: 0.508943502797658
+Model: instructor_xl--flan_t5_small_quiz_results.json, Correct: 64/90, Avg Relevance: 0.6500202609692826
+Model: bge_large_en--flan_t5_large_quiz_results.json, Correct: 66/90, Avg Relevance: 0.7465364923825105
+Model: multi_qa_mpnet_base_cos_v1--flan_t5_large_quiz_results.json, Correct: 65/90, Avg Relevance: 0.40473959819937416
+Model: multi_qa_mpnet_base_dot_v1--flan_t5_xl_quiz_results.json, Correct: 58/90, Avg Relevance: -18.91173708825066
+Model: all_MiniLM_L6_v2--flan_t5_xl_quiz_results.json, Correct: 65/90, Avg Relevance: 0.4057122311845337
+Model: static_retrieval_mrl_en_v1--flan_t5_large_quiz_results.json, Correct: 53/90, Avg Relevance: -8081.395861923956
+Model: all_MiniLM_L12_v2--flan_t5_large_quiz_results.json, Correct: 61/90, Avg Relevance: 0.3926224745980296
+Model: e5_base_v2--flan_t5_small_quiz_results.json, Correct: 62/90, Avg Relevance: 0.7534764154283463
 
 config description:
 - using chunking_overlap = 200
